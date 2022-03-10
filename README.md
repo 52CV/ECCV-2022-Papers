@@ -6,3 +6,8 @@
 截稿日期：2022年3月7日(9:59PM CET, 11:59AM PST)
 
 会议日期：2022年10月24日-2022年10月28日
+
+
+#### Submitted
+* 文本识别
+  * [Text-DIAE: Degradation Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/abs/2203.04814)
