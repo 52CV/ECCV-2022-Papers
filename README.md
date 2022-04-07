@@ -13,3 +13,5 @@
   * [Text-DIAE: Degradation Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/abs/2203.04814)
 * 3D场景合成
   * [Simple and Effective Synthesis of Indoor 3D Scenes](https://arxiv.org/abs/2204.02960)<br>:tv:[video](https://www.youtube.com/watch?v=lhwwlrRfFp0)
+* 其它
+  * [Differentiable Rendering for Synthetic Aperture Radar Imagery](https://arxiv.org/abs/2204.01248)
