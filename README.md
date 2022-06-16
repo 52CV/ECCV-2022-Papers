@@ -22,6 +22,8 @@
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
 #### Submitted
+* 语音合成
+  * [VisageSynTalk: Unseen Speaker Video-to-Speech Synthesis via Speech-Visage Feature Selection](https://arxiv.org/abs/2206.07458)
 * 文本识别
   * [Text-DIAE: Degradation Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/abs/2203.04814)
 * 3D场景合成
