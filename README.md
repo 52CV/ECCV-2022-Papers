@@ -32,7 +32,9 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 7月13日更新 15 篇。
+## 7月13日更新 16 篇。
+* 量化
+  * [Synergistic Self-supervised and Quantization Learning](https://arxiv.org/abs/2207.05432)<br>:open_mouth:oral:star:[code](https://github.com/megvii-research/SSQL-ECCV2022)
 * 相机姿势
   * [Camera Pose Auto-Encoders for Improving Pose Regression](https://arxiv.org/abs/2207.05530)<br>:star:[code](https://github.com/yolish/camera-pose-auto-encoders)
 * 跟踪
@@ -118,13 +120,11 @@
 * [Image Coding for Machines with Omnipotent Feature Learning](https://arxiv.org/abs/2207.01932)
 
 
-
-
-
-
 ## Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)
 * 知识蒸馏
   * [Knowledge Condensation Distillation](https://arxiv.org/abs/2207.05409)<br>:star:[code](https://github.com/dzy3/KCD)
+* 量化
+  * [Synergistic Self-supervised and Quantization Learning](https://arxiv.org/abs/2207.05432)<br>:open_mouth:oral:star:[code](https://github.com/megvii-research/SSQL-ECCV2022)
 
 ## Point Cloud(点云)
 * [Few 'Zero Level Set'-Shot Learning of Shape Signed Distance Functions in Feature Space](https://arxiv.org/abs/2207.04161)
