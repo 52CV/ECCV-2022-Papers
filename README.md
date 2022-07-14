@@ -32,8 +32,10 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 7月14日更新 7 篇。
+## 7月14日更新 8 篇。
 
+* 线稿上色
+  * [Eliminating Gradient Conflict in Reference-based Line-Art Colorization](https://arxiv.org/abs/2207.06095)<br>:star:[code](https://github.com/kunkun0w0/SGA)
 * 语义图像编辑
   * [Context-Consistent Semantic Image Editing with Style-Preserved Modulation](https://arxiv.org/abs/2207.06252)<br>:star:[code](https://github.com/WuyangLuo/SPMPGAN)
 * 群体活动检测
@@ -179,6 +181,8 @@
 
 ## 17.GAN
 * [RepMix: Representation Mixing for Robust Attribution of Synthesized Images](https://arxiv.org/abs/2207.02063)<br>:star:[code](https://github.com/TuBui/image_attribution)
+* 线稿上色
+  * [Eliminating Gradient Conflict in Reference-based Line-Art Colorization](https://arxiv.org/abs/2207.06095)<br>:star:[code](https://github.com/kunkun0w0/SGA)
 
 <a name="16"/>
 
