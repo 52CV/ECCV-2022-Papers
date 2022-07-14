@@ -32,39 +32,22 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 7月13日更新 16 篇。
-* 量化
-  * [Synergistic Self-supervised and Quantization Learning](https://arxiv.org/abs/2207.05432)<br>:open_mouth:oral:star:[code](https://github.com/megvii-research/SSQL-ECCV2022)
-* 相机姿势
-  * [Camera Pose Auto-Encoders for Improving Pose Regression](https://arxiv.org/abs/2207.05530)<br>:star:[code](https://github.com/yolish/camera-pose-auto-encoders)
-* 跟踪
-  * [Tracking Objects as Pixel-wise Distributions](https://arxiv.org/abs/2207.05518)<br>:open_mouth:oral
-* 动作识别
-  * [Compound Prototype Matching for Few-shot Action Recognition](https://arxiv.org/abs/2207.05515)
-* 6D
-  * [Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks](https://arxiv.org/abs/2207.05444)<br>:star:[code](https://github.com/JiehongLin/Self-DPDN)
-* NAS
-  * [UniNet: Unified Architecture Search with Convolution, Transformer, and MLP](https://arxiv.org/abs/2207.05420)<br>:star:[code](https://github.com/Sense-X/UniNet)
-* 知识整理
-  * [Knowledge Condensation Distillation](https://arxiv.org/abs/2207.05409)<br>:star:[code](https://github.com/dzy3/KCD)
-* 对抗攻击
-  * [Frequency Domain Model Augmentation for Adversarial Attack](https://arxiv.org/abs/2207.05382)<br>:star:[code](https://github.com/yuyang-long/SSA)
+## 7月14日更新 7 篇。
+
+* 语义图像编辑
+  * [Context-Consistent Semantic Image Editing with Style-Preserved Modulation](https://arxiv.org/abs/2207.06252)<br>:star:[code](https://github.com/WuyangLuo/SPMPGAN)
+* 群体活动检测
+  * [Entry-Flipped Transformer for Inference and Prediction of Participant Behavior](https://arxiv.org/abs/2207.06235)
 * 目标检测
-  * [HEAD: HEtero-Assists Distillation for Heterogeneous Object Detectors](https://arxiv.org/abs/2207.05345)<br>:star:[code](https://github.com/LutingWang/HEAD)
-* Video-QA
-  * [Video Graph Transformer for Video Question Answering](https://arxiv.org/abs/2207.05342)<br>:star:[code](https://github.com/sail-sg/VGT)
-* 点云
-  * [CPO: Change Robust Panorama to Point Cloud Localization](https://arxiv.org/abs/2207.05317)
-* transformer
-  * [Outpainting by Queries](https://arxiv.org/abs/2207.05312)<br>:star:[code](https://github.com/Kaiseem/QueryOTR)
-* HOI
-  * [Towards Hard-Positive Query Mining for DETR-based Human-Object Interaction Detection](https://arxiv.org/abs/2207.05293)<br>:star:[code](https://github.com/MuchHair/HQM)
-* 图像分割
-  * [PseudoClick: Interactive Image Segmentation with Click Imitation](https://arxiv.org/abs/2207.05282)
-* 社会群体活动识别
-  * [Hunting Group Clues with Transformers for Social Group Activity Recognition](https://arxiv.org/abs/2207.05254)
+  * [Adversarially-Aware Robust Object Detector](https://arxiv.org/abs/2207.06202)<br>:open_mouth:oral:star:[code](https://github.com/7eu7d7/RobustDet)
+* 视觉表示学习
+  * [Unsupervised Visual Representation Learning by Synchronous Momentum Grouping](https://arxiv.org/abs/2207.06167)
+* 样本引导下的图像生成
+  * [DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation](https://arxiv.org/abs/2207.06124)<br>:star:[code](https://github.com/Huage001/DynaST)
+* 动作识别
+  * [Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning](https://arxiv.org/abs/2207.06101)<br>:star:[code](https://github.com/Boeun-Kim/GL-Transformer)
 * 其它
-  * [Contrastive Deep Supervision](https://arxiv.org/abs/2207.05306)<br>:star:[code](https://github.com/ArchipLab-LinfengZhang/contrastive-deep-supervision)
+  * [Organic Priors in Non-Rigid Structure from Motion](https://arxiv.org/abs/2207.06262)<br>:open_mouth:oral
 
 
 
@@ -184,6 +167,8 @@
 <a name="19"/>
 
 ## 19.Image Synthesis/Generation(图像合成)
+* 样本引导下的图像生成
+  * [DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation](https://arxiv.org/abs/2207.06124)<br>:star:[code](https://github.com/Huage001/DynaST)
 
 <a name="18"/>
 
@@ -206,6 +191,7 @@
 ## 15.Vision-Language(视觉语言)
 * 视觉表征学习
   * [Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning](https://arxiv.org/abs/2207.04978)<br>:star:[code](https://github.com/YehLi/ImageNetModel)
+  * [Unsupervised Visual Representation Learning by Synchronous Momentum Grouping](https://arxiv.org/abs/2207.06167)
 
 <a name="14"/>
 
@@ -224,10 +210,13 @@
 
 ## 12.Action Detection(人体动作检测与识别)
 * 动作识别
+  * 基于骨架动作识别
+    * [Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning](https://arxiv.org/abs/2207.06101)<br>:star:[code](https://github.com/Boeun-Kim/GL-Transformer)
   * 小样本动作识别
     * [Compound Prototype Matching for Few-shot Action Recognition](https://arxiv.org/abs/2207.05515)
 * 社会群体活动识别
   * [Hunting Group Clues with Transformers for Social Group Activity Recognition](https://arxiv.org/abs/2207.05254)
+  * [Entry-Flipped Transformer for Inference and Prediction of Participant Behavior](https://arxiv.org/abs/2207.06235)
 
 <a name="11"/>
 
@@ -278,10 +267,12 @@
 ## 6.Object Detection(目标检测)
 * [Should All Proposals be Treated Equally in Object Detection?](https://arxiv.org/abs/2207.03520)<br>:star:[code](https://github.com/liyunsheng13/dpp)
 * [HEAD: HEtero-Assists Distillation for Heterogeneous Object Detectors](https://arxiv.org/abs/2207.05345)<br>:star:[code](https://github.com/LutingWang/HEAD)
+* [Adversarially-Aware Robust Object Detector](https://arxiv.org/abs/2207.06202)<br>:open_mouth:oral:star:[code](https://github.com/7eu7d7/RobustDet)
 * 半监督目标检测
   * [Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection](https://arxiv.org/abs/2207.02541)<br>:star:[code](https://github.com/Megvii-BaseDetection/DenseTeacher)
 * 显著目标检测  
   * [SESS: Saliency Enhancing with Scaling and Sliding](https://arxiv.org/abs/2207.01769)<br>:star:[code](https://github.com/neouyghur/SESS)
+
 
 <a name="5"/>
 
@@ -306,6 +297,8 @@
   * [D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration](https://arxiv.org/abs/2207.03294)<br>:star:[code](https://github.com/zhaoyuzhi/D2HNet)
 * 图像和谐化 
   * [DCCF: Deep Comprehensible Color Filter Learning Framework for High-Resolution Image Harmonization](https://arxiv.org/abs/2207.04788)<br>:open_mouth:oral:star:[code](https://github.com/rockeyben/DCCF)
+* 语义图像编辑
+  * [Context-Consistent Semantic Image Editing with Style-Preserved Modulation](https://arxiv.org/abs/2207.06252)<br>:star:[code](https://github.com/WuyangLuo/SPMPGAN)
 
 <a name="2"/>
 
@@ -324,7 +317,7 @@
 * [Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling](https://arxiv.org/abs/2207.02196)
 * [Improving Covariance Conditioning of the SVD Meta-layer by Orthogonality](https://arxiv.org/abs/2207.02119)<br>:star:[code](https://github.com/KingJamesSong/OrthoImproveCond)
 * [Contrastive Deep Supervision](https://arxiv.org/abs/2207.05306)<br>:star:[code](https://github.com/ArchipLab-LinfengZhang/contrastive-deep-supervision)
-
+* [Organic Priors in Non-Rigid Structure from Motion](https://arxiv.org/abs/2207.06262)<br>:open_mouth:oral
   
 
 
