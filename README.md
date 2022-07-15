@@ -32,25 +32,40 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 7月14日更新 8 篇。
+## 7月15日更新 19 篇。
 
-* 线稿上色
-  * [Eliminating Gradient Conflict in Reference-based Line-Art Colorization](https://arxiv.org/abs/2207.06095)<br>:star:[code](https://github.com/kunkun0w0/SGA)
-* 语义图像编辑
-  * [Context-Consistent Semantic Image Editing with Style-Preserved Modulation](https://arxiv.org/abs/2207.06252)<br>:star:[code](https://github.com/WuyangLuo/SPMPGAN)
-* 群体活动检测
-  * [Entry-Flipped Transformer for Inference and Prediction of Participant Behavior](https://arxiv.org/abs/2207.06235)
+* VOS
+  * [XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model](https://arxiv.org/abs/2207.07115)<br>:star:[code](https://github.com/hkchengrex/XMem):house:[project](https://hkchengrex.github.io/XMem/):tv:[video](https://youtu.be/mwOP8l3zVNw)
+  * [Tackling Background Distraction in Video Object Segmentation](https://arxiv.org/abs/2207.06953)<br>:star:[code](https://github.com/suhwan-cho/TBD)
+* 渲染
+  * [Relighting4D: Neural Relightable Human from Videos](https://arxiv.org/abs/2207.07104)<br>:star:[code](https://github.com/FrozenBurning/Relighting4D):house:[project](https://frozenburning.github.io/projects/relighting4d/):tv:[video](https://www.youtube.com/watch?v=NayAw89qtsY)
+* 动作检测
+  * [ReAct: Temporal Action Detection with Relational Queries](https://arxiv.org/abs/2207.07097)<br>:star:[code](https://github.com/sssste/React)
+* 跟踪
+  * [Towards Grand Unification of Object Tracking](https://arxiv.org/abs/2207.07078)<br>:open_mouth:oral:star:[code](https://github.com/MasterBin-IIAU/Unicorn)
+* 时序动作检测
+  * [Semi-Supervised Temporal Action Detection with Proposal-Free Masking](https://arxiv.org/abs/2207.07059)<br>:star:[code](https://github.com/sauradip/SPOT)
+  * [Temporal Action Detection with Global Segmentation Mask Learning](https://arxiv.org/abs/2207.06580)<br>:star:[code](https://github.com/sauradip/TAGS)
+* 图像分类
+  * [Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation](https://arxiv.org/abs/2207.06989)<br>:star:[code](https://github.com/remiMZ/HTS-ECCV22)
 * 目标检测
-  * [Adversarially-Aware Robust Object Detector](https://arxiv.org/abs/2207.06202)<br>:open_mouth:oral:star:[code](https://github.com/7eu7d7/RobustDet)
-* 视觉表示学习
-  * [Unsupervised Visual Representation Learning by Synchronous Momentum Grouping](https://arxiv.org/abs/2207.06167)
-* 样本引导下的图像生成
-  * [DynaST: Dynamic Sparse Transformer for Exemplar-Guided Image Generation](https://arxiv.org/abs/2207.06124)<br>:star:[code](https://github.com/Huage001/DynaST)
-* 动作识别
-  * [Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning](https://arxiv.org/abs/2207.06101)<br>:star:[code](https://github.com/Boeun-Kim/GL-Transformer)
+  * [ObjectBox: From Centers to Boxes for Anchor-Free Object Detection](https://arxiv.org/abs/2207.06985)<br>:open_mouth:oral:star:[code](https://github.com/MohsenZand/ObjectBox)
+  * [Point-to-Box Network for Accurate Object Detection via Single Point Supervision](https://arxiv.org/abs/2207.06827)<br>:star:[code](https://github.com/ucas-vg/P2BNet)
+  * [Class-agnostic Object Detection with Multi-modal Transformer](arxiv.org/abs/2111.11430)<br>:star:[code](github.com/mmaaz60/mvits_for_class_agnostic_od)<br>使用多模态 ViTs 和人类可理解的文本查询来生成高质量的OP
+* OCR
+  * [Scene Text Recognition with Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)<br>:star:[code](https://github.com/baudm/parseq)
+  * [Dynamic Low-Resolution Distillation for Cost-Efficient End-to-End Text Spotting](https://arxiv.org/abs/2207.06694)<br>:star:[code](https://github.com/hikopensource/DAVAR-Lab-OCR/)
+* 基于点的衣着人体建模
+  * [Learning Implicit Templates for Point-Based Clothed Human Modeling](https://arxiv.org/abs/2207.06955)<br>:star:[code](https://github.com/jsnln/fite):house:[project](https://jsnln.github.io/fite/)
+* 图像翻译
+  * [BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks](https://arxiv.org/abs/2207.06873)<br>:star:[code](https://github.com/ExplainableML/BayesCap)
+* 医学
+  * [ConCL: Concept Contrastive Learning for Dense Prediction Pre-training in Pathology Images](https://arxiv.org/abs/2207.06733)<br>:star:[code](https://github.com/TencentAILabHealthcare/ConCL)
+* 监督学习
+  * [Supervised Attribute Information Removal and Reconstruction for Image Manipulation](https://arxiv.org/abs/2207.06555)<br>:star:[code](https://github.com/NannanLi999/AIRR)
 * 其它
-  * [Organic Priors in Non-Rigid Structure from Motion](https://arxiv.org/abs/2207.06262)<br>:open_mouth:oral
-
+  * [Bootstrapped Masked Autoencoders for Vision BERT Pretraining](https://arxiv.org/abs/2207.07116)<br>:star:[code](https://github.com/LightDXY/BootMAE)
+  * [Lipschitz Continuity Retained Binary Neural Network](https://arxiv.org/abs/2207.06540)<br>:star:[code](https://github.com/42Shawn/LCR_BNN)
 
 
 * human relighting
@@ -74,7 +89,6 @@
 
 ## Dataset(数据集)
 * [COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts](https://arxiv.org/abs/2207.04675)<br>:star:[code](https://github.com/ku21fan/COO-Comic-Onomatopoeia)<br>用于识别任意或截断文本的漫画拟声词数据集
-
 
 
 
@@ -127,6 +141,10 @@
 * [UniNet: Unified Architecture Search with Convolution, Transformer, and MLP](https://arxiv.org/abs/2207.05420)<br>:star:[code](https://github.com/Sense-X/UniNet)
 
 
+## Image Classification(图像分类)
+* 小样本图像分类
+  * [Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation](https://arxiv.org/abs/2207.06989)<br>:star:[code](https://github.com/remiMZ/HTS-ECCV22) 
+
 
 ## 25.Autonomous vehicles(自动驾驶)
 * 车辆轨迹预测
@@ -143,6 +161,9 @@
   * [Personalizing Federated Medical Image Segmentation via Local Calibration](https://arxiv.org/abs/2207.04655)<br>:star:[code](https://github.com/jcwang123/FedLC)
 * 放射科报告生成
   * [Cross-modal Prototype Driven Network for Radiology Report Generation](https://arxiv.org/abs/2207.04818)<br>:star:[code](https://github.com/Markin-Wang/XProNet)
+* 密集预测
+  * [ConCL: Concept Contrastive Learning for Dense Prediction Pre-training in Pathology Images](https://arxiv.org/abs/2207.06733)<br>:star:[code](https://github.com/TencentAILabHealthcare/ConCL)
+
 
 <a name="22"/>
 
@@ -151,13 +172,17 @@
   * [Text-DIAE: Degradation Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/abs/2203.04814)
 * 手写数学表达式识别
   * [CoMER: Modeling Coverage for Transformer-based Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2207.04410)<br>:star:[code](https://github.com/Green-Wood/CoMER)
-
+* 场景文本检测
+  * [Scene Text Recognition with Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)<br>:star:[code](https://github.com/baudm/parseq)
+  * [Dynamic Low-Resolution Distillation for Cost-Efficient End-to-End Text Spotting](https://arxiv.org/abs/2207.06694)<br>:star:[code](https://github.com/hikopensource/DAVAR-Lab-OCR/)
 <a name="21"/>
 
 ## 21.Semi/self-supervised learning(半/自监督)
 * 半监督
   * [Towards Realistic Semi-Supervised Learning](https://arxiv.org/abs/2207.02269)
   * [OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning](https://arxiv.org/abs/2207.02261)
+* 监督学习
+  * [Supervised Attribute Information Removal and Reconstruction for Image Manipulation](https://arxiv.org/abs/2207.06555)<br>:star:[code](https://github.com/NannanLi999/AIRR)
 
 
 <a name="20"/>
@@ -176,6 +201,9 @@
 
 ## 18.Image-to-Image Translation(图像到图像翻译)
 * [VecGAN: Image-to-Image Translation with Interpretable Latent Directions](https://arxiv.org/abs/2207.03411)
+* 图像翻译
+  * [BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks](https://arxiv.org/abs/2207.06873)<br>:star:[code](https://github.com/ExplainableML/BayesCap)
+
 
 <a name="17"/>
 
@@ -196,6 +224,13 @@
 * 视觉表征学习
   * [Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning](https://arxiv.org/abs/2207.04978)<br>:star:[code](https://github.com/YehLi/ImageNetModel)
   * [Unsupervised Visual Representation Learning by Synchronous Momentum Grouping](https://arxiv.org/abs/2207.06167)
+
+* VOS
+  * [XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model](https://arxiv.org/abs/2207.07115)<br>:star:[code](https://github.com/hkchengrex/XMem):house:[project](https://hkchengrex.github.io/XMem/):tv:[video](https://youtu.be/mwOP8l3zVNw)
+  * [Tackling Background Distraction in Video Object Segmentation](https://arxiv.org/abs/2207.06953)<br>:star:[code](https://github.com/suhwan-cho/TBD)
+* 渲染
+  * [Relighting4D: Neural Relightable Human from Videos](https://arxiv.org/abs/2207.07104)<br>:star:[code](https://github.com/FrozenBurning/Relighting4D):house:[project](https://frozenburning.github.io/projects/relighting4d/):tv:[video](https://www.youtube.com/watch?v=NayAw89qtsY)
+ 
 
 <a name="14"/>
 
@@ -221,6 +256,10 @@
 * 社会群体活动识别
   * [Hunting Group Clues with Transformers for Social Group Activity Recognition](https://arxiv.org/abs/2207.05254)
   * [Entry-Flipped Transformer for Inference and Prediction of Participant Behavior](https://arxiv.org/abs/2207.06235)
+* 时序动作检测
+  * [Semi-Supervised Temporal Action Detection with Proposal-Free Masking](https://arxiv.org/abs/2207.07059)<br>:star:[code](https://github.com/sauradip/SPOT)
+  * [Temporal Action Detection with Global Segmentation Mask Learning](https://arxiv.org/abs/2207.06580)<br>:star:[code](https://github.com/sauradip/TAGS)
+  * [ReAct: Temporal Action Detection with Relational Queries](https://arxiv.org/abs/2207.07097)<br>:star:[code](https://github.com/sssste/React)
 
 <a name="11"/>
 
@@ -247,6 +286,8 @@
 * [Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation](https://arxiv.org/abs/2207.02425)
 * 运动捕捉
   * [TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts](https://arxiv.org/abs/2207.01696)<br>:star:[code](https://github.com/EricGuo5513/TM2T):house:[project](https://ericguo5513.github.io/TM2T/)
+* 基于点的衣着人体建模
+  * [Learning Implicit Templates for Point-Based Clothed Human Modeling](https://arxiv.org/abs/2207.06955)<br>:star:[code](https://github.com/jsnln/fite):house:[project](https://jsnln.github.io/fite/)
 
 <a name="8"/>
 
@@ -263,6 +304,7 @@
 <a name="7"/>
 
 ## 7.Object Tracking(目标跟踪)
+* [Towards Grand Unification of Object Tracking](https://arxiv.org/abs/2207.07078)<br>:open_mouth:oral:star:[code](https://github.com/MasterBin-IIAU/Unicorn)
 * 多目标跟踪
   * [Tracking Objects as Pixel-wise Distributions](https://arxiv.org/abs/2207.05518)<br>:open_mouth:oral
 
@@ -272,6 +314,9 @@
 * [Should All Proposals be Treated Equally in Object Detection?](https://arxiv.org/abs/2207.03520)<br>:star:[code](https://github.com/liyunsheng13/dpp)
 * [HEAD: HEtero-Assists Distillation for Heterogeneous Object Detectors](https://arxiv.org/abs/2207.05345)<br>:star:[code](https://github.com/LutingWang/HEAD)
 * [Adversarially-Aware Robust Object Detector](https://arxiv.org/abs/2207.06202)<br>:open_mouth:oral:star:[code](https://github.com/7eu7d7/RobustDet)
+* [ObjectBox: From Centers to Boxes for Anchor-Free Object Detection](https://arxiv.org/abs/2207.06985)<br>:open_mouth:oral:star:[code](https://github.com/MohsenZand/ObjectBox)
+* [Point-to-Box Network for Accurate Object Detection via Single Point Supervision](https://arxiv.org/abs/2207.06827)<br>:star:[code](https://github.com/ucas-vg/P2BNet)
+* [Class-agnostic Object Detection with Multi-modal Transformer](arxiv.org/abs/2111.11430)<br>:star:[code](github.com/mmaaz60/mvits_for_class_agnostic_od)<br>使用多模态 ViTs 和人类可理解的文本查询来生成高质量的OP
 * 半监督目标检测
   * [Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection](https://arxiv.org/abs/2207.02541)<br>:star:[code](https://github.com/Megvii-BaseDetection/DenseTeacher)
 * 显著目标检测  
@@ -322,6 +367,9 @@
 * [Improving Covariance Conditioning of the SVD Meta-layer by Orthogonality](https://arxiv.org/abs/2207.02119)<br>:star:[code](https://github.com/KingJamesSong/OrthoImproveCond)
 * [Contrastive Deep Supervision](https://arxiv.org/abs/2207.05306)<br>:star:[code](https://github.com/ArchipLab-LinfengZhang/contrastive-deep-supervision)
 * [Organic Priors in Non-Rigid Structure from Motion](https://arxiv.org/abs/2207.06262)<br>:open_mouth:oral
+* [Bootstrapped Masked Autoencoders for Vision BERT Pretraining](https://arxiv.org/abs/2207.07116)<br>:star:[code](https://github.com/LightDXY/BootMAE)
+* [Lipschitz Continuity Retained Binary Neural Network](https://arxiv.org/abs/2207.06540)<br>:star:[code](https://github.com/42Shawn/LCR_BNN)
+
   
 
 
