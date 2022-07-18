@@ -21,7 +21,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 7 月 12 日，已整理 53 篇。
+## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 7 月 15 日，已整理 96 篇。
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
@@ -32,40 +32,18 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 7月15日更新 19 篇。
+## 7月18日更新 5 篇。
 
-* VOS
-  * [XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model](https://arxiv.org/abs/2207.07115)<br>:star:[code](https://github.com/hkchengrex/XMem):house:[project](https://hkchengrex.github.io/XMem/):tv:[video](https://youtu.be/mwOP8l3zVNw)
-  * [Tackling Background Distraction in Video Object Segmentation](https://arxiv.org/abs/2207.06953)<br>:star:[code](https://github.com/suhwan-cho/TBD)
-* 渲染
-  * [Relighting4D: Neural Relightable Human from Videos](https://arxiv.org/abs/2207.07104)<br>:star:[code](https://github.com/FrozenBurning/Relighting4D):house:[project](https://frozenburning.github.io/projects/relighting4d/):tv:[video](https://www.youtube.com/watch?v=NayAw89qtsY)
-* 动作检测
-  * [ReAct: Temporal Action Detection with Relational Queries](https://arxiv.org/abs/2207.07097)<br>:star:[code](https://github.com/sssste/React)
-* 跟踪
-  * [Towards Grand Unification of Object Tracking](https://arxiv.org/abs/2207.07078)<br>:open_mouth:oral:star:[code](https://github.com/MasterBin-IIAU/Unicorn)
-* 时序动作检测
-  * [Semi-Supervised Temporal Action Detection with Proposal-Free Masking](https://arxiv.org/abs/2207.07059)<br>:star:[code](https://github.com/sauradip/SPOT)
-  * [Temporal Action Detection with Global Segmentation Mask Learning](https://arxiv.org/abs/2207.06580)<br>:star:[code](https://github.com/sauradip/TAGS)
-* 图像分类
-  * [Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation](https://arxiv.org/abs/2207.06989)<br>:star:[code](https://github.com/remiMZ/HTS-ECCV22)
-* 目标检测
-  * [ObjectBox: From Centers to Boxes for Anchor-Free Object Detection](https://arxiv.org/abs/2207.06985)<br>:open_mouth:oral:star:[code](https://github.com/MohsenZand/ObjectBox)
-  * [Point-to-Box Network for Accurate Object Detection via Single Point Supervision](https://arxiv.org/abs/2207.06827)<br>:star:[code](https://github.com/ucas-vg/P2BNet)
-  * [Class-agnostic Object Detection with Multi-modal Transformer](https://arxiv.org/abs/2111.11430)<br>:star:[code](https://github.com/mmaaz60/mvits_for_class_agnostic_od)<br>使用多模态 ViTs 和人类可理解的文本查询来生成高质量的OP
-* OCR
-  * [Scene Text Recognition with Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)<br>:star:[code](https://github.com/baudm/parseq)
-  * [Dynamic Low-Resolution Distillation for Cost-Efficient End-to-End Text Spotting](https://arxiv.org/abs/2207.06694)<br>:star:[code](https://github.com/hikopensource/DAVAR-Lab-OCR/)
-* 基于点的衣着人体建模
-  * [Learning Implicit Templates for Point-Based Clothed Human Modeling](https://arxiv.org/abs/2207.06955)<br>:star:[code](https://github.com/jsnln/fite):house:[project](https://jsnln.github.io/fite/)
-* 图像翻译
-  * [BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks](https://arxiv.org/abs/2207.06873)<br>:star:[code](https://github.com/ExplainableML/BayesCap)
-* 医学
-  * [ConCL: Concept Contrastive Learning for Dense Prediction Pre-training in Pathology Images](https://arxiv.org/abs/2207.06733)<br>:star:[code](https://github.com/TencentAILabHealthcare/ConCL)
-* 监督学习
-  * [Supervised Attribute Information Removal and Reconstruction for Image Manipulation](https://arxiv.org/abs/2207.06555)<br>:star:[code](https://github.com/NannanLi999/AIRR)
-* 其它
-  * [Bootstrapped Masked Autoencoders for Vision BERT Pretraining](https://arxiv.org/abs/2207.07116)<br>:star:[code](https://github.com/LightDXY/BootMAE)
-  * [Lipschitz Continuity Retained Binary Neural Network](https://arxiv.org/abs/2207.06540)<br>:star:[code](https://github.com/42Shawn/LCR_BNN)
+* 场景流估计
+  * [Bi-PointFlowNet: Bidirectional Learning for Point Cloud Based Scene Flow Estimation](https://arxiv.org/abs/2207.07522)<br>:star:[code](https://github.com/cwc1260/BiFlow)
+* 分割
+  * [3D Instances as 1D Kernels](https://arxiv.org/abs/2207.07372)<br>:star:[code](https://github.com/W1zheng/DKNet)
+* 异常检测
+  * [Registration based Few-Shot Anomaly Detection](https://arxiv.org/abs/2207.07361)<br>:star:[code](https://github.com/MediaBrain-SJTU/RegAD)
+* GAN
+  * [WaveGAN: Frequency-aware GAN for High-Fidelity Few-shot Image Generation](https://arxiv.org/abs/2207.07288)<br>:star:[code](https://github.com/kobeshegu/ECCV2022_WaveGAN)
+* NAS
+  * [ScaleNet: Searching for the Model to Scale](https://arxiv.org/abs/2207.07267)<br>:star:[code](https://github.com/luminolx/ScaleNet)
 
 
 * human relighting
@@ -90,6 +68,16 @@
 ## Dataset(数据集)
 * [COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts](https://arxiv.org/abs/2207.04675)<br>:star:[code](https://github.com/ku21fan/COO-Comic-Onomatopoeia)<br>用于识别任意或截断文本的漫画拟声词数据集
 
+
+
+## Scene Flow Estimation(场景流估计)
+* [Bi-PointFlowNet: Bidirectional Learning for Point Cloud Based Scene Flow Estimation](https://arxiv.org/abs/2207.07522)<br>:star:[code](https://github.com/cwc1260/BiFlow)
+ 
+## Anomaly Detection(异常检测)
+* [Registration based Few-Shot Anomaly Detection](https://arxiv.org/abs/2207.07361)<br>:star:[code](https://github.com/MediaBrain-SJTU/RegAD)
+## 渲染
+* [Relighting4D: Neural Relightable Human from Videos](https://arxiv.org/abs/2207.07104)<br>:star:[code](https://github.com/FrozenBurning/Relighting4D):house:[project](https://frozenburning.github.io/projects/relighting4d/):tv:[video](https://www.youtube.com/watch?v=NayAw89qtsY)
+ 
 
 
 ## Semantic Correspondence(语义对应)
@@ -139,7 +127,7 @@
 ## Neural Architecture Search(神经架构搜索)
 * [SuperTickets: Drawing Task-Agnostic Lottery Tickets from Supernets via Jointly Architecture Searching and Parameter Pruning](https://arxiv.org/abs/2207.03677)<br>:star:[code](https://github.com/RICE-EIC/SuperTickets)
 * [UniNet: Unified Architecture Search with Convolution, Transformer, and MLP](https://arxiv.org/abs/2207.05420)<br>:star:[code](https://github.com/Sense-X/UniNet)
-
+* [ScaleNet: Searching for the Model to Scale](https://arxiv.org/abs/2207.07267)<br>:star:[code](https://github.com/luminolx/ScaleNet)
 
 ## Image Classification(图像分类)
 * 小样本图像分类
@@ -211,6 +199,8 @@
 * [RepMix: Representation Mixing for Robust Attribution of Synthesized Images](https://arxiv.org/abs/2207.02063)<br>:star:[code](https://github.com/TuBui/image_attribution)
 * 线稿上色
   * [Eliminating Gradient Conflict in Reference-based Line-Art Colorization](https://arxiv.org/abs/2207.06095)<br>:star:[code](https://github.com/kunkun0w0/SGA)
+* 图像生成
+  * [WaveGAN: Frequency-aware GAN for High-Fidelity Few-shot Image Generation](https://arxiv.org/abs/2207.07288)<br>:star:[code](https://github.com/kobeshegu/ECCV2022_WaveGAN)
 
 <a name="16"/>
 
@@ -225,12 +215,6 @@
   * [Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning](https://arxiv.org/abs/2207.04978)<br>:star:[code](https://github.com/YehLi/ImageNetModel)
   * [Unsupervised Visual Representation Learning by Synchronous Momentum Grouping](https://arxiv.org/abs/2207.06167)
 
-* VOS
-  * [XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model](https://arxiv.org/abs/2207.07115)<br>:star:[code](https://github.com/hkchengrex/XMem):house:[project](https://hkchengrex.github.io/XMem/):tv:[video](https://youtu.be/mwOP8l3zVNw)
-  * [Tackling Background Distraction in Video Object Segmentation](https://arxiv.org/abs/2207.06953)<br>:star:[code](https://github.com/suhwan-cho/TBD)
-* 渲染
-  * [Relighting4D: Neural Relightable Human from Videos](https://arxiv.org/abs/2207.07104)<br>:star:[code](https://github.com/FrozenBurning/Relighting4D):house:[project](https://frozenburning.github.io/projects/relighting4d/):tv:[video](https://www.youtube.com/watch?v=NayAw89qtsY)
- 
 
 <a name="14"/>
 
@@ -272,7 +256,9 @@
   * [FAST-VQA: Efficient End-to-end Video Quality Assessment with Fragment Sampling](https://arxiv.org/abs/2207.02595)<br>:star:[code](https://github.com/timothyhtimothy/FAST-VQA)
 * 视频对话
   * [Video Dialog as Conversation about Objects Living in Space-Time](https://arxiv.org/abs/2207.03656)<br>:star:[code](https://github.com/hoanganhpham1006/COST)
-
+* VOS
+  * [XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model](https://arxiv.org/abs/2207.07115)<br>:star:[code](https://github.com/hkchengrex/XMem):house:[project](https://hkchengrex.github.io/XMem/):tv:[video](https://youtu.be/mwOP8l3zVNw)
+  * [Tackling Background Distraction in Video Object Segmentation](https://arxiv.org/abs/2207.06953)<br>:star:[code](https://github.com/suhwan-cho/TBD)
 
 <a name="10"/>
 
@@ -357,6 +343,7 @@
   * [2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds](https://arxiv.org/abs/2207.04397)<br>:star:[code](https://github.com/yanx27/2DPASS)
 * 实例分割 
   * [OSFormer: One-Stage Camouflaged Instance Segmentation with Transformers](https://arxiv.org/abs/2207.02255)<br>:star:[code](https://github.com/PJLallen/OSFormer)
+  * [3D Instances as 1D Kernels](https://arxiv.org/abs/2207.07372)<br>:star:[code](https://github.com/W1zheng/DKNet)
 
 <a name="1"/>
 
