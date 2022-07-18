@@ -39,7 +39,7 @@
 * 分割
   * [3D Instances as 1D Kernels](https://arxiv.org/abs/2207.07372)<br>:star:[code](https://github.com/W1zheng/DKNet)
 * 异常检测
-  * [Registration based Few-Shot Anomaly Detection](https://arxiv.org/abs/2207.07361)<br>:star:[code](https://github.com/MediaBrain-SJTU/RegAD)
+  * [Registration based Few-Shot Anomaly Detection](https://arxiv.org/abs/2207.07361)<br>:open_mouth:oral:star:[code](https://github.com/MediaBrain-SJTU/RegAD)
 * GAN
   * [WaveGAN: Frequency-aware GAN for High-Fidelity Few-shot Image Generation](https://arxiv.org/abs/2207.07288)<br>:star:[code](https://github.com/kobeshegu/ECCV2022_WaveGAN)
 * NAS
@@ -74,7 +74,7 @@
 * [Bi-PointFlowNet: Bidirectional Learning for Point Cloud Based Scene Flow Estimation](https://arxiv.org/abs/2207.07522)<br>:star:[code](https://github.com/cwc1260/BiFlow)
  
 ## Anomaly Detection(异常检测)
-* [Registration based Few-Shot Anomaly Detection](https://arxiv.org/abs/2207.07361)<br>:star:[code](https://github.com/MediaBrain-SJTU/RegAD)
+* [Registration based Few-Shot Anomaly Detection](https://arxiv.org/abs/2207.07361)<br>:open_mouth:oral:star:[code](https://github.com/MediaBrain-SJTU/RegAD)
 ## 渲染
 * [Relighting4D: Neural Relightable Human from Videos](https://arxiv.org/abs/2207.07104)<br>:star:[code](https://github.com/FrozenBurning/Relighting4D):house:[project](https://frozenburning.github.io/projects/relighting4d/):tv:[video](https://www.youtube.com/watch?v=NayAw89qtsY)
  
