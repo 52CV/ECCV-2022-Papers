@@ -32,7 +32,7 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 7月18日更新 38 篇。
+## 7月18日更新 39 篇。
 
 * VQA
   * [Rethinking Data Augmentation for Robust Visual Question Answering](https://arxiv.org/abs/2207.08739)<br>:star:[code](https://github.com/ItemZheng/KDDAug)
@@ -104,6 +104,7 @@
 * 其它
   * [NeFSAC: Neurally Filtered Minimal Samples](https://arxiv.org/abs/2207.07872)<br>:star:[code](https://github.com/cavalli1234/NeFSAC)
   * [Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search](https://arxiv.org/abs/2207.08350)
+  * [Latency-Aware Collaborative Perception](https://arxiv.org/abs/2207.08560)<br>:star:[code](https://github.com/MediaBrain-SJTU/SyncNet)
 
 
 
@@ -474,7 +475,7 @@
 * [Lipschitz Continuity Retained Binary Neural Network](https://arxiv.org/abs/2207.06540)<br>:star:[code](https://github.com/42Shawn/LCR_BNN)
 * [NeFSAC: Neurally Filtered Minimal Samples](https://arxiv.org/abs/2207.07872)<br>:star:[code](https://github.com/cavalli1234/NeFSAC)
 * [Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search](https://arxiv.org/abs/2207.08350)
-
+* [Latency-Aware Collaborative Perception](https://arxiv.org/abs/2207.08560)<br>:star:[code](https://github.com/MediaBrain-SJTU/SyncNet)
 
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
