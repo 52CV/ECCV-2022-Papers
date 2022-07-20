@@ -32,7 +32,7 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 7月20日更新 27 篇。
+## 7月20日更新 28 篇。
 * 目标检测
   * [PoserNet: Refining Relative Camera Poses Exploiting Object Detections](https://arxiv.org/abs/2207.09445)<br>:star:[code](https://github.com/IIT-PAVIS/PoserNet)
   * [Rethinking IoU-based Optimization for Single-stage 3D Object Detection](https://arxiv.org/abs/2207.09332)<br>:star:[code](https://github.com/hlsheng1/RDIoU)
@@ -79,6 +79,8 @@
   * [Self-Supervised Interactive Object Segmentation Through a Singulation-and-Grasping Approach](https://arxiv.org/abs/2207.09314)<br>:house:[project](https://sites.google.com/umn.edu/sag-interactive-segmentation)
 * 域适应
   * [Prior Knowledge Guided Unsupervised Domain Adaptation](https://arxiv.org/abs/2207.08877)<br>:star:[code](https://github.com/tsun/KUDA)
+* 姿势
+  * [DH-AUG: DH Forward Kinematics Model Driven Augmentation for 3D Human Pose Estimation](https://arxiv.org/abs/2207.09303)<br>:star:[code](https://github.com/hlz0606/DH-AUG-DH-Forward-Kinematics-Model-Driven-Augmentation-for-3D-Human-Pose-Estimation)
 * 其它
   * [MHR-Net: Multiple-Hypothesis Reconstruction of Non-Rigid Shapes from 2D Views](https://arxiv.org/abs/2207.09086)
   * [SelectionConv: Convolutional Neural Networks for Non-rectilinear Image Data](https://arxiv.org/abs/2207.08979)
@@ -380,7 +382,8 @@
   * [Learning Implicit Templates for Point-Based Clothed Human Modeling](https://arxiv.org/abs/2207.06955)<br>:star:[code](https://github.com/jsnln/fite):house:[project](https://jsnln.github.io/fite/)
 * 动态人体数字化
   * [NDF: Neural Deformable Fields for Dynamic Human Modelling](https://arxiv.org/abs/2207.09193)<br>:star:[code](https://github.com/HKBU-VSComputing/2022_ECCV_NDF)
-
+* 三维人体姿势估计
+  * [DH-AUG: DH Forward Kinematics Model Driven Augmentation for 3D Human Pose Estimation](https://arxiv.org/abs/2207.09303)<br>:star:[code](https://github.com/hlz0606/DH-AUG-DH-Forward-Kinematics-Model-Driven-Augmentation-for-3D-Human-Pose-Estimation)
 
 <a name="8"/>
 
