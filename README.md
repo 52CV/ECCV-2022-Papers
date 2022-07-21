@@ -32,7 +32,7 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 7月21日更新 45 篇。
+## 7月21日更新 46 篇。
 * 偏见识别
   * [Discover and Mitigate Unknown Biases with Debiasing Alternate Networks](https://arxiv.org/abs/2207.10077)<br>:star:[code](https://github.com/zhihengli-UR/DebiAN)
 * 三维目标重建
@@ -101,6 +101,8 @@
   * [Invariant Feature Learning for Generalized Long-Tailed Classification](https://arxiv.org/abs/2207.09504)<br>:star:[code](https://github.com/KaihuaTang/Generalized-Long-Tailed-Benchmarks.pytorch)
 * Transformer
   * [Locality Guidance for Improving Vision Transformers on Tiny Datasets](https://arxiv.org/abs/2207.10026)<br>:star:[code](https://github.com/lkhl/tiny-transformers)
+* 图像增强
+  * [Uncertainty Inspired Underwater Image Enhancement](https://arxiv.org/abs/2207.09689)<br>:star:[code](https://github.com/zhenqifu/PUIE-Net)
 * 其它
   * [Overcoming Shortcut Learning in a Target Domain by Generalizing Basic Visual Factors from a Source Domain](https://arxiv.org/abs/2207.10002)<br>:star:[code](https://github.com/boschresearch/sourcegen)
   * [Discrete-Constrained Regression for Local Counting Models](https://arxiv.org/abs/2207.09865)
@@ -540,6 +542,7 @@
   * [D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration](https://arxiv.org/abs/2207.03294)<br>:star:[code](https://github.com/zhaoyuzhi/D2HNet)
 * 图像增强
   * [SepLUT: Separable Image-adaptive Lookup Tables for Real-time Image Enhancement](https://arxiv.org/abs/2207.08351)
+  * [Uncertainty Inspired Underwater Image Enhancement](https://arxiv.org/abs/2207.09689)<br>:star:[code](https://github.com/zhenqifu/PUIE-Net)
 * 图像和谐化 
   * [DCCF: Deep Comprehensible Color Filter Learning Framework for High-Resolution Image Harmonization](https://arxiv.org/abs/2207.04788)<br>:open_mouth:oral:star:[code](https://github.com/rockeyben/DCCF)
 * 去噪
