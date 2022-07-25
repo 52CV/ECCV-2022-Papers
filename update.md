@@ -1,3 +1,96 @@
+## 7 月 22 日 更新 48 篇
+* 分割
+  * [Online Domain Adaptation for Semantic Segmentation in Ever-Changing Conditions](https://arxiv.org/abs/2207.10667)<br>:star:[code](https://github.com/theo2021/OnDA)
+* Transformer
+  * [TinyViT: Fast Pretraining Distillation for Small Vision Transformers](https://arxiv.org/abs/2207.10666)<br>:star:[code](https://github.com/microsoft/Cream/tree/main/TinyViT)
+  * [MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis](https://arxiv.org/abs/2207.10228)
+* 分类
+  * [Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset](https://arxiv.org/abs/2207.10664)<br>:star:[code](https://github.com/visipedia/ssw60)
+* VIS
+  * [In Defense of Online Models for Video Instance Segmentation](https://arxiv.org/abs/2207.10661)<br><br>:open_mouth:oral:star:[code](https://github.com/wjf5203/VNext)
+* VSS
+  * [Mining Relations among Cross-Frame Affinities for Video Semantic Segmentation](https://arxiv.org/abs/2207.10436)<br>:star:[code](https://github.com/GuoleiSun/VSS-MRCFA)
+* 新类别发现(Novel Class Discovery)
+  * [Novel Class Discovery without Forgetting](https://arxiv.org/abs/2207.10659)
+* GAN
+  * [Generative Multiplane Images: Making a 2D GAN 3D-Aware](https://arxiv.org/abs/2207.10642)<br>:star:[code](https://github.com/apple/ml-gmpi):house:[project](https://xiaoming-zhao.github.io/projects/gmpi/)
+* 渲染
+  * [Approximate Differentiable Rendering with Algebraic Surfaces](https://arxiv.org/abs/2207.10606)<br>:star:[code](https://github.com/leonidk/fuzzy-metaballs):house:[project](https://leonidk.github.io/fuzzy-metaballs/)
+  * [AdaNeRF: Adaptive Sampling for Real-time Rendering of Neural Radiance Fields](https://arxiv.org/abs/2207.10312)<br>:star:[code](https://github.com/thomasneff/AdaNeRF):house:[project](https://thomasneff.github.io/adanerf/)
+  * [Generalizable Patch-Based Neural Rendering](https://arxiv.org/abs/2207.10662)<br>:open_mouth:oral:star:[code](https://github.com/google-research/google-research/tree/master/gen_patch_neural_rendering):house:[project](https://mohammedsuhail.net/gen_patch_neural_rendering/)
+* 图像增强
+  * [Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression](https://arxiv.org/abs/2207.10564)<br>:star:[code](https://github.com/jinyeying/night-enhancement)
+* 动作检测
+  * [An Efficient Spatio-Temporal Pyramid Transformer for Action Detection](https://arxiv.org/abs/2207.10448)
+* 目标定位
+  * [Weakly Supervised Object Localization via Transformer with Implicit Spatial Calibration](https://arxiv.org/abs/2207.10447)<br>:star:[code](https://github.com/164140757/SCM)
+  * [On Label Granularity and Object Localization](https://arxiv.org/abs/2207.10225)
+* 行人轨迹预测
+  * [Human Trajectory Prediction via Neural Social Physics](https://arxiv.org/abs/2207.10435)<br>:star:[code](https://github.com/realcrane/Human-Trajectory-Prediction-via-Neural-Social-Physics)
+* 车辆轨迹预测
+  * [D2-TPred: Discontinuous Dependency for Trajectory Prediction under Traffic Lights](https://arxiv.org/abs/2207.10398)<br>:star:[code](https://github.com/VTP-TL/D2-TPred)
+* 密集预测
+  * [FADE: Fusing the Assets of Decoder and Encoder for Task-Agnostic Upsampling](https://arxiv.org/abs/2207.10392)<br>:star:[code](https://github.com/poppinace/fade)
+* 视频修复
+  * [Error Compensation Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2207.10391)
+* 变分自动编码器(VAEs) 
+  * [Continual Variational Autoencoder Learning via Online Cooperative Memorization](https://arxiv.org/abs/2207.10131)<br>:star:[code](https://github.com/dtuzi123/OVAE)
+* 声音分离
+  * [AudioScopeV2: Audio-Visual Attention Architectures for Calibrated Open-Domain On-Screen Sound Separation](https://arxiv.org/abs/2207.10141)
+* 三维重建
+  * [Structural Causal 3D Reconstruction](https://arxiv.org/abs/2207.10156)
+  * [2D GANs Meet Unsupervised Single-view 3D Reconstruction](https://arxiv.org/abs/2207.10183)<br>:star:[code](https://github.com/liuf1990/GANSVR):house:[project](http://cvlab.cse.msu.edu/project-gansvr.html)
+* 元学习
+  * [Bitwidth-Adaptive Quantization-Aware Neural Network Training: A Meta-Learning Approach](https://arxiv.org/abs/2207.10188)
+* 数据集
+  * [BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis](https://arxiv.org/abs/2207.10120)<br>:sunflower:[dataset](https://github.com/dmoltisanti/brace/)<br>用于舞蹈动作合成的霹雳舞比赛数据集
+* 去模糊
+  * [Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance](https://arxiv.org/abs/2207.10123)<br>:star:[code](https://github.com/zzh-tech/Animation-from-Blur)
+* 长尾
+  * [Tackling Long-Tailed Category Distribution Under Domain Shifts](https://arxiv.org/abs/2207.10150)<br>:star:[code](https://github.com/guxiao0822/lt-ds):house:[project](https://xiaogu.site/LTDS/)
+* 分类
+  * [Visual Knowledge Tracing](https://arxiv.org/abs/2207.10157)<br>:star:[code](https://github.com/nkondapa/VisualKnowledgeTracing)
+* 自监督
+  * [GOCA: Guided Online Cluster Assignment for Self-Supervised Video Representation Learning](https://arxiv.org/abs/2207.10158)<br>:star:[code](https://github.com/Seleucia/goca)
+* 视频异常检测
+  * [Video Anomaly Detection by Solving Decoupled Spatio-Temporal Jigsaw Puzzles](https://arxiv.org/abs/2207.10172)<br>:star:[code](https://github.com/wizyoung/YOLOv3)
+* 人脸识别
+  * [Controllable and Guided Face Synthesis for Unconstrained Face Recognition](https://arxiv.org/abs/2207.10180)<br>:star:[code](https://github.com/liuf1990/CFSM):house:[project](http://cvlab.cse.msu.edu/project-cfsm.html)
+* 视频理解
+  * [Spotting Temporally Precise, Fine-Grained Events in Video](https://arxiv.org/abs/2207.10213)<br>:star:[code](https://github.com/jhong93/spot):house:[project](https://jhong93.github.io/projects/spot.html)
+* 文本识别
+  * [SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://arxiv.org/abs/2207.10256)
+* 图像合成
+  * [Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis](https://arxiv.org/abs/2207.10257)<br>:star:[code](https://github.com/jgkwak95/SURF-GAN):house:[project](https://jgkwak95.github.io/surfgan/)
+  * [DeltaGAN: Towards Diverse Few-shot Image Generation with Sample-Specific Delta](https://arxiv.org/abs/2207.10271)<br>:star:[code](https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation)
+* 域泛化
+  * [Grounding Visual Representations with Texts for Domain Generalization](https://arxiv.org/abs/2207.10285)<br>:star:[code](https://github.com/mswzeus/GVRT)
+* 开集识别
+  * [Towards Accurate Open-Set Recognition via Background-Class Regularization](https://arxiv.org/abs/2207.10287)
+* 点云
+  * [SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer](https://arxiv.org/abs/2207.10315)<br>:star:[code](https://github.com/hrzhou2/seedformer)
+* 目标检测
+  * [AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection](https://arxiv.org/abs/2207.10316)<br>:star:[code](https://github.com/zehuichen123/AutoAlignV2)
+* 行人搜索
+  * [OIMNet++: Prototypical Normalization and Localization-aware Learning for Person Search](https://arxiv.org/abs/2207.10320)<br>:house:[project](https://cvlab.yonsei.ac.kr/projects/OIMNetPlus/)
+* SR
+  * [CADyQ: Content-Aware Dynamic Quantization for Image Super-Resolution](https://arxiv.org/abs/2207.10345)<br>:star:[code](https://github.com/Cheeun/CADyQ)
+* 视频检索
+  * [LocVTP: Video-Text Pre-training for Temporal Localization](https://arxiv.org/abs/2207.10362)<br>:star:[code](https://github.com/mengcaopku/LocVTP)
+* 视频识别
+  * [Temporal Saliency Query Network for Efficient Video Recognition](https://arxiv.org/abs/2207.10379)<br>:house:[project](https://lawrencexia2008.github.io/projects/tsqnet)
+  * [NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition](https://arxiv.org/abs/2207.10388)<br>:house:[project](https://lawrencexia2008.github.io/projects/nsnet)
+* 2D Pose
+  * [Pose for Everything: Towards Category-Agnostic Pose Estimation](https://arxiv.org/abs/2207.10387)<br>:open_mouth:oral:star:[code](https://github.com/luminxu/Pose-for-Everything)
+
+* 其它
+  * [Latent Discriminant deterministic Uncertainty](https://arxiv.org/abs/2207.10130)<br>:star:[code](https://github.com/ENSTA-U2IS/LDU)
+  * [SPIN: An Empirical Evaluation on Sharing Parameters of Isotropic Networks](https://arxiv.org/abs/2207.10237)<br>:star:[code](https://github.com/apple/ml-spin)
+  * [UFO: Unified Feature Optimization](https://arxiv.org/abs/2207.10341)<br>:star:[code](https://github.com/PaddlePaddle/VIMER/tree/main/UFO)
+
+
+
+
 ## 7月21日更新 46 篇。
 * 偏见识别
   * [Discover and Mitigate Unknown Biases with Debiasing Alternate Networks](https://arxiv.org/abs/2207.10077)<br>:star:[code](https://github.com/zhihengli-UR/DebiAN)
