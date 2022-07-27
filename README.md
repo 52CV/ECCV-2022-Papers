@@ -34,9 +34,10 @@
 
 
 
-## 7月27日更新 14 篇
+## 7月27日更新 15 篇
 * 目标检测
   * [Monocular 3D Object Detection with Depth from Motion](https://arxiv.org/abs/2207.12988)<br>:open_mouth:oral:star:[code](https://github.com/Tai-Wang/Depth-from-Motion)
+  * [MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection with Pretrained Monocular Backbones](https://arxiv.org/abs/2207.12716)<br>:open_mouth:oral:star:[code](https://github.com/Tai-Wang/Depth-from-Motion)
 * VL
   * [NewsStories: Illustrating articles with visual summaries](https://arxiv.org/abs/2207.13061)<br>:star:[code](https://github.com/NewsStoriesData/newsstories.github.io)
 * 知识蒸馏
@@ -597,6 +598,7 @@
   * [DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection](https://arxiv.org/abs/2207.10758)<br>:star:[code](https://github.com/abhi1kumar/DEVIANT)
   * [Label-Guided Auxiliary Training Improves 3D Object Detector](https://arxiv.org/abs/2207.11753)<br>:star:[code](https://github.com/FabienCode/LG3D)
   * [Monocular 3D Object Detection with Depth from Motion](https://arxiv.org/abs/2207.12988)<br>:open_mouth:oral:star:[code](https://github.com/Tai-Wang/Depth-from-Motion)
+  * [MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection with Pretrained Monocular Backbones](https://arxiv.org/abs/2207.12716)<br>:open_mouth:oral:star:[code](https://github.com/Tai-Wang/Depth-from-Motion)
 * 半监督目标检测
   * [Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection](https://arxiv.org/abs/2207.02541)<br>:star:[code](https://github.com/Megvii-BaseDetection/DenseTeacher)
 * 小样本目标检测
