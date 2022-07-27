@@ -34,75 +34,34 @@
 
 
 
-## 7 月 26 日 更新 38 篇
-* 点云
-  * [Dynamic 3D Scene Analysis by Point Cloud Accumulation](https://arxiv.org/abs/2207.12394)<br>:star:[code](https://github.com/prs-eth/PCAccumulation):house:[project](https://shengyuh.github.io/eccv22/index.html)
-* 数据集
-  * [CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://arxiv.org/abs/2207.12393)<br>:sunflower:[dataset](https://github.com/CelebV-HQ/CelebV-HQ):house:[project](https://celebv-hq.github.io/)
-* 对抗
-  * [SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness](https://arxiv.org/abs/2207.12391)
-* 域适应
-  * [MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation](https://arxiv.org/abs/2207.12389)<br>:star:[code](https://github.com/ViLab-UCSD/MemSAC_ECCV2022):house:[project](https://tarun005.github.io/MemSAC/)
-* 渲染
-  * [Deforming Radiance Fields with Cages](https://arxiv.org/abs/2207.12298)<br>:star:[code](https://github.com/xth430/deforming-nerf):house:[project](https://xth430.github.io/deforming-nerf/)
-  * [NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing](https://arxiv.org/abs/2207.11911)<br>:open_mouth:oral:star:[code](https://github.com/zju3dv/neumesh):house:[project](https://zju3dv.github.io/neumesh/)
+## 7月27日更新 14 篇
 * 目标检测
-  * [Active Learning Strategies for Weakly-supervised Object Detection](https://arxiv.org/abs/2207.12112)<br>:star:[code](https://github.com/huyvvo/BiB)
-  * [W2N:Switching From Weak Supervision to Noisy Supervision for Object Detection](https://arxiv.org/abs/2207.12104)<br>:star:[code](https://github.com/1170300714/w2n_wsod)
-  * [Salient Object Detection for Point Clouds](https://arxiv.org/abs/2207.11889)<br>:star:[code](https://git.openi.org.cn/OpenPointCloud/PCSOD)
-  * [Label-Guided Auxiliary Training Improves 3D Object Detector](https://arxiv.org/abs/2207.11753)<br>:star:[code](https://github.com/FabienCode/LG3D)
-  * [UC-OWOD: Unknown-Classified Open World Object Detection](https://arxiv.org/abs/2207.11455)<br>:star:[code](https://github.com/JohnWuzh/UC-OWOD)
+  * [Monocular 3D Object Detection with Depth from Motion](https://arxiv.org/abs/2207.12988)<br>:open_mouth:oral:star:[code](https://github.com/Tai-Wang/Depth-from-Motion)
+* VL
+  * [NewsStories: Illustrating articles with visual summaries](https://arxiv.org/abs/2207.13061)<br>:star:[code](https://github.com/NewsStoriesData/newsstories.github.io)
 * 知识蒸馏
-  * [Black-box Few-shot Knowledge Distillation](https://arxiv.org/abs/2207.12106)<br>:star:[code](https://github.com/nphdang/FS-BBT)
-* HOI
-  * [IGFormer: Interaction Graph Transformer for Skeleton-based Human Interaction Recognition](https://arxiv.org/abs/2207.12100)
-* 持续学习
-  * [Balancing Stability and Plasticity through Advanced Null Space in Continual Learning](https://arxiv.org/abs/2207.12061)<br>:open_mouth:oral
+  * [Efficient One Pass Self-distillation with Zipf's Label Smoothing](https://arxiv.org/abs/2207.12980)<br>:star:[code](https://github.com/megvii-research/zipfls)
 * 跟踪
-  * [3D Siamese Transformer Network for Single Object Tracking on Point Clouds](https://arxiv.org/abs/2207.11995)<br>:star:[code](https://github.com/fpthink/STNet)
-* 深度估计
-  * [RA-Depth: Resolution Adaptive Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2207.11984)<br>:star:[code](https://github.com/hmhemu/RA-Depth)
-* SR
-  * [Reference-based Image Super-Resolution with Deformable Attention Transformer](https://arxiv.org/abs/2207.11938)<br>:star:[code](https://github.com/caojiezhang/DATSR)
-* OCR
-  * [Optimal Boxes: Boosting End-to-End Scene Text Recognition by Adjusting Annotated Bounding Boxes via Reinforcement Learning](https://arxiv.org/abs/2207.11934)
-* 行人搜索
-  * [Domain Adaptive Person Search](https://arxiv.org/abs/2207.11898)<br>:open_mouth:oral:star:[code](https://github.com/caposerenity/DAPS)
-* 人脸聚类
-  * [On Mitigating Hard Clusters for Face Clustering](https://arxiv.org/abs/2207.11895)<br>:open_mouth:oral:star:[code](https://github.com/echoanran/On-Mitigating-Hard-Clusters)
-* 小样本
-  * [VizWiz-FewShot: Locating Objects in Images Taken by People With Visual Impairments](https://arxiv.org/abs/2207.11810)<br>:house:[project](https://vizwiz.org/)
-* 时序动作检测
-  * [Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions](https://arxiv.org/abs/2207.11805)<br>:star:[code](https://github.com/lizhi1104/HAAN)
-* 3D形状合成
-  * [Cross-Modal 3D Shape Generation and Manipulation](https://arxiv.org/abs/2207.11795)<br>:star:[code](https://github.com/snap-research/edit3d):house:[project](https://people.cs.umass.edu/~zezhoucheng/edit3d/)
-* 谈话头像合成
-  * [Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://arxiv.org/abs/2207.11770)<br>:star:[code](https://github.com/sstzal/DFRF):house:[project](https://sstzal.github.io/DFRF/)
-* 视频卷帘快门(Rolling shutter)
-  * [Combining Internal and External Constraints for Unrolling Shutter in Videos](https://arxiv.org/abs/2207.11725)
-* 姿势合成
-  * [TIPS: Text-Induced Pose Synthesis](https://arxiv.org/abs/2207.11718)<br>:star:[code](https://github.com/prasunroy/tips):house:[project](https://prasunroy.github.io/tips/)
-* 域泛化
-  * [Improving Test-Time Adaptation via Shift-agnostic Weight Regularization and Nearest Source Prototypes](https://arxiv.org/abs/2207.11707)
-* 风格迁移
-  * [Learning Graph Neural Networks for Image Style Transfer](https://arxiv.org/abs/2207.11681)
-* 分割
-  * [Self-Support Few-Shot Semantic Segmentation](https://arxiv.org/abs/2207.11549)<br>:star:[code](https://github.com/fanq15/SSP)
-  * [Active Pointly-Supervised Instance Segmentation](https://arxiv.org/abs/2207.11493)
-* 视图合成
-  * [CompNVS: Novel View Synthesis with Scene Completion](https://arxiv.org/abs/2207.11467)
-* 手写数学表达式识别
-  * [When Counting Meets HMER: Counting-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2207.11463)<br>:star:[code](https://github.com/LBH1024/CAN)
-* SGG
-  * [Meta Spatio-Temporal Debiasing for Video Scene Graph Generation](https://arxiv.org/abs/2207.11441)
-* MVPS
-  * [PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo](https://arxiv.org/abs/2207.11406)<br>:house:[project](https://ywq.github.io/psnerf/)
-* Transformer
-  * [An Impartial Take to the CNN vs Transformer Robustness Contest](https://arxiv.org/abs/2207.11347)
+  * [Tracking Every Thing in the Wild](https://arxiv.org/abs/2207.12978)
+* OCR 
+  * [Contextual Text Block Detection towards Scene Text Understanding](https://arxiv.org/abs/2207.12955)<br>:house:[project](https://sg-vilab.github.io/publication/xue2022contextual/)
+* 手物重建
+  * [AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction](https://arxiv.org/abs/2207.12909)<br>:star:[code](https://github.com/zerchen/alignsdf):house:[project](https://zerchen.github.io/projects/alignsdf.html)
+* 人体与场景的交互
+  * [Compositional Human-Scene Interaction Synthesis with Semantic Control](https://arxiv.org/abs/2207.12824)<br>:star:[code](https://github.com/zkf1997/COINS)
+* 视频表征学习
+  * [Static and Dynamic Concepts for Self-supervised Video Representation Learning](https://arxiv.org/abs/2207.12795)
+* 视觉表征
+  * [Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training](https://arxiv.org/abs/2207.12661)<br>:star:[code](https://github.com/Hxyou/MSCLIP)
+* 三维形状
+  * [3D Shape Sequence of Human Comparison and Classification using Current and Varifolds](https://arxiv.org/abs/2207.12485)<br>:star:[code](https://github.com/CRISTAL-3DSAM/HumanComparisonVarifolds)
+* 半监督
+  * [Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning](https://arxiv.org/abs/2207.12535)<br>:star:[code](https://github.com/xinleihe/Semi-Leak)
+* 剪枝
+  * [Trainability Preserving Neural Structured Pruning](https://arxiv.org/abs/2207.12534)<br>:star:[code](https://github.com/mingsun-tse/TPP)
 * 其它
-  * [Equivariance and Invariance Inductive Bias for Learning from Insufficient Data](https://arxiv.org/abs/2207.12258)<br>:star:[code](https://github.com/Wangt-CN/EqInv)
-  * [Contrastive Monotonic Pixel-Level Modulation](https://arxiv.org/abs/2207.11517)<br>:open_mouth:oral:star:[code](https://github.com/lukun199/MonoPix)
-  * [Neural-Sim: Learning to Generate Training Data with NeRF](https://arxiv.org/abs/2207.11368)<br>:star:[code](https://github.com/gyhandy/Neural-Sim-NeRF)
+  * [Learning Hierarchy Aware Features for Reducing Mistake Severity](https://arxiv.org/abs/2207.12646)<br>:star:[code](https://github.com/07Agarg/HAF)
+  * [Translating a Visual LEGO Manual to a Machine-Executable Plan](https://arxiv.org/abs/2207.12572)<br>:star:[code](https://github.com/Relento/lego_release):house:[project](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
 
 
 
@@ -244,10 +203,12 @@
   * [Knowledge Condensation Distillation](https://arxiv.org/abs/2207.05409)<br>:star:[code](https://github.com/dzy3/KCD)
   * [FedX: Unsupervised Federated Learning with Cross Knowledge Distillation](https://arxiv.org/abs/2207.09158)<br>:star:[code](https://github.com/Sungwon-Han/FEDX)
   * [Black-box Few-shot Knowledge Distillation](https://arxiv.org/abs/2207.12106)<br>:star:[code](https://github.com/nphdang/FS-BBT)
+  * [Efficient One Pass Self-distillation with Zipf's Label Smoothing](https://arxiv.org/abs/2207.12980)<br>:star:[code](https://github.com/megvii-research/zipfls)
 * 量化
   * [Synergistic Self-supervised and Quantization Learning](https://arxiv.org/abs/2207.05432)<br>:open_mouth:oral:star:[code](https://github.com/megvii-research/SSQL-ECCV2022)
 * 剪枝
   * [FairGRAPE: Fairness-aware GRAdient Pruning mEthod for Face Attribute Classification](https://arxiv.org/abs/2207.10888)<br>:star:[code](https://github.com/Bernardo1998/FairGRAPE)
+  * [Trainability Preserving Neural Structured Pruning](https://arxiv.org/abs/2207.12534)<br>:star:[code](https://github.com/mingsun-tse/TPP)
 
 ## Point Cloud(点云)
 * [Few 'Zero Level Set'-Shot Learning of Shape Signed Distance Functions in Feature Space](https://arxiv.org/abs/2207.04161)
@@ -359,6 +320,7 @@
   * [Dynamic Low-Resolution Distillation for Cost-Efficient End-to-End Text Spotting](https://arxiv.org/abs/2207.06694)<br>:star:[code](https://github.com/hikopensource/DAVAR-Lab-OCR/)
   * [SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://arxiv.org/abs/2207.10256)
   * [Optimal Boxes: Boosting End-to-End Scene Text Recognition by Adjusting Annotated Bounding Boxes via Reinforcement Learning](https://arxiv.org/abs/2207.11934)
+  * [Contextual Text Block Detection towards Scene Text Understanding](https://arxiv.org/abs/2207.12955)<br>:house:[project](https://sg-vilab.github.io/publication/xue2022contextual/)  
 * 视频文本检测
   * [Real-time End-to-End Video Text Spotter with Contrastive Representation Learning](https://arxiv.org/abs/2207.08417)<br>:star:[code](https://github.com/weijiawu/CoText)
 
@@ -370,6 +332,7 @@
 * 半监督
   * [Towards Realistic Semi-Supervised Learning](https://arxiv.org/abs/2207.02269)
   * [OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning](https://arxiv.org/abs/2207.02261)
+  * [Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning](https://arxiv.org/abs/2207.12535)<br>:star:[code](https://github.com/xinleihe/Semi-Leak)
 * 监督学习
   * [Supervised Attribute Information Removal and Reconstruction for Image Manipulation](https://arxiv.org/abs/2207.06555)<br>:star:[code](https://github.com/NannanLi999/AIRR)
   * [Tailoring Self-Supervision for Supervised Learning](https://arxiv.org/abs/2207.10023)<br>:star:[code](https://github.com/wjun0830/Localizable-Rotation)
@@ -434,10 +397,11 @@
 
 ## 15.Vision-Language(视觉语言)
 * [FashionViL: Fashion-Focused Vision-and-Language Representation Learning](https://arxiv.org/abs/2207.08150)<br>:star:[code](https://github.com/BrandonHanx/mmf)
+* [NewsStories: Illustrating articles with visual summaries](https://arxiv.org/abs/2207.13061)<br>:star:[code](https://github.com/NewsStoriesData/newsstories.github.io)
 * 视觉表征学习
   * [Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning](https://arxiv.org/abs/2207.04978)<br>:star:[code](https://github.com/YehLi/ImageNetModel)
   * [Unsupervised Visual Representation Learning by Synchronous Momentum Grouping](https://arxiv.org/abs/2207.06167)
-
+  * [Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training](https://arxiv.org/abs/2207.12661)<br>:star:[code](https://github.com/Hxyou/MSCLIP) 
 
 <a name="14"/>
 
@@ -479,6 +443,7 @@
 * Action Quality Assessment(行动质量评估)
   * [Action Quality Assessment with Temporal Parsing Transformer](https://arxiv.org/abs/2207.09270)
 
+
 <a name="11"/>
 
 ## 11.Video  
@@ -509,6 +474,7 @@
   * [Domain Adaptive Video Segmentation via Temporal Pseudo Supervision](https://arxiv.org/abs/2207.02372)<br>:star:[code](https://github.com/xing0047/TPS)
 * 视频表征
   * [E-NeRV: Expedite Neural Video Representation with Disentangled Spatial-Temporal Context](https://arxiv.org/abs/2207.08132)<br>:star:[code](https://github.com/kyleleey/E-NeRV) 
+  * [Static and Dynamic Concepts for Self-supervised Video Representation Learning](https://arxiv.org/abs/2207.12795)
 * 视频传输
   * [Efficient Meta-Tuning for Content-aware Neural Video Delivery](https://arxiv.org/abs/2207.09691)<br>:star:[code](https://github.com/Neural-video-delivery/EMT-Pytorch-ECCV2022)
 * 运动分割
@@ -535,6 +501,7 @@
 * 9D
   * [CATRE: Iterative Point Clouds Alignment for Category-level Object Pose Refinement](https://arxiv.org/abs/2207.08082)<br>:star:[code](https://github.com/THU-DA-6D-Pose-Group/CATRE)
 
+
 <a name="9"/>
 
 ## 9.Human Pose Estimation(人体姿态估计)
@@ -556,6 +523,10 @@
   * [3D Interacting Hand Pose Estimation by Hand De-occlusion and Removal](https://arxiv.org/abs/2207.11061)<br>:star:[code](https://github.com/MengHao666/HDR)
 * 姿势合成
   * [TIPS: Text-Induced Pose Synthesis](https://arxiv.org/abs/2207.11718)<br>:star:[code](https://github.com/prasunroy/tips):house:[project](https://prasunroy.github.io/tips/)
+* 手物重建
+  * [AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction](https://arxiv.org/abs/2207.12909)<br>:star:[code](https://github.com/zerchen/alignsdf):house:[project](https://zerchen.github.io/projects/alignsdf.html)
+* 人体与场景的交互
+  * [Compositional Human-Scene Interaction Synthesis with Semantic Control](https://arxiv.org/abs/2207.12824)<br>:star:[code](https://github.com/zkf1997/COINS)
 
 <a name="8"/>
 
@@ -583,10 +554,12 @@
   * [Monocular 3D Object Reconstruction with GAN Inversion](https://arxiv.org/abs/2207.10061)<br>:star:[code](https://github.com/junzhezhang/mesh-inversion):house:[project](https://www.mmlab-ntu.com/project/meshinversion/)
   * [Structural Causal 3D Reconstruction](https://arxiv.org/abs/2207.10156)
   * [2D GANs Meet Unsupervised Single-view 3D Reconstruction](https://arxiv.org/abs/2207.10183)<br>:star:[code](https://github.com/liuf1990/GANSVR):house:[project](http://cvlab.cse.msu.edu/project-gansvr.html)
-* 3D形状匹配
-  * [Unsupervised Deep Multi-Shape Matching](https://arxiv.org/abs/2207.09610)
-* 3D形状合成
-  * [Cross-Modal 3D Shape Generation and Manipulation](https://arxiv.org/abs/2207.11795)<br>:star:[code](https://github.com/snap-research/edit3d):house:[project](https://people.cs.umass.edu/~zezhoucheng/edit3d/)
+* 三维形状
+  * [3D Shape Sequence of Human Comparison and Classification using Current and Varifolds](https://arxiv.org/abs/2207.12485)<br>:star:[code](https://github.com/CRISTAL-3DSAM/HumanComparisonVarifolds)
+  * 3D形状匹配
+    * [Unsupervised Deep Multi-Shape Matching](https://arxiv.org/abs/2207.09610)
+  * 3D形状合成
+    * [Cross-Modal 3D Shape Generation and Manipulation](https://arxiv.org/abs/2207.11795)<br>:star:[code](https://github.com/snap-research/edit3d):house:[project](https://people.cs.umass.edu/~zezhoucheng/edit3d/)
 
 <a name="7"/>
 
@@ -598,6 +571,7 @@
   * [Tracking Objects as Pixel-wise Distributions](https://arxiv.org/abs/2207.05518)<br>:open_mouth:oral
   * [The Caltech Fish Counting Dataset: A Benchmark for Multiple-Object Tracking and Counting](https://arxiv.org/abs/2207.09295)
   * [MOTCOM: The Multi-Object Tracking Dataset Complexity Metric](https://arxiv.org/abs/2207.10031)<br>:star:[code](https://github.com/JoakimHaurum/MOTCOM):house:[project](https://vap.aau.dk/motcom/)
+  * [Tracking Every Thing in the Wild](https://arxiv.org/abs/2207.12978)
 * 视觉跟踪
   * [AiATrack: Attention in Attention for Transformer Visual Tracking](https://arxiv.org/abs/2207.09603)<br>:star:[code](https://github.com/Little-Podi/AiATrack)
 
@@ -622,6 +596,7 @@
   * [AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection](https://arxiv.org/abs/2207.10316)<br>:star:[code](https://github.com/zehuichen123/AutoAlignV2)
   * [DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection](https://arxiv.org/abs/2207.10758)<br>:star:[code](https://github.com/abhi1kumar/DEVIANT)
   * [Label-Guided Auxiliary Training Improves 3D Object Detector](https://arxiv.org/abs/2207.11753)<br>:star:[code](https://github.com/FabienCode/LG3D)
+  * [Monocular 3D Object Detection with Depth from Motion](https://arxiv.org/abs/2207.12988)<br>:open_mouth:oral:star:[code](https://github.com/Tai-Wang/Depth-from-Motion)
 * 半监督目标检测
   * [Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection](https://arxiv.org/abs/2207.02541)<br>:star:[code](https://github.com/Megvii-BaseDetection/DenseTeacher)
 * 小样本目标检测
@@ -745,7 +720,10 @@
 * [Equivariance and Invariance Inductive Bias for Learning from Insufficient Data](https://arxiv.org/abs/2207.12258)<br>:star:[code](https://github.com/Wangt-CN/EqInv)
 * [Contrastive Monotonic Pixel-Level Modulation](https://arxiv.org/abs/2207.11517)<br>:open_mouth:oral:star:[code](https://github.com/lukun199/MonoPix)
 * [Neural-Sim: Learning to Generate Training Data with NeRF](https://arxiv.org/abs/2207.11368)<br>:star:[code](https://github.com/gyhandy/Neural-Sim-NeRF)
+* [Learning Hierarchy Aware Features for Reducing Mistake Severity](https://arxiv.org/abs/2207.12646)<br>:star:[code](https://github.com/07Agarg/HAF)
+* [Translating a Visual LEGO Manual to a Machine-Executable Plan](https://arxiv.org/abs/2207.12572)<br>:star:[code](https://github.com/Relento/lego_release):house:[project](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
 
+ 
 
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
