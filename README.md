@@ -34,7 +34,7 @@
 
 
 
-## 7月27日更新 15 篇
+## 7月27日更新 16 篇
 * 目标检测
   * [Monocular 3D Object Detection with Depth from Motion](https://arxiv.org/abs/2207.12988)<br>:open_mouth:oral:star:[code](https://github.com/Tai-Wang/Depth-from-Motion)
   * [MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection with Pretrained Monocular Backbones](https://arxiv.org/abs/2207.12716)<br>:open_mouth:oral:star:[code](https://github.com/Tai-Wang/Depth-from-Motion)
@@ -44,6 +44,7 @@
   * [Efficient One Pass Self-distillation with Zipf's Label Smoothing](https://arxiv.org/abs/2207.12980)<br>:star:[code](https://github.com/megvii-research/zipfls)
 * 跟踪
   * [Tracking Every Thing in the Wild](https://arxiv.org/abs/2207.12978)
+  * [Large-displacement 3D Object Tracking with Hybrid Non-local Optimization](https://arxiv.org/abs/2207.12620)<br>:star:[code](https://github.com/cvbubbles/nonlocal-3dtracking)
 * OCR 
   * [Contextual Text Block Detection towards Scene Text Understanding](https://arxiv.org/abs/2207.12955)<br>:house:[project](https://sg-vilab.github.io/publication/xue2022contextual/)
 * 手物重建
@@ -568,6 +569,7 @@
 * [Towards Grand Unification of Object Tracking](https://arxiv.org/abs/2207.07078)<br>:open_mouth:oral:star:[code](https://github.com/MasterBin-IIAU/Unicorn)
 * 3D跟踪
   * [3D Siamese Transformer Network for Single Object Tracking on Point Clouds](https://arxiv.org/abs/2207.11995)<br>:star:[code](https://github.com/fpthink/STNet)
+  * [Large-displacement 3D Object Tracking with Hybrid Non-local Optimization](https://arxiv.org/abs/2207.12620)<br>:star:[code](https://github.com/cvbubbles/nonlocal-3dtracking)
 * 多目标跟踪
   * [Tracking Objects as Pixel-wise Distributions](https://arxiv.org/abs/2207.05518)<br>:open_mouth:oral
   * [The Caltech Fish Counting Dataset: A Benchmark for Multiple-Object Tracking and Counting](https://arxiv.org/abs/2207.09295)
