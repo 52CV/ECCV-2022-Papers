@@ -34,37 +34,38 @@
 
 
 
-## 7月27日更新 16 篇
-* 目标检测
-  * [Monocular 3D Object Detection with Depth from Motion](https://arxiv.org/abs/2207.12988)<br>:open_mouth:oral:star:[code](https://github.com/Tai-Wang/Depth-from-Motion)
-  * [MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection with Pretrained Monocular Backbones](https://arxiv.org/abs/2207.12716)<br>:open_mouth:oral:star:[code](https://github.com/Tai-Wang/Depth-from-Motion)
-* VL
-  * [NewsStories: Illustrating articles with visual summaries](https://arxiv.org/abs/2207.13061)<br>:star:[code](https://github.com/NewsStoriesData/newsstories.github.io)
-* 知识蒸馏
-  * [Efficient One Pass Self-distillation with Zipf's Label Smoothing](https://arxiv.org/abs/2207.12980)<br>:star:[code](https://github.com/megvii-research/zipfls)
-* 跟踪
-  * [Tracking Every Thing in the Wild](https://arxiv.org/abs/2207.12978)
-  * [Large-displacement 3D Object Tracking with Hybrid Non-local Optimization](https://arxiv.org/abs/2207.12620)<br>:star:[code](https://github.com/cvbubbles/nonlocal-3dtracking)
-* OCR 
-  * [Contextual Text Block Detection towards Scene Text Understanding](https://arxiv.org/abs/2207.12955)<br>:house:[project](https://sg-vilab.github.io/publication/xue2022contextual/)
-* 手物重建
-  * [AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction](https://arxiv.org/abs/2207.12909)<br>:star:[code](https://github.com/zerchen/alignsdf):house:[project](https://zerchen.github.io/projects/alignsdf.html)
-* 人体与场景的交互
-  * [Compositional Human-Scene Interaction Synthesis with Semantic Control](https://arxiv.org/abs/2207.12824)<br>:star:[code](https://github.com/zkf1997/COINS)
-* 视频表征学习
-  * [Static and Dynamic Concepts for Self-supervised Video Representation Learning](https://arxiv.org/abs/2207.12795)
-* 视觉表征
-  * [Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training](https://arxiv.org/abs/2207.12661)<br>:star:[code](https://github.com/Hxyou/MSCLIP)
-* 三维形状
-  * [3D Shape Sequence of Human Comparison and Classification using Current and Varifolds](https://arxiv.org/abs/2207.12485)<br>:star:[code](https://github.com/CRISTAL-3DSAM/HumanComparisonVarifolds)
-* 半监督
-  * [Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning](https://arxiv.org/abs/2207.12535)<br>:star:[code](https://github.com/xinleihe/Semi-Leak)
-* 剪枝
-  * [Trainability Preserving Neural Structured Pruning](https://arxiv.org/abs/2207.12534)<br>:star:[code](https://github.com/mingsun-tse/TPP)
+## 7月28日更新 16 篇
+* 6D
+  * [ShAPO: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization](https://arxiv.org/abs/2207.13691)<br>:house:[project](https://zubair-irshad.github.io/projects/ShAPO.html)
+* 图像质量评估
+  * [Shift-tolerant Perceptual Similarity Metric](https://arxiv.org/abs/2207.13686)<br>:star:[code](https://github.com/abhijay9/ShiftTolerant-LPIPS/)
+* 草图
+  * [Abstracting Sketches through Simple Primitives](https://arxiv.org/abs/2207.13543)<br>:star:[code](https://github.com/ExplainableML/sketch-primitives)
+* Video Transition Effects(视频转场特效)
+  * [AutoTransition: Learning to Recommend Video Transition Effects](https://arxiv.org/abs/2207.13479)<br>:star:[code](https://github.com/acherstyx/AutoTransition)
+* 视频去模糊
+  * [Efficient Video Deblurring Guided by Motion Magnitude](https://arxiv.org/abs/2207.13374)<br>:star:[code](https://github.com/sollynoay/MMP-RNN)
+* 长尾分类
+  * [Identifying Hard Noise in Long-Tailed Sample Distribution](https://arxiv.org/abs/2207.13378)<br>:open_mouth:oral:star:[code](https://github.com/yxymessi/H2E-Framework)
+* 视频抠图
+  * [One-Trimap Video Matting](https://arxiv.org/abs/2207.13353)<br>:star:[code](https://github.com/Hongje/OTVM):tv:[video](https://www.youtube.com/watch?v=qkda4fHSyQE)
+* 深度估计
+  * [PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation](https://arxiv.org/abs/2207.13340)
+* Visual Grounding
+  * [SiRi: A Simple Selective Retraining Mechanism for Transformer-based Visual Grounding](https://arxiv.org/abs/2207.13325)<br>:star:[code](https://github.com/qumengxue/siri-vg)
+* GAN
+  * [Generator Knows What Discriminator Should Learn in Unconditional GANs](https://arxiv.org/abs/2207.13320)<br>:star:[code](https://github.com/naver-ai/GGDR)
+* GCN
+  * [End-to-end Graph-constrained Vectorized Floorplan Generation with Panoptic Refinement](https://arxiv.org/abs/2207.13268)
+* 动作识别
+  * [Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition](https://arxiv.org/abs/2207.13259)<br>:star:[code](https://github.com/MartinXM/TPS)
+* 域适应
+  * [Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation](https://arxiv.org/abs/2207.13247)<br>:star:[code](https://github.com/val-iisc/StickerDA):house:[project](https://sites.google.com/view/sticker-sfda)
+* 持续学习
+  * [Online Continual Learning with Contrastive Vision Transformer](https://arxiv.org/abs/2207.13516)
 * 其它
-  * [Learning Hierarchy Aware Features for Reducing Mistake Severity](https://arxiv.org/abs/2207.12646)<br>:star:[code](https://github.com/07Agarg/HAF)
-  * [Translating a Visual LEGO Manual to a Machine-Executable Plan](https://arxiv.org/abs/2207.12572)<br>:star:[code](https://github.com/Relento/lego_release):house:[project](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
-
+  * [Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips](https://arxiv.org/abs/2207.13417)<br>:star:[code](https://github.com/jiawangbai/HPT)
+  * [LGV: Boosting Adversarial Example Transferability from Large Geometric Vicinity](https://arxiv.org/abs/2207.13129)
 
 
 
@@ -85,8 +86,10 @@
   * [Continual Variational Autoencoder Learning via Online Cooperative Memorization](https://arxiv.org/abs/2207.10131)<br>:star:[code](https://github.com/dtuzi123/OVAE)
 * 开集识别
   * [Towards Accurate Open-Set Recognition via Background-Class Regularization](https://arxiv.org/abs/2207.10287)
-
-
+* 草图
+  * [Abstracting Sketches through Simple Primitives](https://arxiv.org/abs/2207.13543)<br>:star:[code](https://github.com/ExplainableML/sketch-primitives)
+* Visual Grounding
+  * [SiRi: A Simple Selective Retraining Mechanism for Transformer-based Visual Grounding](https://arxiv.org/abs/2207.13325)<br>:star:[code](https://github.com/qumengxue/siri-vg)
 
 ## 光学、几何、光场成像
 * 相机姿势
@@ -153,12 +156,20 @@
   * [GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation](https://arxiv.org/abs/2207.09763)<br>:star:[code](https://github.com/saltoricristiano/gipso-sfouda)
   * [Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation](https://arxiv.org/abs/2207.10856)<br>:star:[code](https://github.com/Hongbin98/ProCA)
   * [MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation](https://arxiv.org/abs/2207.12389)<br>:star:[code](https://github.com/ViLab-UCSD/MemSAC_ECCV2022):house:[project](https://tarun005.github.io/MemSAC/)
+  * [Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation](https://arxiv.org/abs/2207.13247)<br>:star:[code](https://github.com/val-iisc/StickerDA):house:[project](https://sites.google.com/view/sticker-sfda)
 * 域泛化
   * [Grounding Visual Representations with Texts for Domain Generalization](https://arxiv.org/abs/2207.10285)<br>:star:[code](https://github.com/mswzeus/GVRT)
   * [Improving Test-Time Adaptation via Shift-agnostic Weight Regularization and Nearest Source Prototypes](https://arxiv.org/abs/2207.11707)
 
 ## Semantic Correspondence(语义对应)
 * [Demystifying Unsupervised Semantic Correspondence Estimation](https://arxiv.org/abs/2207.05054)<br>:star:[code](https://github.com/MehmetAygun/demistfy_correspondence):house:[project](https://mehmetaygun.github.io/demistfy.html)
+
+## GNN/GCN(图神经网络)
+* GCN
+  * [End-to-end Graph-constrained Vectorized Floorplan Generation with Panoptic Refinement](https://arxiv.org/abs/2207.13268) 
+
+## Continual Learning(持续学习)
+* [Online Continual Learning with Contrastive Vision Transformer](https://arxiv.org/abs/2207.13516)
 
 ## Continual Learning(持续学习)
 * [Balancing Stability and Plasticity through Advanced Null Space in Continual Learning](https://arxiv.org/abs/2207.12061)<br>:open_mouth:oral 
@@ -261,6 +272,7 @@
 * 长尾分类
   * [Invariant Feature Learning for Generalized Long-Tailed Classification](https://arxiv.org/abs/2207.09504)<br>:star:[code](https://github.com/KaihuaTang/Generalized-Long-Tailed-Benchmarks.pytorch)
   * [Tackling Long-Tailed Category Distribution Under Domain Shifts](https://arxiv.org/abs/2207.10150)<br>:star:[code](https://github.com/guxiao0822/lt-ds):house:[project](https://xiaogu.site/LTDS/)
+  * [Identifying Hard Noise in Long-Tailed Sample Distribution](https://arxiv.org/abs/2207.13378)<br>:open_mouth:oral:star:[code](https://github.com/yxymessi/H2E-Framework) 
 * 视觉分类
   * [Visual Knowledge Tracing](https://arxiv.org/abs/2207.10157)<br>:star:[code](https://github.com/nkondapa/VisualKnowledgeTracing)
 
@@ -379,6 +391,7 @@
 * [RepMix: Representation Mixing for Robust Attribution of Synthesized Images](https://arxiv.org/abs/2207.02063)<br>:star:[code](https://github.com/TuBui/image_attribution)
 * [FakeCLR: Exploring Contrastive Learning for Solving Latent Discontinuity in Data-Efficient GANs](https://arxiv.org/abs/2207.08630)<br>:star:[code](https://github.com/iceli1007/FakeCLR)
 * [Generative Multiplane Images: Making a 2D GAN 3D-Aware](https://arxiv.org/abs/2207.10642)<br>:star:[code](https://github.com/apple/ml-gmpi):house:[project](https://xiaoming-zhao.github.io/projects/gmpi/)
+* [Generator Knows What Discriminator Should Learn in Unconditional GANs](https://arxiv.org/abs/2207.13320)<br>:star:[code](https://github.com/naver-ai/GGDR)
 * 线稿上色
   * [Eliminating Gradient Conflict in Reference-based Line-Art Colorization](https://arxiv.org/abs/2207.06095)<br>:star:[code](https://github.com/kunkun0w0/SGA)
 * 图像生成
@@ -429,7 +442,8 @@
   * [Collaborating Domain-shared and Target-specific Feature Clustering for Cross-domain 3D Action Recognition](https://arxiv.org/abs/2207.09767)
   * [Hierarchically Self-Supervised Transformer for Human Skeleton Representation Learning](https://arxiv.org/abs/2207.09644)<br>:star:[code](https://github.com/yuxiaochen1103/Hi-TRS)
   * [An Efficient Spatio-Temporal Pyramid Transformer for Action Detection](https://arxiv.org/abs/2207.10448)
-  * 基于骨架动作识别
+  * [Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition](https://arxiv.org/abs/2207.13259)<br>:star:[code](https://github.com/MartinXM/TPS)
+ * 基于骨架动作识别
     * [Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning](https://arxiv.org/abs/2207.06101)<br>:star:[code](https://github.com/Boeun-Kim/GL-Transformer)
   * 小样本动作识别
     * [Compound Prototype Matching for Few-shot Action Recognition](https://arxiv.org/abs/2207.05515)
@@ -460,6 +474,7 @@
   * [Error Compensation Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2207.10391)
 * 视频去模糊
   * [Spatio-Temporal Deformable Attention Network for Video Deblurring](https://arxiv.org/abs/2207.10852)<br>:star:[code](https://github.com/huicongzhang/STDAN):house:[project](https://vilab.hit.edu.cn/projects/stdan/)
+  * [Efficient Video Deblurring Guided by Motion Magnitude](https://arxiv.org/abs/2207.13374)<br>:star:[code](https://github.com/sollynoay/MMP-RNN)
 * 视频对话
   * [Video Dialog as Conversation about Objects Living in Space-Time](https://arxiv.org/abs/2207.03656)<br>:star:[code](https://github.com/hoanganhpham1006/COST)
 * 有源扬声器检测(视频会议)
@@ -474,6 +489,8 @@
 * VSS
   * [Mining Relations among Cross-Frame Affinities for Video Semantic Segmentation](https://arxiv.org/abs/2207.10436)<br>:star:[code](https://github.com/GuoleiSun/VSS-MRCFA)
   * [Domain Adaptive Video Segmentation via Temporal Pseudo Supervision](https://arxiv.org/abs/2207.02372)<br>:star:[code](https://github.com/xing0047/TPS)
+* 视频抠图
+  * [One-Trimap Video Matting](https://arxiv.org/abs/2207.13353)<br>:star:[code](https://github.com/Hongje/OTVM):tv:[video](https://www.youtube.com/watch?v=qkda4fHSyQE)
 * 视频表征
   * [E-NeRV: Expedite Neural Video Representation with Disentangled Spatial-Temporal Context](https://arxiv.org/abs/2207.08132)<br>:star:[code](https://github.com/kyleleey/E-NeRV) 
   * [Static and Dynamic Concepts for Self-supervised Video Representation Learning](https://arxiv.org/abs/2207.12795)
@@ -492,7 +509,9 @@
   * [Inductive and Transductive Few-Shot Video Classification via Appearance and Temporal Alignments](https://arxiv.org/abs/2207.10785)<br>:star:[code](https://github.com/VinAIResearch/fsvc-ata)
 * 视频卷帘快门(Rolling shutter)
   * [Combining Internal and External Constraints for Unrolling Shutter in Videos](https://arxiv.org/abs/2207.11725)
-
+* Video Transition Effects(视频转场特效)
+  * [AutoTransition: Learning to Recommend Video Transition Effects](https://arxiv.org/abs/2207.13479)<br>:star:[code](https://github.com/acherstyx/AutoTransition)
+  
 <a name="10"/>
 
 ## 10.Pose Estimation(物体姿势估计)
@@ -500,10 +519,12 @@
   * [TransGrasp: Grasp Pose Estimation of a Category of Objects by Transferring Grasps from Only One Labeled Instance](https://arxiv.org/abs/2207.07861)<br>:star:[code](https://github.com/yanjh97/TransGrasp)
 * 6D
   * [Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks](https://arxiv.org/abs/2207.05444)<br>:star:[code](https://github.com/JiehongLin/Self-DPDN)
+  * [ShAPO: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization](https://arxiv.org/abs/2207.13691)<br>:house:[project](https://zubair-irshad.github.io/projects/ShAPO.html)
 * 9D
   * [CATRE: Iterative Point Clouds Alignment for Category-level Object Pose Refinement](https://arxiv.org/abs/2207.08082)<br>:star:[code](https://github.com/THU-DA-6D-Pose-Group/CATRE)
 
 
+  
 <a name="9"/>
 
 ## 9.Human Pose Estimation(人体姿态估计)
@@ -546,6 +567,7 @@
   * [Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics](https://arxiv.org/abs/2207.04680)<br>:star:[code](https://github.com/SenZHANG-GitHub/ekf-imu-depth)
   * [JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes](https://arxiv.org/abs/2207.07895)<br>:star:[code](https://github.com/sunnyHelen/JPerceiver)
   * [RA-Depth: Resolution Adaptive Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2207.11984)<br>:star:[code](https://github.com/hmhemu/RA-Depth)
+  * [PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation](https://arxiv.org/abs/2207.13340)
 * 三维视觉
   * [A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision](https://arxiv.org/abs/2207.04997)
 * 三维房间布局
@@ -648,6 +670,8 @@
 <a name="3"/>
 
 ## 3.Image Progress(图像处理)
+* 图像质量评估
+  * [Shift-tolerant Perceptual Similarity Metric](https://arxiv.org/abs/2207.13686)<br>:star:[code](https://github.com/abhijay9/ShiftTolerant-LPIPS/)
 * 图像修补(image retouching)
   * [Neural Color Operators for Sequential Image Retouching](https://arxiv.org/abs/2207.08080)<br>:star:[code](https://github.com/amberwangyili/neurop)
 * 图像变形(Image Warping)
@@ -669,6 +693,7 @@
   * [Towards Efficient and Scale-Robust Ultra-High-Definition Image Demoireing](https://arxiv.org/abs/2207.09935)<br>:star:[code](https://github.com/CVMI-Lab/UHDM):house:[project](https://xinyu-andy.github.io/uhdm-page/)
 * 语义图像编辑
   * [Context-Consistent Semantic Image Editing with Style-Preserved Modulation](https://arxiv.org/abs/2207.06252)<br>:star:[code](https://github.com/WuyangLuo/SPMPGAN)
+
 
 <a name="2"/>
 
@@ -726,6 +751,9 @@
 * [Neural-Sim: Learning to Generate Training Data with NeRF](https://arxiv.org/abs/2207.11368)<br>:star:[code](https://github.com/gyhandy/Neural-Sim-NeRF)
 * [Learning Hierarchy Aware Features for Reducing Mistake Severity](https://arxiv.org/abs/2207.12646)<br>:star:[code](https://github.com/07Agarg/HAF)
 * [Translating a Visual LEGO Manual to a Machine-Executable Plan](https://arxiv.org/abs/2207.12572)<br>:star:[code](https://github.com/Relento/lego_release):house:[project](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
+* [Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips](https://arxiv.org/abs/2207.13417)<br>:star:[code](https://github.com/jiawangbai/HPT)
+* [LGV: Boosting Adversarial Example Transferability from Large Geometric Vicinity](https://arxiv.org/abs/2207.13129)
+
 
  
 
