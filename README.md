@@ -34,7 +34,7 @@
 
 
 
-## 7月28日更新 16 篇
+## 7月28日更新 17 篇
 * 6D
   * [ShAPO: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization](https://arxiv.org/abs/2207.13691)<br>:house:[project](https://zubair-irshad.github.io/projects/ShAPO.html)
 * 图像质量评估
@@ -63,6 +63,8 @@
   * [Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation](https://arxiv.org/abs/2207.13247)<br>:star:[code](https://github.com/val-iisc/StickerDA):house:[project](https://sites.google.com/view/sticker-sfda)
 * 持续学习
   * [Online Continual Learning with Contrastive Vision Transformer](https://arxiv.org/abs/2207.13516)
+* 图像-图像翻译
+  * [Vector Quantized Image-to-Image Translation](https://arxiv.org/abs/2207.13286)<br>:star:[code](https://github.com/cyj407/VQ-I2I):house:[project](https://cyj407.github.io/VQ-I2I/)
 * 其它
   * [Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips](https://arxiv.org/abs/2207.13417)<br>:star:[code](https://github.com/jiawangbai/HPT)
   * [LGV: Boosting Adversarial Example Transferability from Large Geometric Vicinity](https://arxiv.org/abs/2207.13129)
@@ -382,6 +384,7 @@
 
 ## 18.Image-to-Image Translation(图像到图像翻译)
 * [VecGAN: Image-to-Image Translation with Interpretable Latent Directions](https://arxiv.org/abs/2207.03411)
+* [Vector Quantized Image-to-Image Translation](https://arxiv.org/abs/2207.13286)<br>:star:[code](https://github.com/cyj407/VQ-I2I):house:[project](https://cyj407.github.io/VQ-I2I/)
 * 图像翻译
   * [BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks](https://arxiv.org/abs/2207.06873)<br>:star:[code](https://github.com/ExplainableML/BayesCap)
 
