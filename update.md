@@ -1,3 +1,36 @@
+## 7月27日更新 16 篇
+* 目标检测
+  * [Monocular 3D Object Detection with Depth from Motion](https://arxiv.org/abs/2207.12988)<br>:open_mouth:oral:star:[code](https://github.com/Tai-Wang/Depth-from-Motion)
+  * [MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection with Pretrained Monocular Backbones](https://arxiv.org/abs/2207.12716)<br>:open_mouth:oral:star:[code](https://github.com/Tai-Wang/Depth-from-Motion)
+* VL
+  * [NewsStories: Illustrating articles with visual summaries](https://arxiv.org/abs/2207.13061)<br>:star:[code](https://github.com/NewsStoriesData/newsstories.github.io)
+* 知识蒸馏
+  * [Efficient One Pass Self-distillation with Zipf's Label Smoothing](https://arxiv.org/abs/2207.12980)<br>:star:[code](https://github.com/megvii-research/zipfls)
+* 跟踪
+  * [Tracking Every Thing in the Wild](https://arxiv.org/abs/2207.12978)
+  * [Large-displacement 3D Object Tracking with Hybrid Non-local Optimization](https://arxiv.org/abs/2207.12620)<br>:star:[code](https://github.com/cvbubbles/nonlocal-3dtracking)
+* OCR 
+  * [Contextual Text Block Detection towards Scene Text Understanding](https://arxiv.org/abs/2207.12955)<br>:house:[project](https://sg-vilab.github.io/publication/xue2022contextual/)
+* 手物重建
+  * [AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction](https://arxiv.org/abs/2207.12909)<br>:star:[code](https://github.com/zerchen/alignsdf):house:[project](https://zerchen.github.io/projects/alignsdf.html)
+* 人体与场景的交互
+  * [Compositional Human-Scene Interaction Synthesis with Semantic Control](https://arxiv.org/abs/2207.12824)<br>:star:[code](https://github.com/zkf1997/COINS)
+* 视频表征学习
+  * [Static and Dynamic Concepts for Self-supervised Video Representation Learning](https://arxiv.org/abs/2207.12795)
+* 视觉表征
+  * [Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training](https://arxiv.org/abs/2207.12661)<br>:star:[code](https://github.com/Hxyou/MSCLIP)
+* 三维形状
+  * [3D Shape Sequence of Human Comparison and Classification using Current and Varifolds](https://arxiv.org/abs/2207.12485)<br>:star:[code](https://github.com/CRISTAL-3DSAM/HumanComparisonVarifolds)
+* 半监督
+  * [Semi-Leak: Membership Inference Attacks Against Semi-supervised Learning](https://arxiv.org/abs/2207.12535)<br>:star:[code](https://github.com/xinleihe/Semi-Leak)
+* 剪枝
+  * [Trainability Preserving Neural Structured Pruning](https://arxiv.org/abs/2207.12534)<br>:star:[code](https://github.com/mingsun-tse/TPP)
+* 其它
+  * [Learning Hierarchy Aware Features for Reducing Mistake Severity](https://arxiv.org/abs/2207.12646)<br>:star:[code](https://github.com/07Agarg/HAF)
+  * [Translating a Visual LEGO Manual to a Machine-Executable Plan](https://arxiv.org/abs/2207.12572)<br>:star:[code](https://github.com/Relento/lego_release):house:[project](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
+
+
+
 ## 7 月 26 日 更新 38 篇
 * 点云
   * [Dynamic 3D Scene Analysis by Point Cloud Accumulation](https://arxiv.org/abs/2207.12394)<br>:star:[code](https://github.com/prs-eth/PCAccumulation):house:[project](https://shengyuh.github.io/eccv22/index.html)
