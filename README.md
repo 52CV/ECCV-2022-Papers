@@ -34,40 +34,33 @@
 
 
 
-## 7月28日更新 17 篇
-* 6D
-  * [ShAPO: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization](https://arxiv.org/abs/2207.13691)<br>:house:[project](https://zubair-irshad.github.io/projects/ShAPO.html)
-* 图像质量评估
-  * [Shift-tolerant Perceptual Similarity Metric](https://arxiv.org/abs/2207.13686)<br>:star:[code](https://github.com/abhijay9/ShiftTolerant-LPIPS/)
-* 草图
-  * [Abstracting Sketches through Simple Primitives](https://arxiv.org/abs/2207.13543)<br>:star:[code](https://github.com/ExplainableML/sketch-primitives)
-* Video Transition Effects(视频转场特效)
-  * [AutoTransition: Learning to Recommend Video Transition Effects](https://arxiv.org/abs/2207.13479)<br>:star:[code](https://github.com/acherstyx/AutoTransition)
-* 视频去模糊
-  * [Efficient Video Deblurring Guided by Motion Magnitude](https://arxiv.org/abs/2207.13374)<br>:star:[code](https://github.com/sollynoay/MMP-RNN)
-* 长尾分类
-  * [Identifying Hard Noise in Long-Tailed Sample Distribution](https://arxiv.org/abs/2207.13378)<br>:open_mouth:oral:star:[code](https://github.com/yxymessi/H2E-Framework)
-* 视频抠图
-  * [One-Trimap Video Matting](https://arxiv.org/abs/2207.13353)<br>:star:[code](https://github.com/Hongje/OTVM):tv:[video](https://www.youtube.com/watch?v=qkda4fHSyQE)
+## 7月29日更新 12 篇
+
+* 场景重建
+  * [Initialization and Alignment for Adversarial Texture Optimization](https://arxiv.org/abs/2207.14289)<br>:star:[code](https://github.com/Xiaoming-Zhao/advtex_init_align):house:[project](https://xiaoming-zhao.github.io/projects/advtex_init_align/)
 * 深度估计
-  * [PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation](https://arxiv.org/abs/2207.13340)
-* Visual Grounding
-  * [SiRi: A Simple Selective Retraining Mechanism for Transformer-based Visual Grounding](https://arxiv.org/abs/2207.13325)<br>:star:[code](https://github.com/qumengxue/siri-vg)
-* GAN
-  * [Generator Knows What Discriminator Should Learn in Unconditional GANs](https://arxiv.org/abs/2207.13320)<br>:star:[code](https://github.com/naver-ai/GGDR)
-* GCN
-  * [End-to-end Graph-constrained Vectorized Floorplan Generation with Panoptic Refinement](https://arxiv.org/abs/2207.13268)
-* 动作识别
-  * [Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition](https://arxiv.org/abs/2207.13259)<br>:star:[code](https://github.com/MartinXM/TPS)
-* 域适应
-  * [Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation](https://arxiv.org/abs/2207.13247)<br>:star:[code](https://github.com/val-iisc/StickerDA):house:[project](https://sites.google.com/view/sticker-sfda)
-* 持续学习
-  * [Online Continual Learning with Contrastive Vision Transformer](https://arxiv.org/abs/2207.13516)
-* 图像-图像翻译
-  * [Vector Quantized Image-to-Image Translation](https://arxiv.org/abs/2207.13286)<br>:star:[code](https://github.com/cyj407/VQ-I2I):house:[project](https://cyj407.github.io/VQ-I2I/)
+  * [Depth Field Networks for Generalizable Multi-view Scene Representation](https://arxiv.org/abs/2207.14287)<br>:house:[project](https://sites.google.com/view/tri-define)
+* 三维人体重建
+  * [The One Where They Reconstructed 3D Humans and Environments in TV Shows](https://arxiv.org/abs/2207.14279)<br>:star:[code](https://github.com/ethanweber/sitcoms3D):house:[project](http://ethanweber.me/sitcoms3D/)
+* HOI
+  * [Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection](https://arxiv.org/abs/2207.14192)<br>:star:[code](https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness)
+* VIS
+  * [Video Mask Transfiner for High-Quality Video Instance Segmentation](https://arxiv.org/abs/2207.14012)
+* 人体姿势建模
+  * [Pose-NDF: Modeling Human Pose Manifolds with Neural Distance Fields](https://arxiv.org/abs/2207.13807)<br>:open_mouth:oral:house:[project](https://virtualhumans.mpi-inf.mpg.de/posendf/)
+* 姿势跟踪
+  * [AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing](https://arxiv.org/abs/2207.13784)<br>:star:[code](https://github.com/eth-siplab/AvatarPoser)
+* 互动结构理解
+  * [Break and Make: Interactive Structural Understanding Using LEGO Bricks](https://arxiv.org/abs/2207.13738)<br>:star:[code](https://github.com/aaronwalsman/ltron)
+* 三维人体网格恢复
+  * [Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers](https://arxiv.org/abs/2207.13820)<br>:star:[code](https://github.com/postech-ami/FastMETRO)
 * 其它
-  * [Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips](https://arxiv.org/abs/2207.13417)<br>:star:[code](https://github.com/jiawangbai/HPT)
-  * [LGV: Boosting Adversarial Example Transferability from Large Geometric Vicinity](https://arxiv.org/abs/2207.13129)
+  * [MonteBoxFinder: Detecting and Filtering Primitives to Fit a Noisy Point Cloud](https://arxiv.org/abs/2207.14268)<br>:star:[code](https://github.com/MichaelRamamonjisoa/MonteBoxFinder):house:[project](https://michaelramamonjisoa.github.io/projects/MonteBoxFinder)
+  * [Neural Strands: Learning Hair Geometry and Appearance from Multi-View Images](https://arxiv.org/abs/2207.14067)<br>:house:[project](https://radualexandru.github.io/neural_strands/)
+  * [A Repulsive Force Unit for Garment Collision Handling in Neural Networks](https://arxiv.org/abs/2207.13871)<br>:house:[project](https://gamma.umd.edu/researchdirections/mlphysics/refu/)
+
+
+
 
 
 
@@ -92,6 +85,8 @@
   * [Abstracting Sketches through Simple Primitives](https://arxiv.org/abs/2207.13543)<br>:star:[code](https://github.com/ExplainableML/sketch-primitives)
 * Visual Grounding
   * [SiRi: A Simple Selective Retraining Mechanism for Transformer-based Visual Grounding](https://arxiv.org/abs/2207.13325)<br>:star:[code](https://github.com/qumengxue/siri-vg)
+* 互动结构理解
+  * [Break and Make: Interactive Structural Understanding Using LEGO Bricks](https://arxiv.org/abs/2207.13738)<br>:star:[code](https://github.com/aaronwalsman/ltron)
 
 ## 光学、几何、光场成像
 * 相机姿势
@@ -435,8 +430,10 @@
 * [Towards Hard-Positive Query Mining for DETR-based Human-Object Interaction Detection](https://arxiv.org/abs/2207.05293)<br>:star:[code](https://github.com/MuchHair/HQM)
 * [Geometric Features Informed Multi-person Human-object Interaction Recognition in Videos](https://arxiv.org/abs/2207.09425)
 * [IGFormer: Interaction Graph Transformer for Skeleton-based Human Interaction Recognition](https://arxiv.org/abs/2207.12100)
+* [Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection](https://arxiv.org/abs/2207.14192)<br>:star:[code](https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness)
 * 交互式物体分割
   * [Self-Supervised Interactive Object Segmentation Through a Singulation-and-Grasping Approach](https://arxiv.org/abs/2207.09314)<br>:house:[project](https://sites.google.com/umn.edu/sag-interactive-segmentation)
+
 
 <a name="12"/>
 
@@ -461,7 +458,6 @@
   * [Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions](https://arxiv.org/abs/2207.11805)<br>:star:[code](https://github.com/lizhi1104/HAAN)
 * Action Quality Assessment(行动质量评估)
   * [Action Quality Assessment with Temporal Parsing Transformer](https://arxiv.org/abs/2207.09270)
-
 
 <a name="11"/>
 
@@ -489,6 +485,7 @@
   * [Learning Quality-aware Dynamic Memory for Video Object Segmentation](https://arxiv.org/abs/2207.07922)<br>:star:[code](https://github.com/workforai/QDMN)
 * VIS
   * [In Defense of Online Models for Video Instance Segmentation](https://arxiv.org/abs/2207.10661)<br><br>:open_mouth:oral:star:[code](https://github.com/wjf5203/VNext)
+  * [Video Mask Transfiner for High-Quality Video Instance Segmentation](https://arxiv.org/abs/2207.14012)
 * VSS
   * [Mining Relations among Cross-Frame Affinities for Video Semantic Segmentation](https://arxiv.org/abs/2207.10436)<br>:star:[code](https://github.com/GuoleiSun/VSS-MRCFA)
   * [Domain Adaptive Video Segmentation via Temporal Pseudo Supervision](https://arxiv.org/abs/2207.02372)<br>:star:[code](https://github.com/xing0047/TPS)
@@ -545,6 +542,7 @@
 * 三维人体重建
   * [3D Clothed Human Reconstruction in the Wild](https://arxiv.org/abs/2207.10053)<br>:star:[code](https://github.com/hygenie1228/ClothWild_RELEASE)
   * [UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation](https://arxiv.org/abs/2207.09835)<br>:star:[code](https://github.com/ShenhanQian/UNIF)
+  * [The One Where They Reconstructed 3D Humans and Environments in TV Shows](https://arxiv.org/abs/2207.14279)<br>:star:[code](https://github.com/ethanweber/sitcoms3D):house:[project](http://ethanweber.me/sitcoms3D/)
 * 三维交互式手部姿势估计
   * [3D Interacting Hand Pose Estimation by Hand De-occlusion and Removal](https://arxiv.org/abs/2207.11061)<br>:star:[code](https://github.com/MengHao666/HDR)
 * 姿势合成
@@ -553,6 +551,12 @@
   * [AlignSDF: Pose-Aligned Signed Distance Fields for Hand-Object Reconstruction](https://arxiv.org/abs/2207.12909)<br>:star:[code](https://github.com/zerchen/alignsdf):house:[project](https://zerchen.github.io/projects/alignsdf.html)
 * 人体与场景的交互
   * [Compositional Human-Scene Interaction Synthesis with Semantic Control](https://arxiv.org/abs/2207.12824)<br>:star:[code](https://github.com/zkf1997/COINS)
+* 人体姿势建模
+  * [Pose-NDF: Modeling Human Pose Manifolds with Neural Distance Fields](https://arxiv.org/abs/2207.13807)<br>:open_mouth:oral:house:[project](https://virtualhumans.mpi-inf.mpg.de/posendf/)
+* 姿势跟踪
+  * [AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing](https://arxiv.org/abs/2207.13784)<br>:star:[code](https://github.com/eth-siplab/AvatarPoser)
+* 三维人体网格恢复
+  * [Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers](https://arxiv.org/abs/2207.13820)<br>:star:[code](https://github.com/postech-ami/FastMETRO) 
 
 <a name="8"/>
 
@@ -565,12 +569,15 @@
     * [PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo](https://arxiv.org/abs/2207.11406)<br>:house:[project](https://ywq.github.io/psnerf/)
 * 3D场景合成
   * [Simple and Effective Synthesis of Indoor 3D Scenes](https://arxiv.org/abs/2204.02960)<br>:tv:[video](https://www.youtube.com/watch?v=lhwwlrRfFp0)
+* 场景重建
+  * [Initialization and Alignment for Adversarial Texture Optimization](https://arxiv.org/abs/2207.14289)<br>:star:[code](https://github.com/Xiaoming-Zhao/advtex_init_align):house:[project](https://xiaoming-zhao.github.io/projects/advtex_init_align/)
 * 深度估计
   * [Physical Attack on Monocular Depth Estimation with Optimal Adversarial Patches](https://arxiv.org/abs/2207.04718)
   * [Towards Scale-Aware, Robust, and Generalizable Unsupervised Monocular Depth Estimation by Integrating IMU Motion Dynamics](https://arxiv.org/abs/2207.04680)<br>:star:[code](https://github.com/SenZHANG-GitHub/ekf-imu-depth)
   * [JPerceiver: Joint Perception Network for Depth, Pose and Layout Estimation in Driving Scenes](https://arxiv.org/abs/2207.07895)<br>:star:[code](https://github.com/sunnyHelen/JPerceiver)
   * [RA-Depth: Resolution Adaptive Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/2207.11984)<br>:star:[code](https://github.com/hmhemu/RA-Depth)
   * [PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation](https://arxiv.org/abs/2207.13340)
+  * [Depth Field Networks for Generalizable Multi-view Scene Representation](https://arxiv.org/abs/2207.14287)<br>:house:[project](https://sites.google.com/view/tri-define)
 * 三维视觉
   * [A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision](https://arxiv.org/abs/2207.04997)
 * 三维房间布局
@@ -756,9 +763,10 @@
 * [Translating a Visual LEGO Manual to a Machine-Executable Plan](https://arxiv.org/abs/2207.12572)<br>:star:[code](https://github.com/Relento/lego_release):house:[project](https://cs.stanford.edu/~rcwang/projects/lego_manual/)
 * [Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips](https://arxiv.org/abs/2207.13417)<br>:star:[code](https://github.com/jiawangbai/HPT)
 * [LGV: Boosting Adversarial Example Transferability from Large Geometric Vicinity](https://arxiv.org/abs/2207.13129)
+* [MonteBoxFinder: Detecting and Filtering Primitives to Fit a Noisy Point Cloud](https://arxiv.org/abs/2207.14268)<br>:star:[code](https://github.com/MichaelRamamonjisoa/MonteBoxFinder):house:[project](https://michaelramamonjisoa.github.io/projects/MonteBoxFinder)
+* [Neural Strands: Learning Hair Geometry and Appearance from Multi-View Images](https://arxiv.org/abs/2207.14067)<br>:house:[project](https://radualexandru.github.io/neural_strands/)
+* [A Repulsive Force Unit for Garment Collision Handling in Neural Networks](https://arxiv.org/abs/2207.13871)<br>:house:[project](https://gamma.umd.edu/researchdirections/mlphysics/refu/)
 
-
- 
 
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
