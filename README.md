@@ -34,35 +34,21 @@
 
 
 
-## 7月29日更新 12 篇
-
-* 场景重建
-  * [Initialization and Alignment for Adversarial Texture Optimization](https://arxiv.org/abs/2207.14289)<br>:star:[code](https://github.com/Xiaoming-Zhao/advtex_init_align):house:[project](https://xiaoming-zhao.github.io/projects/advtex_init_align/)
-* 深度估计
-  * [Depth Field Networks for Generalizable Multi-view Scene Representation](https://arxiv.org/abs/2207.14287)<br>:house:[project](https://sites.google.com/view/tri-define)
-* 三维人体重建
-  * [The One Where They Reconstructed 3D Humans and Environments in TV Shows](https://arxiv.org/abs/2207.14279)<br>:star:[code](https://github.com/ethanweber/sitcoms3D):house:[project](http://ethanweber.me/sitcoms3D/)
-* HOI
-  * [Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection](https://arxiv.org/abs/2207.14192)<br>:star:[code](https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness)
-* VIS
-  * [Video Mask Transfiner for High-Quality Video Instance Segmentation](https://arxiv.org/abs/2207.14012)
-* 人体姿势建模
-  * [Pose-NDF: Modeling Human Pose Manifolds with Neural Distance Fields](https://arxiv.org/abs/2207.13807)<br>:open_mouth:oral:house:[project](https://virtualhumans.mpi-inf.mpg.de/posendf/)
-* 姿势跟踪
-  * [AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing](https://arxiv.org/abs/2207.13784)<br>:star:[code](https://github.com/eth-siplab/AvatarPoser)
-* 互动结构理解
-  * [Break and Make: Interactive Structural Understanding Using LEGO Bricks](https://arxiv.org/abs/2207.13738)<br>:star:[code](https://github.com/aaronwalsman/ltron)
-* 三维人体网格恢复
-  * [Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers](https://arxiv.org/abs/2207.13820)<br>:star:[code](https://github.com/postech-ami/FastMETRO)
+## 8月1日更新 7 篇
+* HDR全景图生成
+  * [StyleLight: HDR Panorama Generation for Lighting Estimation and Editing](https://arxiv.org/abs/2207.14811)<br>:star:[code](https://github.com/Wanggcong/StyleLight):house:[project](https://style-light.github.io/)
 * 其它
-  * [MonteBoxFinder: Detecting and Filtering Primitives to Fit a Noisy Point Cloud](https://arxiv.org/abs/2207.14268)<br>:star:[code](https://github.com/MichaelRamamonjisoa/MonteBoxFinder):house:[project](https://michaelramamonjisoa.github.io/projects/MonteBoxFinder)
-  * [Neural Strands: Learning Hair Geometry and Appearance from Multi-View Images](https://arxiv.org/abs/2207.14067)<br>:house:[project](https://radualexandru.github.io/neural_strands/)
-  * [A Repulsive Force Unit for Garment Collision Handling in Neural Networks](https://arxiv.org/abs/2207.13871)<br>:house:[project](https://gamma.umd.edu/researchdirections/mlphysics/refu/)
-
-
-
-
-
+  * [Minimal Neural Atlas: Parameterizing Complex Surfaces with Minimal Charts and Distortion](https://arxiv.org/abs/2207.14782)<br>:star:[code](https://github.com/low5545/minimal-neural-atlas)
+* VL
+  * [Can Shuffling Video Benefit Temporal Bias Problem: A Novel Training Framework for Temporal Grounding](https://arxiv.org/abs/2207.14698)<br>:star:[code](https://github.com/haojc/ShufflingVideosForTSG)
+* 视频编解码
+  * [AlphaVC: High-Performance and Efficient Learned Video Compression](https://arxiv.org/abs/2207.14678)
+* 图像风格化
+  * [WISE: Whitebox Image Stylization by Example-based Learning](https://arxiv.org/abs/2207.14606)<br>:star:[code](https://github.com/winfried-loetzsch/wise)
+* 分类
+  * [Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels](https://arxiv.org/abs/2207.14476)<br>:star:[code](https://github.com/uitrbn/TSCSI_IDN)
+* 3D
+  * [Neural Density-Distance Fields](https://arxiv.org/abs/2207.14455)<br>:star:[code](https://github.com/ueda0319/neddf)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -87,7 +73,8 @@
   * [SiRi: A Simple Selective Retraining Mechanism for Transformer-based Visual Grounding](https://arxiv.org/abs/2207.13325)<br>:star:[code](https://github.com/qumengxue/siri-vg)
 * 互动结构理解
   * [Break and Make: Interactive Structural Understanding Using LEGO Bricks](https://arxiv.org/abs/2207.13738)<br>:star:[code](https://github.com/aaronwalsman/ltron)
-
+* HDR全景图生成
+  * [StyleLight: HDR Panorama Generation for Lighting Estimation and Editing](https://arxiv.org/abs/2207.14811)<br>:star:[code](https://github.com/Wanggcong/StyleLight):house:[project](https://style-light.github.io/)
 ## 光学、几何、光场成像
 * 相机姿势
   * [Camera Pose Auto-Encoders for Improving Pose Regression](https://arxiv.org/abs/2207.05530)<br>:star:[code](https://github.com/yolish/camera-pose-auto-encoders)
@@ -111,6 +98,8 @@
 ## Style Transfer(风格迁移)
 * [CCPL: Contrastive Coherence Preserving Loss for Versatile Style Transfer](https://arxiv.org/abs/2207.04808)<br>:open_mouth:oral:star:[code](https://github.com/JarrentWu1031/CCPL)
 * [Learning Graph Neural Networks for Image Style Transfer](https://arxiv.org/abs/2207.11681)
+* 图像风格化
+  * [WISE: Whitebox Image Stylization by Example-based Learning](https://arxiv.org/abs/2207.14606)<br>:star:[code](https://github.com/winfried-loetzsch/wise)
 
 ## Point Cloud(点云)
 
@@ -263,6 +252,7 @@
 
 ## Image Classification(图像分类)
 * [Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset](https://arxiv.org/abs/2207.10664)<br>:star:[code](https://github.com/visipedia/ssw60)
+* [Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels](https://arxiv.org/abs/2207.14476)<br>:star:[code](https://github.com/uitrbn/TSCSI_IDN)
 * 小样本图像分类
   * [Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation](https://arxiv.org/abs/2207.06989)<br>:star:[code](https://github.com/remiMZ/HTS-ECCV22) 
   * [Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification](https://arxiv.org/abs/2207.09519)<br>:star:[code](https://github.com/gaopengcuhk/Tip-Adapter)
@@ -411,6 +401,7 @@
 ## 15.Vision-Language(视觉语言)
 * [FashionViL: Fashion-Focused Vision-and-Language Representation Learning](https://arxiv.org/abs/2207.08150)<br>:star:[code](https://github.com/BrandonHanx/mmf)
 * [NewsStories: Illustrating articles with visual summaries](https://arxiv.org/abs/2207.13061)<br>:star:[code](https://github.com/NewsStoriesData/newsstories.github.io)
+* [Can Shuffling Video Benefit Temporal Bias Problem: A Novel Training Framework for Temporal Grounding](https://arxiv.org/abs/2207.14698)<br>:star:[code](https://github.com/haojc/ShufflingVideosForTSG)
 * 视觉表征学习
   * [Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning](https://arxiv.org/abs/2207.04978)<br>:star:[code](https://github.com/YehLi/ImageNetModel)
   * [Unsupervised Visual Representation Learning by Synchronous Momentum Grouping](https://arxiv.org/abs/2207.06167)
@@ -511,7 +502,9 @@
   * [Combining Internal and External Constraints for Unrolling Shutter in Videos](https://arxiv.org/abs/2207.11725)
 * Video Transition Effects(视频转场特效)
   * [AutoTransition: Learning to Recommend Video Transition Effects](https://arxiv.org/abs/2207.13479)<br>:star:[code](https://github.com/acherstyx/AutoTransition)
-  
+* 视频编解码
+  * [AlphaVC: High-Performance and Efficient Learned Video Compression](https://arxiv.org/abs/2207.14678) 
+ 
 <a name="10"/>
 
 ## 10.Pose Estimation(物体姿势估计)
@@ -580,6 +573,7 @@
   * [Depth Field Networks for Generalizable Multi-view Scene Representation](https://arxiv.org/abs/2207.14287)<br>:house:[project](https://sites.google.com/view/tri-define)
 * 三维视觉
   * [A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision](https://arxiv.org/abs/2207.04997)
+  * [Neural Density-Distance Fields](https://arxiv.org/abs/2207.14455)<br>:star:[code](https://github.com/ueda0319/neddf)
 * 三维房间布局
   * [3D Room Layout Estimation from a Cubemap of Panorama Image via Deep Manhattan Hough Transform](https://arxiv.org/abs/2207.09291)<br>:star:[code](https://github.com/Starrah/DMH-Net)
 * 三维重建
@@ -594,7 +588,7 @@
     * [Unsupervised Deep Multi-Shape Matching](https://arxiv.org/abs/2207.09610)
   * 3D形状合成
     * [Cross-Modal 3D Shape Generation and Manipulation](https://arxiv.org/abs/2207.11795)<br>:star:[code](https://github.com/snap-research/edit3d):house:[project](https://people.cs.umass.edu/~zezhoucheng/edit3d/)
-
+  
 <a name="7"/>
 
 ## 7.Object Tracking(目标跟踪)
@@ -766,7 +760,7 @@
 * [MonteBoxFinder: Detecting and Filtering Primitives to Fit a Noisy Point Cloud](https://arxiv.org/abs/2207.14268)<br>:star:[code](https://github.com/MichaelRamamonjisoa/MonteBoxFinder):house:[project](https://michaelramamonjisoa.github.io/projects/MonteBoxFinder)
 * [Neural Strands: Learning Hair Geometry and Appearance from Multi-View Images](https://arxiv.org/abs/2207.14067)<br>:house:[project](https://radualexandru.github.io/neural_strands/)
 * [A Repulsive Force Unit for Garment Collision Handling in Neural Networks](https://arxiv.org/abs/2207.13871)<br>:house:[project](https://gamma.umd.edu/researchdirections/mlphysics/refu/)
-
+* [Minimal Neural Atlas: Parameterizing Complex Surfaces with Minimal Charts and Distortion](https://arxiv.org/abs/2207.14782)<br>:star:[code](https://github.com/low5545/minimal-neural-atlas)
 
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
