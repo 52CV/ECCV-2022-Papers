@@ -1,3 +1,20 @@
+## 8月1日更新 7 篇
+* HDR全景图生成
+  * [StyleLight: HDR Panorama Generation for Lighting Estimation and Editing](https://arxiv.org/abs/2207.14811)<br>:star:[code](https://github.com/Wanggcong/StyleLight):house:[project](https://style-light.github.io/)
+* 其它
+  * [Minimal Neural Atlas: Parameterizing Complex Surfaces with Minimal Charts and Distortion](https://arxiv.org/abs/2207.14782)<br>:star:[code](https://github.com/low5545/minimal-neural-atlas)
+* VL
+  * [Can Shuffling Video Benefit Temporal Bias Problem: A Novel Training Framework for Temporal Grounding](https://arxiv.org/abs/2207.14698)<br>:star:[code](https://github.com/haojc/ShufflingVideosForTSG)
+* 视频编解码
+  * [AlphaVC: High-Performance and Efficient Learned Video Compression](https://arxiv.org/abs/2207.14678)
+* 图像风格化
+  * [WISE: Whitebox Image Stylization by Example-based Learning](https://arxiv.org/abs/2207.14606)<br>:star:[code](https://github.com/winfried-loetzsch/wise)
+* 分类
+  * [Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels](https://arxiv.org/abs/2207.14476)<br>:star:[code](https://github.com/uitrbn/TSCSI_IDN)
+* 3D
+  * [Neural Density-Distance Fields](https://arxiv.org/abs/2207.14455)<br>:star:[code](https://github.com/ueda0319/neddf)
+
+### —————————————————————————————————————————————
 ## 7月29日更新 12 篇
 
 * 场景重建
