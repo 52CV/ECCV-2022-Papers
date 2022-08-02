@@ -34,21 +34,49 @@
 
 
 
-## 8月1日更新 7 篇
-* HDR全景图生成
-  * [StyleLight: HDR Panorama Generation for Lighting Estimation and Editing](https://arxiv.org/abs/2207.14811)<br>:star:[code](https://github.com/Wanggcong/StyleLight):house:[project](https://style-light.github.io/)
-* 其它
-  * [Minimal Neural Atlas: Parameterizing Complex Surfaces with Minimal Charts and Distortion](https://arxiv.org/abs/2207.14782)<br>:star:[code](https://github.com/low5545/minimal-neural-atlas)
-* VL
-  * [Can Shuffling Video Benefit Temporal Bias Problem: A Novel Training Framework for Temporal Grounding](https://arxiv.org/abs/2207.14698)<br>:star:[code](https://github.com/haojc/ShufflingVideosForTSG)
-* 视频编解码
-  * [AlphaVC: High-Performance and Efficient Learned Video Compression](https://arxiv.org/abs/2207.14678)
-* 图像风格化
-  * [WISE: Whitebox Image Stylization by Example-based Learning](https://arxiv.org/abs/2207.14606)<br>:star:[code](https://github.com/winfried-loetzsch/wise)
-* 分类
-  * [Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels](https://arxiv.org/abs/2207.14476)<br>:star:[code](https://github.com/uitrbn/TSCSI_IDN)
+## 8月2日更新 21 篇
+* VQA
+  * [Video Question Answering with Iterative Video-Text Co-Tokenization](https://arxiv.org/abs/2208.00934)<br>:star:[code](https://sites.google.com/view/videoqa-cotokenization)
+* 3D手-物体
+  * [S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning](https://arxiv.org/abs/2208.00874)<br>:star:[code](https://github.com/eldentse/s2contact):house:[project](https://eldentse.github.io/s2contact/)
+* 姿势迁移
+  * [Skeleton-free Pose Transfer for Stylized 3D Characters](https://arxiv.org/abs/2208.00790)<br>:star:[code](https://github.com/zycliao/skeleton-free-pose-transfer):house:[project](https://zycliao.com/sfpt/)
+  * [Cross Attention Based Style Distribution for Controllable Person Image Synthesis](https://arxiv.org/abs/2208.00712)<br>:star:[code](https://github.com/xyzhouo/CASD)
+* 光流估计
+  * [Deep 360∘ Optical Flow Estimation Based on Multi-Projection Fusion](https://arxiv.org/abs/2208.00776)
+* 细粒度识别
+  * [Improving Fine-Grained Visual Recognition in Low Data Regimes via Self-Boosting Attention Mechanism](https://arxiv.org/abs/2208.00617)<br>:star:[code](https://github.com/GANPerf/SAM)
+* 人体姿势与形状估计
+  * [CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation](https://arxiv.org/abs/2208.00571)<br>:open_mouth:oral:star:[code](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)
+* 自监督
+  * [SdAE: Self-distillated Masked Autoencoder](https://arxiv.org/abs/2208.00449)<br>:star:[code](https://github.com/AbrahamYabo/SdAE)
+* OOD
+  * [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446)<br>:star:[code](https://github.com/cure-lab/MOODCat)
+* OCR
+  * [Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://arxiv.org/abs/2208.00438)<br>:open_mouth:oral:star:[code](https://github.com/xdxie/WordArt)
+* 三维人体运动预测
+  * [Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction](https://arxiv.org/abs/2208.00368)<br>:star:[code](https://github.com/MediaBrain-SJTU/SPGSN)
+* 分割
+  * [Doubly Deformable Aggregation of Covariance Matrices for Few-shot Segmentation](https://arxiv.org/abs/2208.00306)<br>:star:[code](https://github.com/ShadowXZT/DACM-Few-shot.pytorch)
+* 视频理解
+  * [Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding](https://arxiv.org/abs/2208.00281)
+* 6D
+  * [RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation](https://arxiv.org/abs/2208.00237)<br>:star:[code](https://github.com/lolrudy/RBP_Pose)
 * 3D
-  * [Neural Density-Distance Fields](https://arxiv.org/abs/2207.14455)<br>:star:[code](https://github.com/ueda0319/neddf)
+  * [Few-shot Single-view 3D Reconstruction with Memory Prior Contrastive Network](https://arxiv.org/abs/2208.00183)
+* 类增量
+  * [Few-Shot Class-Incremental Learning from an Open-Set Perspective](https://arxiv.org/abs/2208.00147)<br>:star:[code](https://github.com/CanPeng123/FSCIL_ALICE)
+* 度量学习
+  * [DAS: Densely-Anchored Sampling for Deep Metric Learning](https://arxiv.org/abs/2208.00119)<br>:star:[code](https://github.com/lizhaoliu-Lec/DAS)
+* 物体姿势
+  * [Neural Correspondence Field for Object Pose Estimation](https://arxiv.org/abs/2208.00113)<br>:star:[code](https://github.com/LinHuang17/NCF-code):house:[project](https://linhuang17.github.io/NCF/)
+* 人体姿势估计
+  * [Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation](https://arxiv.org/abs/2208.00090)
+* 其它
+  * [Revisiting the Critical Factors of Augmentation-Invariant Representation Learning](https://arxiv.org/abs/2208.00275)<br>:star:[code](https://github.com/megvii-research/revisitAIRL)
+  * [Fast Two-step Blind Optical Aberration Correction](https://arxiv.org/abs/2208.00950)<br>:star:[code](https://github.com/teboli/fast_two_stage_psf_correction)
+
+
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -159,14 +187,19 @@
 
 ## Continual Learning(持续学习)
 * [Balancing Stability and Plasticity through Advanced Null Space in Continual Learning](https://arxiv.org/abs/2207.12061)<br>:open_mouth:oral 
+ 
+ 
+## Metric Learning(度量学习)
+* [DAS: Densely-Anchored Sampling for Deep Metric Learning](https://arxiv.org/abs/2208.00119)<br>:star:[code](https://github.com/lizhaoliu-Lec/DAS)
 
+ 
 ## Incremental Learning(增量学习)
 * [Learning with Recoverable Forgetting](https://arxiv.org/abs/2207.08224)
 * [Incremental Task Learning with Incremental Rank Updates](https://arxiv.org/abs/2207.09074)<br>:star:[code](https://github.com/CSIPlab/task-increment-rank-update)
 * 类增量
   * [Class-incremental Novel Class Discovery](https://arxiv.org/abs/2207.08605)<br>:star:[code](https://github.com/OatmealLiu/class-iNCD) 
   * [Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay](https://arxiv.org/abs/2207.11213)
-
+  * [Few-Shot Class-Incremental Learning from an Open-Set Perspective](https://arxiv.org/abs/2208.00147)<br>:star:[code](https://github.com/CanPeng123/FSCIL_ALICE)
 ## Adversarial  Learning(对抗学习)
 * [Prior-Guided Adversarial Initialization for Fast Adversarial Training](https://arxiv.org/abs/2207.08859)<br>:star:[code](https://github.com/jiaxiaojunQAQ/FGSM-PGI)
 * [Decoupled Adversarial Contrastive Learning for Self-supervised Adversarial Robustness](https://arxiv.org/abs/2207.10899)<br>:open_mouth:oral:star:[code](https://github.com/pantheon5100/DeACL)
@@ -231,6 +264,7 @@
 
 ## Optical Flow(光流)
 * [Secrets of Event-Based Optical Flow](https://arxiv.org/abs/2207.10022)<br>:star:[code](https://github.com/tub-rip/event_based_optical_flow)
+* [Deep 360∘ Optical Flow Estimation Based on Multi-Projection Fusion](https://arxiv.org/abs/2208.00776)
 
 ## Re-identification(重识别)
 * 重识别  
@@ -262,6 +296,9 @@
   * [Identifying Hard Noise in Long-Tailed Sample Distribution](https://arxiv.org/abs/2207.13378)<br>:open_mouth:oral:star:[code](https://github.com/yxymessi/H2E-Framework) 
 * 视觉分类
   * [Visual Knowledge Tracing](https://arxiv.org/abs/2207.10157)<br>:star:[code](https://github.com/nkondapa/VisualKnowledgeTracing)
+* 细粒度识别
+  * [Improving Fine-Grained Visual Recognition in Low Data Regimes via Self-Boosting Attention Mechanism](https://arxiv.org/abs/2208.00617)<br>:star:[code](https://github.com/GANPerf/SAM)  
+
 
 ## Video/Image Super-Resolution(视频/图像超分辨率)
 * 跨模态超分辨率
@@ -322,14 +359,16 @@
   * [SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://arxiv.org/abs/2207.10256)
   * [Optimal Boxes: Boosting End-to-End Scene Text Recognition by Adjusting Annotated Bounding Boxes via Reinforcement Learning](https://arxiv.org/abs/2207.11934)
   * [Contextual Text Block Detection towards Scene Text Understanding](https://arxiv.org/abs/2207.12955)<br>:house:[project](https://sg-vilab.github.io/publication/xue2022contextual/)  
+  * [Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://arxiv.org/abs/2208.00438)<br>:open_mouth:oral:star:[code](https://github.com/xdxie/WordArt)
 * 视频文本检测
   * [Real-time End-to-End Video Text Spotter with Contrastive Representation Learning](https://arxiv.org/abs/2207.08417)<br>:star:[code](https://github.com/weijiawu/CoText)
-
+  
 <a name="21"/>
 
 ## 21.Semi/self-supervised learning(半/自监督)
 * 自监督
   * [GOCA: Guided Online Cluster Assignment for Self-Supervised Video Representation Learning](https://arxiv.org/abs/2207.10158)<br>:star:[code](https://github.com/Seleucia/goca)
+  * [SdAE: Self-distillated Masked Autoencoder](https://arxiv.org/abs/2208.00449)<br>:star:[code](https://github.com/AbrahamYabo/SdAE)
 * 半监督
   * [Towards Realistic Semi-Supervised Learning](https://arxiv.org/abs/2207.02269)
   * [OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning](https://arxiv.org/abs/2207.02261)
@@ -412,6 +451,7 @@
 ## 14.Visual Answer Questions(视觉问答)
 * [Weakly Supervised Grounding for VQA in Vision-Language Transformers](https://arxiv.org/abs/2207.02334)<br>:star:[code](https://github.com/aurooj/WSG-VQA-VLTransformers)
 * [Rethinking Data Augmentation for Robust Visual Question Answering](https://arxiv.org/abs/2207.08739)<br>:star:[code](https://github.com/ItemZheng/KDDAug)
+* [Video Question Answering with Iterative Video-Text Co-Tokenization](https://arxiv.org/abs/2208.00934)<br>:star:[code](https://sites.google.com/view/videoqa-cotokenization)
 * Video-QA
   * [Video Graph Transformer for Video Question Answering](https://arxiv.org/abs/2207.05342)<br>:star:[code](https://github.com/sail-sg/VGT)
 
@@ -496,6 +536,7 @@
   * [NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition](https://arxiv.org/abs/2207.10388)<br>:house:[project](https://lawrencexia2008.github.io/projects/nsnet)
 * 视频理解
   * [Spotting Temporally Precise, Fine-Grained Events in Video](https://arxiv.org/abs/2207.10213)<br>:star:[code](https://github.com/jhong93/spot):house:[project](https://jhong93.github.io/projects/spot.html)
+  * [Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding](https://arxiv.org/abs/2208.00281)
 * 视频分类
   * [Inductive and Transductive Few-Shot Video Classification via Appearance and Temporal Alignments](https://arxiv.org/abs/2207.10785)<br>:star:[code](https://github.com/VinAIResearch/fsvc-ata)
 * 视频卷帘快门(Rolling shutter)
@@ -508,16 +549,17 @@
 <a name="10"/>
 
 ## 10.Pose Estimation(物体姿势估计)
+* 物体姿势
+  * [Neural Correspondence Field for Object Pose Estimation](https://arxiv.org/abs/2208.00113)<br>:star:[code](https://github.com/LinHuang17/NCF-code):house:[project](https://linhuang17.github.io/NCF/)
 * 抓取物体姿势估计
   * [TransGrasp: Grasp Pose Estimation of a Category of Objects by Transferring Grasps from Only One Labeled Instance](https://arxiv.org/abs/2207.07861)<br>:star:[code](https://github.com/yanjh97/TransGrasp)
 * 6D
   * [Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks](https://arxiv.org/abs/2207.05444)<br>:star:[code](https://github.com/JiehongLin/Self-DPDN)
   * [ShAPO: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization](https://arxiv.org/abs/2207.13691)<br>:house:[project](https://zubair-irshad.github.io/projects/ShAPO.html)
+  * [RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation](https://arxiv.org/abs/2208.00237)<br>:star:[code](https://github.com/lolrudy/RBP_Pose)
 * 9D
   * [CATRE: Iterative Point Clouds Alignment for Category-level Object Pose Refinement](https://arxiv.org/abs/2207.08082)<br>:star:[code](https://github.com/THU-DA-6D-Pose-Group/CATRE)
 
-
-  
 <a name="9"/>
 
 ## 9.Human Pose Estimation(人体姿态估计)
@@ -529,15 +571,19 @@
   * [Learning Implicit Templates for Point-Based Clothed Human Modeling](https://arxiv.org/abs/2207.06955)<br>:star:[code](https://github.com/jsnln/fite):house:[project](https://jsnln.github.io/fite/)
 * 动态人体数字化
   * [NDF: Neural Deformable Fields for Dynamic Human Modelling](https://arxiv.org/abs/2207.09193)<br>:star:[code](https://github.com/HKBU-VSComputing/2022_ECCV_NDF)
+* 人体姿势与形状估计
+  * [CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation](https://arxiv.org/abs/2208.00571)<br>:open_mouth:oral:star:[code](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)
 * 三维人体姿势估计
   * [DH-AUG: DH Forward Kinematics Model Driven Augmentation for 3D Human Pose Estimation](https://arxiv.org/abs/2207.09303)<br>:star:[code](https://github.com/hlz0606/DH-AUG-DH-Forward-Kinematics-Model-Driven-Augmentation-for-3D-Human-Pose-Estimation)
   * [Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection](https://arxiv.org/abs/2207.10955)
+  * [Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation](https://arxiv.org/abs/2208.00090)
 * 三维人体重建
   * [3D Clothed Human Reconstruction in the Wild](https://arxiv.org/abs/2207.10053)<br>:star:[code](https://github.com/hygenie1228/ClothWild_RELEASE)
   * [UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation](https://arxiv.org/abs/2207.09835)<br>:star:[code](https://github.com/ShenhanQian/UNIF)
   * [The One Where They Reconstructed 3D Humans and Environments in TV Shows](https://arxiv.org/abs/2207.14279)<br>:star:[code](https://github.com/ethanweber/sitcoms3D):house:[project](http://ethanweber.me/sitcoms3D/)
 * 三维交互式手部姿势估计
   * [3D Interacting Hand Pose Estimation by Hand De-occlusion and Removal](https://arxiv.org/abs/2207.11061)<br>:star:[code](https://github.com/MengHao666/HDR)
+  * [S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning](https://arxiv.org/abs/2208.00874)<br>:star:[code](https://github.com/eldentse/s2contact):house:[project](https://eldentse.github.io/s2contact/)
 * 姿势合成
   * [TIPS: Text-Induced Pose Synthesis](https://arxiv.org/abs/2207.11718)<br>:star:[code](https://github.com/prasunroy/tips):house:[project](https://prasunroy.github.io/tips/)
 * 手物重建
@@ -550,6 +596,11 @@
   * [AvatarPoser: Articulated Full-Body Pose Tracking from Sparse Motion Sensing](https://arxiv.org/abs/2207.13784)<br>:star:[code](https://github.com/eth-siplab/AvatarPoser)
 * 三维人体网格恢复
   * [Cross-Attention of Disentangled Modalities for 3D Human Mesh Recovery with Transformers](https://arxiv.org/abs/2207.13820)<br>:star:[code](https://github.com/postech-ami/FastMETRO) 
+* 三维人体运动预测
+  * [Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction](https://arxiv.org/abs/2208.00368)<br>:star:[code](https://github.com/MediaBrain-SJTU/SPGSN) 
+* 姿势迁移
+  * [Skeleton-free Pose Transfer for Stylized 3D Characters](https://arxiv.org/abs/2208.00790)<br>:star:[code](https://github.com/zycliao/skeleton-free-pose-transfer):house:[project](https://zycliao.com/sfpt/)
+  * [Cross Attention Based Style Distribution for Controllable Person Image Synthesis](https://arxiv.org/abs/2208.00712)<br>:star:[code](https://github.com/xyzhouo/CASD)
 
 <a name="8"/>
 
@@ -582,6 +633,7 @@
   * [Monocular 3D Object Reconstruction with GAN Inversion](https://arxiv.org/abs/2207.10061)<br>:star:[code](https://github.com/junzhezhang/mesh-inversion):house:[project](https://www.mmlab-ntu.com/project/meshinversion/)
   * [Structural Causal 3D Reconstruction](https://arxiv.org/abs/2207.10156)
   * [2D GANs Meet Unsupervised Single-view 3D Reconstruction](https://arxiv.org/abs/2207.10183)<br>:star:[code](https://github.com/liuf1990/GANSVR):house:[project](http://cvlab.cse.msu.edu/project-gansvr.html)
+  * [Few-shot Single-view 3D Reconstruction with Memory Prior Contrastive Network](https://arxiv.org/abs/2208.00183)
 * 三维形状
   * [3D Shape Sequence of Human Comparison and Classification using Current and Varifolds](https://arxiv.org/abs/2207.12485)<br>:star:[code](https://github.com/CRISTAL-3DSAM/HumanComparisonVarifolds)
   * 3D形状匹配
@@ -589,6 +641,7 @@
   * 3D形状合成
     * [Cross-Modal 3D Shape Generation and Manipulation](https://arxiv.org/abs/2207.11795)<br>:star:[code](https://github.com/snap-research/edit3d):house:[project](https://people.cs.umass.edu/~zezhoucheng/edit3d/)
   
+
 <a name="7"/>
 
 ## 7.Object Tracking(目标跟踪)
@@ -647,7 +700,8 @@
   * [Unsupervised Domain Adaptation for One-stage Object Detector using Offsets to Bounding Box](https://arxiv.org/abs/2207.09656)
 * 目标计数
   * [Few-shot Object Counting and Detection](https://arxiv.org/abs/2207.10988)<br>:star:[code](https://github.com/VinAIResearch/Counting-DETR)
-
+* OOD
+  * [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446)<br>:star:[code](https://github.com/cure-lab/MOODCat)
 
 <a name="5"/>
 
@@ -722,6 +776,7 @@
 * 小样本分割
   * [Dense Cross-Query-and-Support Attention Weighted Mask Aggregation for Few-Shot Segmentation](https://arxiv.org/abs/2207.08549)<br>:star:[code](https://github.com/pawn-sxy/DCAMA)
   * [Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation](https://arxiv.org/abs/2207.10866)<br>:star:[code](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer):house:[project](https://seokju-cho.github.io/VAT/)
+  * [Doubly Deformable Aggregation of Covariance Matrices for Few-shot Segmentation](https://arxiv.org/abs/2208.00306)<br>:star:[code](https://github.com/ShadowXZT/DACM-Few-shot.pytorch)
 
 <a name="1"/>
 
@@ -761,6 +816,8 @@
 * [Neural Strands: Learning Hair Geometry and Appearance from Multi-View Images](https://arxiv.org/abs/2207.14067)<br>:house:[project](https://radualexandru.github.io/neural_strands/)
 * [A Repulsive Force Unit for Garment Collision Handling in Neural Networks](https://arxiv.org/abs/2207.13871)<br>:house:[project](https://gamma.umd.edu/researchdirections/mlphysics/refu/)
 * [Minimal Neural Atlas: Parameterizing Complex Surfaces with Minimal Charts and Distortion](https://arxiv.org/abs/2207.14782)<br>:star:[code](https://github.com/low5545/minimal-neural-atlas)
+* [Revisiting the Critical Factors of Augmentation-Invariant Representation Learning](https://arxiv.org/abs/2208.00275)<br>:star:[code](https://github.com/megvii-research/revisitAIRL)
+* [Fast Two-step Blind Optical Aberration Correction](https://arxiv.org/abs/2208.00950)<br>:star:[code](https://github.com/teboli/fast_two_stage_psf_correction)
 
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
