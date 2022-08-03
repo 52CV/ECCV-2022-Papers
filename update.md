@@ -1,3 +1,47 @@
+## 8月2日更新 21 篇
+* VQA
+  * [Video Question Answering with Iterative Video-Text Co-Tokenization](https://arxiv.org/abs/2208.00934)<br>:star:[code](https://sites.google.com/view/videoqa-cotokenization)
+* 3D手-物体
+  * [S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning](https://arxiv.org/abs/2208.00874)<br>:star:[code](https://github.com/eldentse/s2contact):house:[project](https://eldentse.github.io/s2contact/)
+* 姿势迁移
+  * [Skeleton-free Pose Transfer for Stylized 3D Characters](https://arxiv.org/abs/2208.00790)<br>:star:[code](https://github.com/zycliao/skeleton-free-pose-transfer):house:[project](https://zycliao.com/sfpt/)
+  * [Cross Attention Based Style Distribution for Controllable Person Image Synthesis](https://arxiv.org/abs/2208.00712)<br>:star:[code](https://github.com/xyzhouo/CASD)
+* 光流估计
+  * [Deep 360∘ Optical Flow Estimation Based on Multi-Projection Fusion](https://arxiv.org/abs/2208.00776)
+* 细粒度识别
+  * [Improving Fine-Grained Visual Recognition in Low Data Regimes via Self-Boosting Attention Mechanism](https://arxiv.org/abs/2208.00617)<br>:star:[code](https://github.com/GANPerf/SAM)
+* 人体姿势与形状估计
+  * [CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation](https://arxiv.org/abs/2208.00571)<br>:open_mouth:oral:star:[code](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)
+* 自监督
+  * [SdAE: Self-distillated Masked Autoencoder](https://arxiv.org/abs/2208.00449)<br>:star:[code](https://github.com/AbrahamYabo/SdAE)
+* OOD
+  * [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446)<br>:star:[code](https://github.com/cure-lab/MOODCat)
+* OCR
+  * [Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://arxiv.org/abs/2208.00438)<br>:open_mouth:oral:star:[code](https://github.com/xdxie/WordArt)
+* 三维人体运动预测
+  * [Skeleton-Parted Graph Scattering Networks for 3D Human Motion Prediction](https://arxiv.org/abs/2208.00368)<br>:star:[code](https://github.com/MediaBrain-SJTU/SPGSN)
+* 分割
+  * [Doubly Deformable Aggregation of Covariance Matrices for Few-shot Segmentation](https://arxiv.org/abs/2208.00306)<br>:star:[code](https://github.com/ShadowXZT/DACM-Few-shot.pytorch)
+* 视频理解
+  * [Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding](https://arxiv.org/abs/2208.00281)
+* 6D
+  * [RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation](https://arxiv.org/abs/2208.00237)<br>:star:[code](https://github.com/lolrudy/RBP_Pose)
+* 3D
+  * [Few-shot Single-view 3D Reconstruction with Memory Prior Contrastive Network](https://arxiv.org/abs/2208.00183)
+* 类增量
+  * [Few-Shot Class-Incremental Learning from an Open-Set Perspective](https://arxiv.org/abs/2208.00147)<br>:star:[code](https://github.com/CanPeng123/FSCIL_ALICE)
+* 度量学习
+  * [DAS: Densely-Anchored Sampling for Deep Metric Learning](https://arxiv.org/abs/2208.00119)<br>:star:[code](https://github.com/lizhaoliu-Lec/DAS)
+* 物体姿势
+  * [Neural Correspondence Field for Object Pose Estimation](https://arxiv.org/abs/2208.00113)<br>:star:[code](https://github.com/LinHuang17/NCF-code):house:[project](https://linhuang17.github.io/NCF/)
+* 人体姿势估计
+  * [Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation](https://arxiv.org/abs/2208.00090)
+* 其它
+  * [Revisiting the Critical Factors of Augmentation-Invariant Representation Learning](https://arxiv.org/abs/2208.00275)<br>:star:[code](https://github.com/megvii-research/revisitAIRL)
+  * [Fast Two-step Blind Optical Aberration Correction](https://arxiv.org/abs/2208.00950)<br>:star:[code](https://github.com/teboli/fast_two_stage_psf_correction)
+
+
+
 ## 8月1日更新 7 篇
 * HDR全景图生成
   * [StyleLight: HDR Panorama Generation for Lighting Estimation and Editing](https://arxiv.org/abs/2207.14811)<br>:star:[code](https://github.com/Wanggcong/StyleLight):house:[project](https://style-light.github.io/)
