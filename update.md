@@ -1,3 +1,12 @@
+## 8月3日更新 3 篇
+* 数据集
+  * [UnrealEgo: A New Dataset for Robust Egocentric 3D Human Motion Capture](https://arxiv.org/abs/2208.01633)<br>:star:[code](https://github.com/hiroyasuakada/UnrealEgo):house:[project](https://4dqv.mpi-inf.mpg.de/UnrealEgo/)<br>用于鲁棒性以自我为中心的三维人类运动捕捉的新数据集
+* 异常检测
+  * [DSR -- A dual subspace re-projection network for surface anomaly detection](https://arxiv.org/abs/2208.01521)<br>:star:[code](https://github.com/VitjanZ/DSR_anomaly_detection)
+* 人体运动预测
+  * [Overlooked Poses Actually Make Sense: Distilling Privileged Knowledge for Human Motion Prediction](https://arxiv.org/abs/2208.01302)
+
+
 ## 8月2日更新 21 篇
 * VQA
   * [Video Question Answering with Iterative Video-Text Co-Tokenization](https://arxiv.org/abs/2208.00934)<br>:star:[code](https://sites.google.com/view/videoqa-cotokenization)
