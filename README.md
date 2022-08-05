@@ -32,19 +32,20 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 8月4日更新 6 篇
-* 目标检测
-  * [KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation](https://arxiv.org/abs/2208.02178)<br>:star:[code](https://github.com/zhangjinCV/KD-SCFNet)
-* 深度理解
-  * [Gradient-based Uncertainty for Monocular Depth Estimation](https://arxiv.org/abs/2208.02005)<br>:star:[code](https://github.com/jhornauer/GrUMoDepth)
+## 8月5日更新 6 篇
+* 视频识别
+  * [Expanding Language-Image Pretrained Models for General Video Recognition](https://arxiv.org/abs/2208.02816)<br>:open_mouth:oral:star:[code](https://github.com/microsoft/VideoX/tree/master/X-CLIP)
+* 手语识别
+  * [Automatic dense annotation of large-vocabulary sign language videos](https://arxiv.org/abs/2208.02802)<br>:house:[project](https://www.robots.ox.ac.uk/~vgg/research/bsldensify/)
 * 跟踪
-  * [PolarMOT: How Far Can Geometric Relations Take Us in 3D Multi-Object Tracking?](https://arxiv.org/abs/2208.01957)
-* 量化
-  * [PalQuant: Accelerating High-precision Networks on Low-precision Accelerators](https://arxiv.org/abs/2208.01944)<br>:star:[code](https://github.com/huqinghao/PalQuant)
-* 点云配准
-  * [SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud](https://arxiv.org/abs/2208.01925)<br>:star:[code](https://github.com/zxrzju/SuperLine3D)
-* 图像修复
-  * [Learning Prior Feature and Attention Enhanced Image Inpainting](https://arxiv.org/abs/2208.01837)<br>:star:[code](https://github.com/ewrfcas/MAE-FAR)
+  * [SOMPT22: A Surveillance Oriented Multi-Pedestrian Tracking Dataset](https://arxiv.org/abs/2208.02580)
+* 分类
+  * [Constructing Balance from Imbalance for Long-tailed Image Recognition](https://arxiv.org/abs/2208.02567)<br>:star:[code](https://github.com/silicx/DLSA)
+* 动作识别
+  * [Privacy-Preserving Action Recognition via Motion Difference Quantization](https://arxiv.org/abs/2208.02459)<br>:star:[code](https://github.com/suakaw/BDQ_PrivacyAR)
+* 其它
+  * [Transformers as Meta-Learners for Implicit Neural Representations](https://arxiv.org/abs/2208.02801)<br>:star:[code](https://github.com/yinboc/trans-inr):house:[project](https://yinboc.github.io/trans-inr/)
+
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -71,6 +72,9 @@
   * [Break and Make: Interactive Structural Understanding Using LEGO Bricks](https://arxiv.org/abs/2207.13738)<br>:star:[code](https://github.com/aaronwalsman/ltron)
 * HDR全景图生成
   * [StyleLight: HDR Panorama Generation for Lighting Estimation and Editing](https://arxiv.org/abs/2207.14811)<br>:star:[code](https://github.com/Wanggcong/StyleLight):house:[project](https://style-light.github.io/)
+* 手语识别
+  * [Automatic dense annotation of large-vocabulary sign language videos](https://arxiv.org/abs/2208.02802)<br>:house:[project](https://www.robots.ox.ac.uk/~vgg/research/bsldensify/)
+
 ## 光学、几何、光场成像
 * 相机姿势
   * [Camera Pose Auto-Encoders for Improving Pose Regression](https://arxiv.org/abs/2207.05530)<br>:star:[code](https://github.com/yolish/camera-pose-auto-encoders)
@@ -262,6 +266,7 @@
 ## Image Classification(图像分类)
 * [Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset](https://arxiv.org/abs/2207.10664)<br>:star:[code](https://github.com/visipedia/ssw60)
 * [Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels](https://arxiv.org/abs/2207.14476)<br>:star:[code](https://github.com/uitrbn/TSCSI_IDN)
+* [Constructing Balance from Imbalance for Long-tailed Image Recognition](https://arxiv.org/abs/2208.02567)<br>:star:[code](https://github.com/silicx/DLSA)
 * 小样本图像分类
   * [Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation](https://arxiv.org/abs/2207.06989)<br>:star:[code](https://github.com/remiMZ/HTS-ECCV22) 
   * [Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification](https://arxiv.org/abs/2207.09519)<br>:star:[code](https://github.com/gaopengcuhk/Tip-Adapter)
@@ -273,7 +278,6 @@
   * [Visual Knowledge Tracing](https://arxiv.org/abs/2207.10157)<br>:star:[code](https://github.com/nkondapa/VisualKnowledgeTracing)
 * 细粒度识别
   * [Improving Fine-Grained Visual Recognition in Low Data Regimes via Self-Boosting Attention Mechanism](https://arxiv.org/abs/2208.00617)<br>:star:[code](https://github.com/GANPerf/SAM)  
-
 
 ## Video/Image Super-Resolution(视频/图像超分辨率)
 * 跨模态超分辨率
@@ -449,6 +453,7 @@
   * [Hierarchically Self-Supervised Transformer for Human Skeleton Representation Learning](https://arxiv.org/abs/2207.09644)<br>:star:[code](https://github.com/yuxiaochen1103/Hi-TRS)
   * [An Efficient Spatio-Temporal Pyramid Transformer for Action Detection](https://arxiv.org/abs/2207.10448)
   * [Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition](https://arxiv.org/abs/2207.13259)<br>:star:[code](https://github.com/MartinXM/TPS)
+ * [Privacy-Preserving Action Recognition via Motion Difference Quantization](https://arxiv.org/abs/2208.02459)<br>:star:[code](https://github.com/suakaw/BDQ_PrivacyAR)
  * 基于骨架动作识别
     * [Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning](https://arxiv.org/abs/2207.06101)<br>:star:[code](https://github.com/Boeun-Kim/GL-Transformer)
   * 小样本动作识别
@@ -509,6 +514,7 @@
 * 视频识别
   * [Temporal Saliency Query Network for Efficient Video Recognition](https://arxiv.org/abs/2207.10379)<br>:house:[project](https://lawrencexia2008.github.io/projects/tsqnet)
   * [NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition](https://arxiv.org/abs/2207.10388)<br>:house:[project](https://lawrencexia2008.github.io/projects/nsnet)
+  * [Expanding Language-Image Pretrained Models for General Video Recognition](https://arxiv.org/abs/2208.02816)<br>:open_mouth:oral:star:[code](https://github.com/microsoft/VideoX/tree/master/X-CLIP)
 * 视频理解
   * [Spotting Temporally Precise, Fine-Grained Events in Video](https://arxiv.org/abs/2207.10213)<br>:star:[code](https://github.com/jhong93/spot):house:[project](https://jhong93.github.io/projects/spot.html)
   * [Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding](https://arxiv.org/abs/2208.00281)
@@ -520,7 +526,7 @@
   * [AutoTransition: Learning to Recommend Video Transition Effects](https://arxiv.org/abs/2207.13479)<br>:star:[code](https://github.com/acherstyx/AutoTransition)
 * 视频编解码
   * [AlphaVC: High-Performance and Efficient Learned Video Compression](https://arxiv.org/abs/2207.14678) 
- 
+
 <a name="10"/>
 
 ## 10.Pose Estimation(物体姿势估计)
@@ -630,6 +636,7 @@
   * [MOTCOM: The Multi-Object Tracking Dataset Complexity Metric](https://arxiv.org/abs/2207.10031)<br>:star:[code](https://github.com/JoakimHaurum/MOTCOM):house:[project](https://vap.aau.dk/motcom/)
   * [Tracking Every Thing in the Wild](https://arxiv.org/abs/2207.12978)
   * [PolarMOT: How Far Can Geometric Relations Take Us in 3D Multi-Object Tracking?](https://arxiv.org/abs/2208.01957)
+  * [SOMPT22: A Surveillance Oriented Multi-Pedestrian Tracking Dataset](https://arxiv.org/abs/2208.02580)
 * 视觉跟踪
   * [AiATrack: Attention in Attention for Transformer Visual Tracking](https://arxiv.org/abs/2207.09603)<br>:star:[code](https://github.com/Little-Podi/AiATrack)
 
@@ -797,6 +804,7 @@
 * [Minimal Neural Atlas: Parameterizing Complex Surfaces with Minimal Charts and Distortion](https://arxiv.org/abs/2207.14782)<br>:star:[code](https://github.com/low5545/minimal-neural-atlas)
 * [Revisiting the Critical Factors of Augmentation-Invariant Representation Learning](https://arxiv.org/abs/2208.00275)<br>:star:[code](https://github.com/megvii-research/revisitAIRL)
 * [Fast Two-step Blind Optical Aberration Correction](https://arxiv.org/abs/2208.00950)<br>:star:[code](https://github.com/teboli/fast_two_stage_psf_correction)
+* [Transformers as Meta-Learners for Implicit Neural Representations](https://arxiv.org/abs/2208.02801)<br>:star:[code](https://github.com/yinboc/trans-inr):house:[project](https://yinboc.github.io/trans-inr/)
 
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
