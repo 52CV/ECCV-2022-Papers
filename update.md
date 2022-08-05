@@ -1,3 +1,18 @@
+## 8月5日更新 6 篇
+* 视频识别
+  * [Expanding Language-Image Pretrained Models for General Video Recognition](https://arxiv.org/abs/2208.02816)<br>:open_mouth:oral:star:[code](https://github.com/microsoft/VideoX/tree/master/X-CLIP)
+* 手语识别
+  * [Automatic dense annotation of large-vocabulary sign language videos](https://arxiv.org/abs/2208.02802)<br>:house:[project](https://www.robots.ox.ac.uk/~vgg/research/bsldensify/)
+* 跟踪
+  * [SOMPT22: A Surveillance Oriented Multi-Pedestrian Tracking Dataset](https://arxiv.org/abs/2208.02580)
+* 分类
+  * [Constructing Balance from Imbalance for Long-tailed Image Recognition](https://arxiv.org/abs/2208.02567)<br>:star:[code](https://github.com/silicx/DLSA)
+* 动作识别
+  * [Privacy-Preserving Action Recognition via Motion Difference Quantization](https://arxiv.org/abs/2208.02459)<br>:star:[code](https://github.com/suakaw/BDQ_PrivacyAR)
+* 其它
+  * [Transformers as Meta-Learners for Implicit Neural Representations](https://arxiv.org/abs/2208.02801)<br>:star:[code](https://github.com/yinboc/trans-inr):house:[project](https://yinboc.github.io/trans-inr/)
+
+
 ## 8月4日更新 6 篇
 * 目标检测
   * [KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation](https://arxiv.org/abs/2208.02178)<br>:star:[code](https://github.com/zhangjinCV/KD-SCFNet)
