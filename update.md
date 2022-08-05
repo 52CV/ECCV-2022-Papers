@@ -1,3 +1,17 @@
+## 8月4日更新 6 篇
+* 目标检测
+  * [KD-SCFNet: Towards More Accurate and Efficient Salient Object Detection via Knowledge Distillation](https://arxiv.org/abs/2208.02178)<br>:star:[code](https://github.com/zhangjinCV/KD-SCFNet)
+* 深度理解
+  * [Gradient-based Uncertainty for Monocular Depth Estimation](https://arxiv.org/abs/2208.02005)<br>:star:[code](https://github.com/jhornauer/GrUMoDepth)
+* 跟踪
+  * [PolarMOT: How Far Can Geometric Relations Take Us in 3D Multi-Object Tracking?](https://arxiv.org/abs/2208.01957)
+* 量化
+  * [PalQuant: Accelerating High-precision Networks on Low-precision Accelerators](https://arxiv.org/abs/2208.01944)<br>:star:[code](https://github.com/huqinghao/PalQuant)
+* 点云配准
+  * [SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud](https://arxiv.org/abs/2208.01925)<br>:star:[code](https://github.com/zxrzju/SuperLine3D)
+* 图像修复
+  * [Learning Prior Feature and Attention Enhanced Image Inpainting](https://arxiv.org/abs/2208.01837)<br>:star:[code](https://github.com/ewrfcas/MAE-FAR)
+
 ## 8月3日更新 3 篇
 * 数据集
   * [UnrealEgo: A New Dataset for Robust Egocentric 3D Human Motion Capture](https://arxiv.org/abs/2208.01633)<br>:star:[code](https://github.com/hiroyasuakada/UnrealEgo):house:[project](https://4dqv.mpi-inf.mpg.de/UnrealEgo/)<br>用于鲁棒性以自我为中心的三维人类运动捕捉的新数据集
