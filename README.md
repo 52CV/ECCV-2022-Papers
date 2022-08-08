@@ -21,7 +21,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 7 月 22 日，已整理 144 篇。
+## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 8 月 5 日，已整理 295 篇。
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
@@ -32,20 +32,15 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 8月5日更新 6 篇
-* 视频识别
-  * [Expanding Language-Image Pretrained Models for General Video Recognition](https://arxiv.org/abs/2208.02816)<br>:open_mouth:oral:star:[code](https://github.com/microsoft/VideoX/tree/master/X-CLIP)
-* 手语识别
-  * [Automatic dense annotation of large-vocabulary sign language videos](https://arxiv.org/abs/2208.02802)<br>:house:[project](https://www.robots.ox.ac.uk/~vgg/research/bsldensify/)
-* 跟踪
-  * [SOMPT22: A Surveillance Oriented Multi-Pedestrian Tracking Dataset](https://arxiv.org/abs/2208.02580)
-* 分类
-  * [Constructing Balance from Imbalance for Long-tailed Image Recognition](https://arxiv.org/abs/2208.02567)<br>:star:[code](https://github.com/silicx/DLSA)
-* 动作识别
-  * [Privacy-Preserving Action Recognition via Motion Difference Quantization](https://arxiv.org/abs/2208.02459)<br>:star:[code](https://github.com/suakaw/BDQ_PrivacyAR)
+## 8月8日更新 4 篇
+* 目标检测
+  * [Exploring Resolution and Degradation Clues as Self-supervised Signal for Low Quality Object](https://arxiv.org/abs/2208.03062)<br>:star:[code](https://github.com/cuiziteng/ECCV_AERIS)
+* VSR
+  * [Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution](https://arxiv.org/abs/2208.03012)<br>:star:[code](https://github.com/researchmm/FTVSR)
+* 抠图
+  * [TransMatting: Enhancing Transparent Objects Matting with Transformers](https://arxiv.org/abs/2208.03007)<br>:star:[code](https://github.com/AceCHQ/TransMatting)
 * 其它
-  * [Transformers as Meta-Learners for Implicit Neural Representations](https://arxiv.org/abs/2208.02801)<br>:star:[code](https://github.com/yinboc/trans-inr):house:[project](https://yinboc.github.io/trans-inr/)
-
+  * [Neighborhood Collective Estimation for Noisy Label Identification and Correction](https://arxiv.org/abs/2208.03207)<br>:star:[code](https://github.com/lijichang/LNL-NCE)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -288,7 +283,8 @@
   * [Reference-based Image Super-Resolution with Deformable Attention Transformer](https://arxiv.org/abs/2207.11938)<br>:star:[code](https://github.com/caojiezhang/DATSR) 
 * 视频超分辨率
   * [Towards Interpretable Video Super-Resolution via Alternating Optimization](https://arxiv.org/abs/2207.10765)<br>:star:[code](https://github.com/caojiezhang/DAVSR)
- 
+  * [Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution](https://arxiv.org/abs/2208.03012)<br>:star:[code](https://github.com/researchmm/FTVSR)
+
 ## 25.Autonomous vehicles(自动驾驶)
 * 车辆轨迹预测
   * [Hierarchical Latent Structure for Multi-Modal Vehicle Trajectory Forecasting](https://arxiv.org/abs/2207.04624)<br>:star:[code](https://github.com/d1024choi/HLSTrajForecast)
@@ -654,6 +650,7 @@
 * [PoserNet: Refining Relative Camera Poses Exploiting Object Detections](https://arxiv.org/abs/2207.09445)<br>:star:[code](https://github.com/IIT-PAVIS/PoserNet)
 * [Robust Object Detection With Inaccurate Bounding Boxes](https://arxiv.org/abs/2207.09697)<br>:star:[code](https://github.com/cxliu0/OA-MIL)
 * [UC-OWOD: Unknown-Classified Open World Object Detection](https://arxiv.org/abs/2207.11455)<br>:star:[code](https://github.com/JohnWuzh/UC-OWOD)
+* [Exploring Resolution and Degradation Clues as Self-supervised Signal for Low Quality Object](https://arxiv.org/abs/2208.03062)<br>:star:[code](https://github.com/cuiziteng/ECCV_AERIS)
 * 3D目标检测
   * [DID-M3D: Decoupling Instance Depth for Monocular 3D Object Detection](https://arxiv.org/abs/2207.08531)<br>:star:[code](https://github.com/SPengLiang/DID-M3D)
   * [Rethinking IoU-based Optimization for Single-stage 3D Object Detection](https://arxiv.org/abs/2207.09332)<br>:star:[code](https://github.com/hlsheng1/RDIoU)
@@ -738,7 +735,6 @@
 * 语义图像编辑
   * [Context-Consistent Semantic Image Editing with Style-Preserved Modulation](https://arxiv.org/abs/2207.06252)<br>:star:[code](https://github.com/WuyangLuo/SPMPGAN)
 
-
 <a name="2"/>
 
 ## 2.Image Segmentation(图像分割)
@@ -763,6 +759,8 @@
   * [Dense Cross-Query-and-Support Attention Weighted Mask Aggregation for Few-Shot Segmentation](https://arxiv.org/abs/2207.08549)<br>:star:[code](https://github.com/pawn-sxy/DCAMA)
   * [Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation](https://arxiv.org/abs/2207.10866)<br>:star:[code](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer):house:[project](https://seokju-cho.github.io/VAT/)
   * [Doubly Deformable Aggregation of Covariance Matrices for Few-shot Segmentation](https://arxiv.org/abs/2208.00306)<br>:star:[code](https://github.com/ShadowXZT/DACM-Few-shot.pytorch)
+* 抠图
+  * [TransMatting: Enhancing Transparent Objects Matting with Transformers](https://arxiv.org/abs/2208.03007)<br>:star:[code](https://github.com/AceCHQ/TransMatting)
 
 <a name="1"/>
 
@@ -805,6 +803,8 @@
 * [Revisiting the Critical Factors of Augmentation-Invariant Representation Learning](https://arxiv.org/abs/2208.00275)<br>:star:[code](https://github.com/megvii-research/revisitAIRL)
 * [Fast Two-step Blind Optical Aberration Correction](https://arxiv.org/abs/2208.00950)<br>:star:[code](https://github.com/teboli/fast_two_stage_psf_correction)
 * [Transformers as Meta-Learners for Implicit Neural Representations](https://arxiv.org/abs/2208.02801)<br>:star:[code](https://github.com/yinboc/trans-inr):house:[project](https://yinboc.github.io/trans-inr/)
+* [Neighborhood Collective Estimation for Noisy Label Identification and Correction](https://arxiv.org/abs/2208.03207)<br>:star:[code](https://github.com/lijichang/LNL-NCE)
 
+  
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
