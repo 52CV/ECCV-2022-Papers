@@ -1,3 +1,15 @@
+## 8月8日更新 4 篇
+* 目标检测
+  * [Exploring Resolution and Degradation Clues as Self-supervised Signal for Low Quality Object](https://arxiv.org/abs/2208.03062)<br>:star:[code](https://github.com/cuiziteng/ECCV_AERIS)
+* VSR
+  * [Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution](https://arxiv.org/abs/2208.03012)<br>:star:[code](https://github.com/researchmm/FTVSR)
+* 抠图
+  * [TransMatting: Enhancing Transparent Objects Matting with Transformers](https://arxiv.org/abs/2208.03007)<br>:star:[code](https://github.com/AceCHQ/TransMatting)
+* 其它
+  * [Neighborhood Collective Estimation for Noisy Label Identification and Correction](https://arxiv.org/abs/2208.03207)<br>:star:[code](https://github.com/lijichang/LNL-NCE)
+
+### —————————————————————————————————————————————
+
 ## 8月5日更新 6 篇
 * 视频识别
   * [Expanding Language-Image Pretrained Models for General Video Recognition](https://arxiv.org/abs/2208.02816)<br>:open_mouth:oral:star:[code](https://github.com/microsoft/VideoX/tree/master/X-CLIP)
