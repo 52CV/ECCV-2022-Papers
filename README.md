@@ -32,42 +32,18 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 8月9日更新 16 篇
-* 3D
-  * [PlaneFormers: From Sparse View Planes to 3D Reconstruction](https://arxiv.org/abs/2208.04307)<br>:star:[code](https://github.com/samiragarwala/PlaneFormers):house:[project](https://samiragarwala.github.io/PlaneFormers/):tv:[video](https://youtu.be/3VPsOxXEMlI)
-* 去雪
-  * [SLiDE: Self-supervised LiDAR De-snowing through Reconstruction Difficulty](https://arxiv.org/abs/2208.04043)
-* 医学图像分割
-  * [Generalizable Medical Image Segmentation via Random Amplitude Mixup and Domain-Specific Image Restoration](https://arxiv.org/abs/2208.03901)<br>:star:[code](https://github.com/zzzqzhou/RAM-DSIR)
-* HOS
-  * [Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications](https://arxiv.org/abs/2208.03826)<br>:star:[code](https://github.com/owenzlz/EgoHOS)
-* depth restoration
-  * [Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Objects](https://arxiv.org/abs/2208.03792)<br>:star:[code](https://github.com/PKU-EPIC/DREDS)
-* 类增量学习
-  * [Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer](https://arxiv.org/abs/2208.03767)<br>:star:[code](https://github.com/richzhang/webpage-template):house:[project](https://cscct.github.io/)
-* GAN
-  * [Hierarchical Semantic Regularization of Latent Spaces in StyleGANs](https://arxiv.org/abs/2208.03764)<br>:star:[code](https://drive.google.com/file/d/1gzHTYTgGBUlDWyN_Z3ORofisQrHChg_n/view):house:[project](https://sites.google.com/view/hsr-eccv22)
-* 跟踪
-  * [Robust Multi-Object Tracking by Marginal Inference](https://arxiv.org/abs/2208.03727)
-* 目标检测
-  * [Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph](https://arxiv.org/abs/2208.03624)<br>:open_mouth:oral:star:[code](https://github.com/Nightmare-n/GraphRCNN)
-* 光流
-  * [Learning Omnidirectional Flow in 360-degree Video via Siamese Representation](https://arxiv.org/abs/2208.03620)<br>:house:[project](https://siamlof.github.io/)
-* 图像修复
-  * [Inpainting at Modern Camera Resolution by Guided PatchMatch with Auto-Curation](https://arxiv.org/abs/2208.03552)<br>:star:[code](https://drive.google.com/file/d/1Lmar1byASRReJ0SimBfWAE2Dt_-gMhor/edit)
-* VL
-  * [Frozen CLIP Models are Efficient Video Learners](https://arxiv.org/abs/2208.03550)<br>:star:[code](https://github.com/OpenGVLab/efficient-video-recognition)
-* 无监督
-  * [Contrastive Positive Mining for Unsupervised 3D Action Representation Learning](https://arxiv.org/abs/2208.03497)
-* 异常检测
-  * [HaloAE: An HaloNet based Local Transformer Auto-Encoder for Anomaly Detection and Localization](https://arxiv.org/abs/2208.03486)
-* OCR
-  * [GLASS: Global to Local Attention for Scene-Text Spotting](https://arxiv.org/abs/2208.03364)<br>:star:[code](https://github.com/amazon-research/glass-text-spotting)
-* 检索
-  * [A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch](https://arxiv.org/abs/2208.03354)<br>:star:[code](https://github.com/janesjanes/tsbir):house:[project](https://patsorn.me/projects/tsbir/)
-
-
-
+## 8月10、11日更新 6 篇
+* 自监督
+  * [RDA: Reciprocal Distribution Alignment for Robust SSL](https://arxiv.org/abs/2208.04619)<br>:star:[code](https://github.com/NJUyued/RDA4RobustSSL)
+* 读唇术
+  * [Speaker-adaptive Lip Reading with User-dependent Padding](https://arxiv.org/abs/2208.04498)
+* Transformer
+  * [Ghost-free High Dynamic Range Imaging with Context-aware Transformer](https://arxiv.org/abs/2208.05114)<br>:star:[code](https://github.com/megvii-research/HDR-Transformer)
+* 图像去模糊
+  * [Learning Degradation Representations for Image Deblurring](https://arxiv.org/abs/2208.05244)<br>:star:[code](https://github.com/dasongli1/Learning_degradation)
+* 其它
+  * [Rethinking Robust Representation Learning Under Fine-grained Noisy Faces](https://arxiv.org/abs/2208.04352)
+  * [Contrast-Phys: Unsupervised Video-based Remote Physiological Measurement via Spatiotemporal Contrast](https://arxiv.org/abs/2208.04378)<br>:star:[code](https://github.com/zhaodongsun/contrast-phys)
 
 
 ### —————————————————————————————————————————————
@@ -97,7 +73,8 @@
   * [StyleLight: HDR Panorama Generation for Lighting Estimation and Editing](https://arxiv.org/abs/2207.14811)<br>:star:[code](https://github.com/Wanggcong/StyleLight):house:[project](https://style-light.github.io/)
 * 手语识别
   * [Automatic dense annotation of large-vocabulary sign language videos](https://arxiv.org/abs/2208.02802)<br>:house:[project](https://www.robots.ox.ac.uk/~vgg/research/bsldensify/)
-
+* 读唇术
+  * [Speaker-adaptive Lip Reading with User-dependent Padding](https://arxiv.org/abs/2208.04498)
 ## 光学、几何、光场成像
 * 相机姿势
   * [Camera Pose Auto-Encoders for Improving Pose Regression](https://arxiv.org/abs/2207.05530)<br>:star:[code](https://github.com/yolish/camera-pose-auto-encoders)
@@ -377,6 +354,7 @@
 * 自监督
   * [GOCA: Guided Online Cluster Assignment for Self-Supervised Video Representation Learning](https://arxiv.org/abs/2207.10158)<br>:star:[code](https://github.com/Seleucia/goca)
   * [SdAE: Self-distillated Masked Autoencoder](https://arxiv.org/abs/2208.00449)<br>:star:[code](https://github.com/AbrahamYabo/SdAE)
+  * [RDA: Reciprocal Distribution Alignment for Robust SSL](https://arxiv.org/abs/2208.04619)<br>:star:[code](https://github.com/NJUyued/RDA4RobustSSL)
 * 半监督
   * [Towards Realistic Semi-Supervised Learning](https://arxiv.org/abs/2207.02269)
   * [OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning](https://arxiv.org/abs/2207.02261)
@@ -384,7 +362,7 @@
 * 监督学习
   * [Supervised Attribute Information Removal and Reconstruction for Image Manipulation](https://arxiv.org/abs/2207.06555)<br>:star:[code](https://github.com/NannanLi999/AIRR)
   * [Tailoring Self-Supervision for Supervised Learning](https://arxiv.org/abs/2207.10023)<br>:star:[code](https://github.com/wjun0830/Localizable-Rotation)
-
+   
 <a name="20"/>
 
 ## 20.Face(人脸)
@@ -442,7 +420,9 @@
 * [TinyViT: Fast Pretraining Distillation for Small Vision Transformers](https://arxiv.org/abs/2207.10666)<br>:star:[code](https://github.com/microsoft/Cream/tree/main/TinyViT)
 * [MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis](https://arxiv.org/abs/2207.10228)
 * [An Impartial Take to the CNN vs Transformer Robustness Contest](https://arxiv.org/abs/2207.11347)
+* [Ghost-free High Dynamic Range Imaging with Context-aware Transformer](https://arxiv.org/abs/2208.05114)<br>:star:[code](https://github.com/megvii-research/HDR-Transformer) 
 
+  
 <a name="15"/>
 
 ## 15.Vision-Language(视觉语言)
@@ -749,6 +729,7 @@
 * 图像字幕
   * [GRIT: Faster and Better Image captioning Transformer Using Dual Visual Features](https://arxiv.org/abs/2207.09666)<br>:star:[code](https://github.com/davidnvq/grit)
   * [Explicit Image Caption Editing](https://arxiv.org/abs/2207.09625)<br>:star:[code](https://github.com/baaaad/ECE)
+
  
 <a name="3"/>
 
@@ -777,6 +758,7 @@
   * [SLiDE: Self-supervised LiDAR De-snowing through Reconstruction Difficulty](https://arxiv.org/abs/2208.04043) 
 * 去模糊
   * [Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance](https://arxiv.org/abs/2207.10123)<br>:star:[code](https://github.com/zzh-tech/Animation-from-Blur)
+  * [Learning Degradation Representations for Image Deblurring](https://arxiv.org/abs/2208.05244)<br>:star:[code](https://github.com/dasongli1/Learning_degradation)
 * 去摩尔纹
   * [Towards Efficient and Scale-Robust Ultra-High-Definition Image Demoireing](https://arxiv.org/abs/2207.09935)<br>:star:[code](https://github.com/CVMI-Lab/UHDM):house:[project](https://xinyu-andy.github.io/uhdm-page/)
 * 语义图像编辑
@@ -851,7 +833,8 @@
 * [Fast Two-step Blind Optical Aberration Correction](https://arxiv.org/abs/2208.00950)<br>:star:[code](https://github.com/teboli/fast_two_stage_psf_correction)
 * [Transformers as Meta-Learners for Implicit Neural Representations](https://arxiv.org/abs/2208.02801)<br>:star:[code](https://github.com/yinboc/trans-inr):house:[project](https://yinboc.github.io/trans-inr/)
 * [Neighborhood Collective Estimation for Noisy Label Identification and Correction](https://arxiv.org/abs/2208.03207)<br>:star:[code](https://github.com/lijichang/LNL-NCE)
+* [Rethinking Robust Representation Learning Under Fine-grained Noisy Faces](https://arxiv.org/abs/2208.04352)
+* [Contrast-Phys: Unsupervised Video-based Remote Physiological Measurement via Spatiotemporal Contrast](https://arxiv.org/abs/2208.04378)<br>:star:[code](https://github.com/zhaodongsun/contrast-phys)
 
-  
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
