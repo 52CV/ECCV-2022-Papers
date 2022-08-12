@@ -1,3 +1,28 @@
+## 8月12日更新 4 篇
+* 点云
+　* [PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees](https://arxiv.org/abs/2208.05962)<br>:star:[code](https://github.com/immortalCO/PointTree)
+* 跟踪
+  * [Towards Sequence-Level Training for Visual Tracking](https://arxiv.org/abs/2208.05810)<br>:star:[code](https://github.com/byminji/SLTtrack)
+* 知识蒸馏
+  * [MixSKD: Self-Knowledge Distillation from Mixup for Image Recognition](https://arxiv.org/abs/2208.05768)<br>:star:[code](https://github.com/winycg/Self-KD-Lib)
+* 其它
+  * [RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild](https://arxiv.org/abs/2208.05963)<br>:house:[project](https://jasonyzhang.com/relpose/)
+
+
+## 8月10、11日更新 6 篇
+* 自监督
+  * [RDA: Reciprocal Distribution Alignment for Robust SSL](https://arxiv.org/abs/2208.04619)<br>:star:[code](https://github.com/NJUyued/RDA4RobustSSL)
+* 读唇术
+  * [Speaker-adaptive Lip Reading with User-dependent Padding](https://arxiv.org/abs/2208.04498)
+* Transformer
+  * [Ghost-free High Dynamic Range Imaging with Context-aware Transformer](https://arxiv.org/abs/2208.05114)<br>:star:[code](https://github.com/megvii-research/HDR-Transformer)
+* 图像去模糊
+  * [Learning Degradation Representations for Image Deblurring](https://arxiv.org/abs/2208.05244)<br>:star:[code](https://github.com/dasongli1/Learning_degradation)
+* 其它
+  * [Rethinking Robust Representation Learning Under Fine-grained Noisy Faces](https://arxiv.org/abs/2208.04352)
+  * [Contrast-Phys: Unsupervised Video-based Remote Physiological Measurement via Spatiotemporal Contrast](https://arxiv.org/abs/2208.04378)<br>:star:[code](https://github.com/zhaodongsun/contrast-phys)
+
+
 ## 8月9日更新 16 篇
 * 3D
   * [PlaneFormers: From Sparse View Planes to 3D Reconstruction](https://arxiv.org/abs/2208.04307)<br>:star:[code](https://github.com/samiragarwala/PlaneFormers):house:[project](https://samiragarwala.github.io/PlaneFormers/):tv:[video](https://youtu.be/3VPsOxXEMlI)
