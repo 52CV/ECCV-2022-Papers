@@ -1,6 +1,6 @@
 ## 8月12日更新 4 篇
 * 点云
-　* [PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees](https://arxiv.org/abs/2208.05962)<br>:star:[code](https://github.com/immortalCO/PointTree)
+　* 　[PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees](https://arxiv.org/abs/2208.05962)<br>:star:[code](https://github.com/immortalCO/PointTree)
 * 跟踪
   * [Towards Sequence-Level Training for Visual Tracking](https://arxiv.org/abs/2208.05810)<br>:star:[code](https://github.com/byminji/SLTtrack)
 * 知识蒸馏
