@@ -1,12 +1,13 @@
 ## 8月12日更新 4 篇
-* 点云
-　* 　[PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees](https://arxiv.org/abs/2208.05962)<br>:star:[code](https://github.com/immortalCO/PointTree)
+ 　
 * 跟踪
   * [Towards Sequence-Level Training for Visual Tracking](https://arxiv.org/abs/2208.05810)<br>:star:[code](https://github.com/byminji/SLTtrack)
 * 知识蒸馏
   * [MixSKD: Self-Knowledge Distillation from Mixup for Image Recognition](https://arxiv.org/abs/2208.05768)<br>:star:[code](https://github.com/winycg/Self-KD-Lib)
 * 其它
   * [RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild](https://arxiv.org/abs/2208.05963)<br>:house:[project](https://jasonyzhang.com/relpose/)
+* 点云
+　* [PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees](https://arxiv.org/abs/2208.05962)<br>:star:[code](https://github.com/immortalCO/PointTree)
 
 ## 8月10、11日更新 6 篇
 * 自监督
