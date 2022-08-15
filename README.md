@@ -21,7 +21,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 8 月 5 日，已整理 295 篇。
+## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 8 月 12 日，已整理 325 篇。
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
@@ -33,16 +33,14 @@
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
 
-## 8月12日更新 4 篇
-* 点云
-　* [PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees](https://arxiv.org/abs/2208.05962)<br>:star:[code](https://github.com/immortalCO/PointTree)
-* 跟踪
-  * [Towards Sequence-Level Training for Visual Tracking](https://arxiv.org/abs/2208.05810)<br>:star:[code](https://github.com/byminji/SLTtrack)
-* 知识蒸馏
-  * [MixSKD: Self-Knowledge Distillation from Mixup for Image Recognition](https://arxiv.org/abs/2208.05768)<br>:star:[code](https://github.com/winycg/Self-KD-Lib)
-* 其它
-  * [RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild](https://arxiv.org/abs/2208.05963)<br>:house:[project](https://jasonyzhang.com/relpose/)
 
+
+
+## 8月15日更新 2 篇
+* 自监督
+  * [Motion Sensitive Contrastive Learning for Self-supervised Video Representation](https://arxiv.org/abs/2208.06105)
+* 其它
+  * [PRIF: Primary Ray-based Implicit Function](https://arxiv.org/abs/2208.06143)<br>:house:[project](https://augmentariumlab.github.io/PRIF/)
 
 
 ### —————————————————————————————————————————————
@@ -356,6 +354,7 @@
   * [GOCA: Guided Online Cluster Assignment for Self-Supervised Video Representation Learning](https://arxiv.org/abs/2207.10158)<br>:star:[code](https://github.com/Seleucia/goca)
   * [SdAE: Self-distillated Masked Autoencoder](https://arxiv.org/abs/2208.00449)<br>:star:[code](https://github.com/AbrahamYabo/SdAE)
   * [RDA: Reciprocal Distribution Alignment for Robust SSL](https://arxiv.org/abs/2208.04619)<br>:star:[code](https://github.com/NJUyued/RDA4RobustSSL)
+  * [Motion Sensitive Contrastive Learning for Self-supervised Video Representation](https://arxiv.org/abs/2208.06105)
 * 半监督
   * [Towards Realistic Semi-Supervised Learning](https://arxiv.org/abs/2207.02269)
   * [OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning](https://arxiv.org/abs/2207.02261)
@@ -838,7 +837,7 @@
 * [Rethinking Robust Representation Learning Under Fine-grained Noisy Faces](https://arxiv.org/abs/2208.04352)
 * [Contrast-Phys: Unsupervised Video-based Remote Physiological Measurement via Spatiotemporal Contrast](https://arxiv.org/abs/2208.04378)<br>:star:[code](https://github.com/zhaodongsun/contrast-phys)
 * [RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild](https://arxiv.org/abs/2208.05963)<br>:house:[project](https://jasonyzhang.com/relpose/)  
-
+* [PRIF: Primary Ray-based Implicit Function](https://arxiv.org/abs/2208.06143)<br>:house:[project](https://augmentariumlab.github.io/PRIF/)
   
 
 扫码CV君微信（注明：CVPR）入微信交流群：
