@@ -33,15 +33,19 @@
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
 
-
-
-
-## 8月15日更新 2 篇
-* 自监督
-  * [Motion Sensitive Contrastive Learning for Self-supervised Video Representation](https://arxiv.org/abs/2208.06105)
-* 其它
-  * [PRIF: Primary Ray-based Implicit Function](https://arxiv.org/abs/2208.06143)<br>:house:[project](https://augmentariumlab.github.io/PRIF/)
-
+## 8月16日更新 6 篇 
+* 语义对应
+  * [Learning Semantic Correspondence with Sparse Annotations](https://arxiv.org/abs/2208.06974)
+* 新视图生成
+  * [HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields](https://arxiv.org/abs/2208.06787)<br>:star:[code](https://github.com/postech-ami/HDR-Plenoxels)
+* 视频摘要
+  * [TL;DW? Summarizing Instructional Videos with Task Relevance & Cross-Modal Saliency](https://arxiv.org/abs/2208.06773)<br>:star:[code](https://github.com/medhini/Instructional-Video-Summarization):house:[project](https://medhini.github.io/ivsum/)
+* 视频修复
+  * [Flow-Guided Transformer for Video Inpainting](https://arxiv.org/abs/2208.06768)<br>:star:[code](https://github.com/hitachinsk/FGT)
+* 人体姿势预测
+  * [Pose Forecasting in Industrial Human-Robot Collaboration](https://arxiv.org/abs/2208.07308)<br>:star:[code](https://github.com/AlessioSam/CHICO-PoseForecasting)
+* 域适应
+  * [Combating Label Distribution Shift for Active Domain Adaptation](https://arxiv.org/abs/2208.06604)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -72,6 +76,7 @@
   * [Automatic dense annotation of large-vocabulary sign language videos](https://arxiv.org/abs/2208.02802)<br>:house:[project](https://www.robots.ox.ac.uk/~vgg/research/bsldensify/)
 * 读唇术
   * [Speaker-adaptive Lip Reading with User-dependent Padding](https://arxiv.org/abs/2208.04498)
+
 ## 光学、几何、光场成像
 * 相机姿势
   * [Camera Pose Auto-Encoders for Improving Pose Regression](https://arxiv.org/abs/2207.05530)<br>:star:[code](https://github.com/yolish/camera-pose-auto-encoders)
@@ -103,6 +108,8 @@
 ## View Generation(视图生成)
 * [InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images](https://arxiv.org/abs/2207.11148)<br>:open_mouth:oral
 * [CompNVS: Novel View Synthesis with Scene Completion](https://arxiv.org/abs/2207.11467)
+* [HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields](https://arxiv.org/abs/2208.06787)<br>:star:[code](https://github.com/postech-ami/HDR-Plenoxels)
+
 
 ## Dataset(数据集)
 * [COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts](https://arxiv.org/abs/2207.04675)<br>:star:[code](https://github.com/ku21fan/COO-Comic-Onomatopoeia)<br>用于识别任意或截断文本的漫画拟声词数据集
@@ -145,12 +152,14 @@
   * [Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation](https://arxiv.org/abs/2207.10856)<br>:star:[code](https://github.com/Hongbin98/ProCA)
   * [MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation](https://arxiv.org/abs/2207.12389)<br>:star:[code](https://github.com/ViLab-UCSD/MemSAC_ECCV2022):house:[project](https://tarun005.github.io/MemSAC/)
   * [Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation](https://arxiv.org/abs/2207.13247)<br>:star:[code](https://github.com/val-iisc/StickerDA):house:[project](https://sites.google.com/view/sticker-sfda)
+  * [Combating Label Distribution Shift for Active Domain Adaptation](https://arxiv.org/abs/2208.06604)
 * 域泛化
   * [Grounding Visual Representations with Texts for Domain Generalization](https://arxiv.org/abs/2207.10285)<br>:star:[code](https://github.com/mswzeus/GVRT)
   * [Improving Test-Time Adaptation via Shift-agnostic Weight Regularization and Nearest Source Prototypes](https://arxiv.org/abs/2207.11707)
 
 ## Semantic Correspondence(语义对应)
 * [Demystifying Unsupervised Semantic Correspondence Estimation](https://arxiv.org/abs/2207.05054)<br>:star:[code](https://github.com/MehmetAygun/demistfy_correspondence):house:[project](https://mehmetaygun.github.io/demistfy.html)
+* [Learning Semantic Correspondence with Sparse Annotations](https://arxiv.org/abs/2208.06974)
 
 ## GNN/GCN(图神经网络)
 * GCN
@@ -495,6 +504,7 @@
   * [Telepresence Video Quality Assessment](https://arxiv.org/abs/2207.09956)
 * 视频修复
   * [Error Compensation Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2207.10391)
+  * [Flow-Guided Transformer for Video Inpainting](https://arxiv.org/abs/2208.06768)<br>:star:[code](https://github.com/hitachinsk/FGT)
 * 视频去模糊
   * [Spatio-Temporal Deformable Attention Network for Video Deblurring](https://arxiv.org/abs/2207.10852)<br>:star:[code](https://github.com/huicongzhang/STDAN):house:[project](https://vilab.hit.edu.cn/projects/stdan/)
   * [Efficient Video Deblurring Guided by Motion Magnitude](https://arxiv.org/abs/2207.13374)<br>:star:[code](https://github.com/sollynoay/MMP-RNN)
@@ -539,6 +549,8 @@
   * [AutoTransition: Learning to Recommend Video Transition Effects](https://arxiv.org/abs/2207.13479)<br>:star:[code](https://github.com/acherstyx/AutoTransition)
 * 视频编解码
   * [AlphaVC: High-Performance and Efficient Learned Video Compression](https://arxiv.org/abs/2207.14678) 
+* 视频摘要
+  * [TL;DW? Summarizing Instructional Videos with Task Relevance & Cross-Modal Saliency](https://arxiv.org/abs/2208.06773)<br>:star:[code](https://github.com/medhini/Instructional-Video-Summarization):house:[project](https://medhini.github.io/ivsum/)
 
 <a name="10"/>
 
@@ -595,6 +607,8 @@
 * 姿势迁移
   * [Skeleton-free Pose Transfer for Stylized 3D Characters](https://arxiv.org/abs/2208.00790)<br>:star:[code](https://github.com/zycliao/skeleton-free-pose-transfer):house:[project](https://zycliao.com/sfpt/)
   * [Cross Attention Based Style Distribution for Controllable Person Image Synthesis](https://arxiv.org/abs/2208.00712)<br>:star:[code](https://github.com/xyzhouo/CASD)
+* 人体姿势预测
+  * [Pose Forecasting in Industrial Human-Robot Collaboration](https://arxiv.org/abs/2208.07308)<br>:star:[code](https://github.com/AlessioSam/CHICO-PoseForecasting)
 
 <a name="8"/>
 
