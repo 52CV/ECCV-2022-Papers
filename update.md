@@ -1,3 +1,10 @@
+## 8月15日更新 2 篇
+* 自监督
+  * [Motion Sensitive Contrastive Learning for Self-supervised Video Representation](https://arxiv.org/abs/2208.06105)
+* 其它
+  * [PRIF: Primary Ray-based Implicit Function](https://arxiv.org/abs/2208.06143)<br>:house:[project](https://augmentariumlab.github.io/PRIF/)
+
+
 ## 8月12日更新 4 篇
  　
 * 跟踪
