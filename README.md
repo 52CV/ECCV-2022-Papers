@@ -32,20 +32,18 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
+## 8月17日更新 5 篇
 
-## 8月16日更新 6 篇 
-* 语义对应
-  * [Learning Semantic Correspondence with Sparse Annotations](https://arxiv.org/abs/2208.06974)
-* 新视图生成
-  * [HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields](https://arxiv.org/abs/2208.06787)<br>:star:[code](https://github.com/postech-ami/HDR-Plenoxels)
-* 视频摘要
-  * [TL;DW? Summarizing Instructional Videos with Task Relevance & Cross-Modal Saliency](https://arxiv.org/abs/2208.06773)<br>:star:[code](https://github.com/medhini/Instructional-Video-Summarization):house:[project](https://medhini.github.io/ivsum/)
-* 视频修复
-  * [Flow-Guided Transformer for Video Inpainting](https://arxiv.org/abs/2208.06768)<br>:star:[code](https://github.com/hitachinsk/FGT)
-* 人体姿势预测
-  * [Pose Forecasting in Industrial Human-Robot Collaboration](https://arxiv.org/abs/2208.07308)<br>:star:[code](https://github.com/AlessioSam/CHICO-PoseForecasting)
+* 发型迁移
+  * [Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment](https://arxiv.org/abs/2208.07765)<br>:star:[code](https://github.com/Taeu/Style-Your-Hair)
+* 姿势估计
+  * [PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation](https://arxiv.org/abs/2208.07755)
 * 域适应
-  * [Combating Label Distribution Shift for Active Domain Adaptation](https://arxiv.org/abs/2208.06604)
+  * [Uncertainty-guided Source-free Domain Adaptation](https://arxiv.org/abs/2208.07591)<br>:star:[code](https://github.com/roysubhankar/uncertainty-sfda)
+* 目标检测
+  * [Object Discovery via Contrastive Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/2208.07576)<br>:star:[code](https://github.com/jinhseo/OD-WSCL)
+* 其它
+  * [Context-Aware Streaming Perception in Dynamic Environments](https://arxiv.org/abs/2208.07479)<br>:star:[code](https://github.com/EyalSel/Contextual-Streaming-Perception)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -102,8 +100,10 @@
 * [Learning Graph Neural Networks for Image Style Transfer](https://arxiv.org/abs/2207.11681)
 * 图像风格化
   * [WISE: Whitebox Image Stylization by Example-based Learning](https://arxiv.org/abs/2207.14606)<br>:star:[code](https://github.com/winfried-loetzsch/wise)
+* 发型迁移
+  * [Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment](https://arxiv.org/abs/2208.07765)<br>:star:[code](https://github.com/Taeu/Style-Your-Hair)
 
-## Point Cloud(点云)
+
 
 ## View Generation(视图生成)
 * [InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images](https://arxiv.org/abs/2207.11148)<br>:open_mouth:oral
@@ -153,6 +153,7 @@
   * [MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation](https://arxiv.org/abs/2207.12389)<br>:star:[code](https://github.com/ViLab-UCSD/MemSAC_ECCV2022):house:[project](https://tarun005.github.io/MemSAC/)
   * [Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation](https://arxiv.org/abs/2207.13247)<br>:star:[code](https://github.com/val-iisc/StickerDA):house:[project](https://sites.google.com/view/sticker-sfda)
   * [Combating Label Distribution Shift for Active Domain Adaptation](https://arxiv.org/abs/2208.06604)
+  * [Uncertainty-guided Source-free Domain Adaptation](https://arxiv.org/abs/2208.07591)<br>:star:[code](https://github.com/roysubhankar/uncertainty-sfda)
 * 域泛化
   * [Grounding Visual Representations with Texts for Domain Generalization](https://arxiv.org/abs/2207.10285)<br>:star:[code](https://github.com/mswzeus/GVRT)
   * [Improving Test-Time Adaptation via Shift-agnostic Weight Regularization and Nearest Source Prototypes](https://arxiv.org/abs/2207.11707)
@@ -571,6 +572,7 @@
 ## 9.Human Pose Estimation(人体姿态估计)
 * [Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation](https://arxiv.org/abs/2207.02425)
 * [Pose for Everything: Towards Category-Agnostic Pose Estimation](https://arxiv.org/abs/2207.10387)<br>:open_mouth:oral:star:[code](https://github.com/luminxu/Pose-for-Everything)
+* [PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation](https://arxiv.org/abs/2208.07755)
 * 运动捕捉
   * [TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts](https://arxiv.org/abs/2207.01696)<br>:star:[code](https://github.com/EricGuo5513/TM2T):house:[project](https://ericguo5513.github.io/TM2T/)
 * 基于点的衣着人体建模
@@ -711,6 +713,7 @@
 * 弱监督目标检测
   * [Active Learning Strategies for Weakly-supervised Object Detection](https://arxiv.org/abs/2207.12112)<br>:star:[code](https://github.com/huyvvo/BiB)
   * [W2N:Switching From Weak Supervision to Noisy Supervision for Object Detection](https://arxiv.org/abs/2207.12104)<br>:star:[code](https://github.com/1170300714/w2n_wsod)
+  * [Object Discovery via Contrastive Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/2208.07576)<br>:star:[code](https://github.com/jinhseo/OD-WSCL)
 * 目标定位
   * [Bagging Regional Classification Activation Maps for Weakly Supervised Object Localization](https://arxiv.org/abs/2207.07818)<br>:star:[code](https://github.com/zh460045050/BagCAMs)
   * [Weakly Supervised Object Localization via Transformer with Implicit Spatial Calibration](https://arxiv.org/abs/2207.10447)<br>:star:[code](https://github.com/164140757/SCM)
@@ -721,7 +724,7 @@
   * [Few-shot Object Counting and Detection](https://arxiv.org/abs/2207.10988)<br>:star:[code](https://github.com/VinAIResearch/Counting-DETR)
 * OOD
   * [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446)<br>:star:[code](https://github.com/cure-lab/MOODCat)
-
+ 
 <a name="5"/>
 
 ## 5.Image/Video Retrieval(图像/视频检索)
@@ -852,7 +855,7 @@
 * [Contrast-Phys: Unsupervised Video-based Remote Physiological Measurement via Spatiotemporal Contrast](https://arxiv.org/abs/2208.04378)<br>:star:[code](https://github.com/zhaodongsun/contrast-phys)
 * [RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild](https://arxiv.org/abs/2208.05963)<br>:house:[project](https://jasonyzhang.com/relpose/)  
 * [PRIF: Primary Ray-based Implicit Function](https://arxiv.org/abs/2208.06143)<br>:house:[project](https://augmentariumlab.github.io/PRIF/)
-  
+* [Context-Aware Streaming Perception in Dynamic Environments](https://arxiv.org/abs/2208.07479)<br>:star:[code](https://github.com/EyalSel/Contextual-Streaming-Perception)  
 
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
