@@ -1,3 +1,18 @@
+## 8月16日更新 6 篇 
+* 语义对应
+  * [Learning Semantic Correspondence with Sparse Annotations](https://arxiv.org/abs/2208.06974)
+* 新视图生成
+  * [HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields](https://arxiv.org/abs/2208.06787)<br>:star:[code](https://github.com/postech-ami/HDR-Plenoxels)
+* 视频摘要
+  * [TL;DW? Summarizing Instructional Videos with Task Relevance & Cross-Modal Saliency](https://arxiv.org/abs/2208.06773)<br>:star:[code](https://github.com/medhini/Instructional-Video-Summarization):house:[project](https://medhini.github.io/ivsum/)
+* 视频修复
+  * [Flow-Guided Transformer for Video Inpainting](https://arxiv.org/abs/2208.06768)<br>:star:[code](https://github.com/hitachinsk/FGT)
+* 人体姿势预测
+  * [Pose Forecasting in Industrial Human-Robot Collaboration](https://arxiv.org/abs/2208.07308)<br>:star:[code](https://github.com/AlessioSam/CHICO-PoseForecasting)
+* 域适应
+  * [Combating Label Distribution Shift for Active Domain Adaptation](https://arxiv.org/abs/2208.06604)
+
+
 ## 8月15日更新 2 篇
 * 自监督
   * [Motion Sensitive Contrastive Learning for Self-supervised Video Representation](https://arxiv.org/abs/2208.06105)
