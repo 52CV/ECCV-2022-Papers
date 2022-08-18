@@ -32,18 +32,14 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 8月17日更新 5 篇
-
-* 发型迁移
-  * [Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment](https://arxiv.org/abs/2208.07765)<br>:star:[code](https://github.com/Taeu/Style-Your-Hair)
-* 姿势估计
-  * [PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation](https://arxiv.org/abs/2208.07755)
-* 域适应
-  * [Uncertainty-guided Source-free Domain Adaptation](https://arxiv.org/abs/2208.07591)<br>:star:[code](https://github.com/roysubhankar/uncertainty-sfda)
-* 目标检测
-  * [Object Discovery via Contrastive Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/2208.07576)<br>:star:[code](https://github.com/jinhseo/OD-WSCL)
+## 8月18日更新 4 篇
+* 图像合成
+  * [Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing](https://arxiv.org/abs/2208.08092)<br>:star:[code](https://github.com/1jsingh/paint2pix)
+* 增量
+  * [DLCFT: Deep Linear Continual Fine-Tuning for General Incremental Learning](https://arxiv.org/abs/2208.08112)
 * 其它
-  * [Context-Aware Streaming Perception in Dynamic Environments](https://arxiv.org/abs/2208.07479)<br>:star:[code](https://github.com/EyalSel/Contextual-Streaming-Perception)
+  * [AdaBin: Improving Binary Neural Networks with Adaptive Binary Sets](https://arxiv.org/abs/2208.08084)
+  * [TRoVE: Transforming Road Scene Datasets into Photorealistic Virtual Environments](https://arxiv.org/abs/2208.07943)<br>:star:[code](https://github.com/shubham1810/trove)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -177,11 +173,13 @@
 ## Incremental Learning(增量学习)
 * [Learning with Recoverable Forgetting](https://arxiv.org/abs/2207.08224)
 * [Incremental Task Learning with Incremental Rank Updates](https://arxiv.org/abs/2207.09074)<br>:star:[code](https://github.com/CSIPlab/task-increment-rank-update)
+* [DLCFT: Deep Linear Continual Fine-Tuning for General Incremental Learning](https://arxiv.org/abs/2208.08112)
 * 类增量
   * [Class-incremental Novel Class Discovery](https://arxiv.org/abs/2207.08605)<br>:star:[code](https://github.com/OatmealLiu/class-iNCD) 
   * [Few-Shot Class-Incremental Learning via Entropy-Regularized Data-Free Replay](https://arxiv.org/abs/2207.11213)
   * [Few-Shot Class-Incremental Learning from an Open-Set Perspective](https://arxiv.org/abs/2208.00147)<br>:star:[code](https://github.com/CanPeng123/FSCIL_ALICE)
   * [Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer](https://arxiv.org/abs/2208.03767)<br>:star:[code](https://github.com/richzhang/webpage-template):house:[project](https://cscct.github.io/)
+
  
 ## Adversarial  Learning(对抗学习)
 * [Prior-Guided Adversarial Initialization for Fast Adversarial Training](https://arxiv.org/abs/2207.08859)<br>:star:[code](https://github.com/jiaxiaojunQAQ/FGSM-PGI)
@@ -395,6 +393,7 @@
 ## 19.Image Synthesis/Generation(图像合成)
 * [Injecting 3D Perception of Controllable NeRF-GAN into StyleGAN for Editable Portrait Image Synthesis](https://arxiv.org/abs/2207.10257)<br>:star:[code](https://github.com/jgkwak95/SURF-GAN):house:[project](https://jgkwak95.github.io/surfgan/)
 * [Auto-regressive Image Synthesis with Integrated Quantization](https://arxiv.org/abs/2207.10776)<br>:open_mouth:oral
+* [Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing](https://arxiv.org/abs/2208.08092)<br>:star:[code](https://github.com/1jsingh/paint2pix)
 * 图像生成
   * [DeltaGAN: Towards Diverse Few-shot Image Generation with Sample-Specific Delta](https://arxiv.org/abs/2207.10271)<br>:star:[code](https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation)
 * 样本引导下的图像生成
@@ -856,6 +855,7 @@
 * [RelPose: Predicting Probabilistic Relative Rotation for Single Objects in the Wild](https://arxiv.org/abs/2208.05963)<br>:house:[project](https://jasonyzhang.com/relpose/)  
 * [PRIF: Primary Ray-based Implicit Function](https://arxiv.org/abs/2208.06143)<br>:house:[project](https://augmentariumlab.github.io/PRIF/)
 * [Context-Aware Streaming Perception in Dynamic Environments](https://arxiv.org/abs/2208.07479)<br>:star:[code](https://github.com/EyalSel/Contextual-Streaming-Perception)  
-
+* [AdaBin: Improving Binary Neural Networks with Adaptive Binary Sets](https://arxiv.org/abs/2208.08084)
+* [TRoVE: Transforming Road Scene Datasets into Photorealistic Virtual Environments](https://arxiv.org/abs/2208.07943)<br>:star:[code](https://github.com/shubham1810/trove)
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
