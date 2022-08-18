@@ -1,3 +1,16 @@
+## 8月17日更新 5 篇
+
+* 发型迁移
+  * [Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment](https://arxiv.org/abs/2208.07765)<br>:star:[code](https://github.com/Taeu/Style-Your-Hair)
+* 姿势估计
+  * [PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation](https://arxiv.org/abs/2208.07755)
+* 域适应
+  * [Uncertainty-guided Source-free Domain Adaptation](https://arxiv.org/abs/2208.07591)<br>:star:[code](https://github.com/roysubhankar/uncertainty-sfda)
+* 目标检测
+  * [Object Discovery via Contrastive Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/2208.07576)<br>:star:[code](https://github.com/jinhseo/OD-WSCL)
+* 其它
+  * [Context-Aware Streaming Perception in Dynamic Environments](https://arxiv.org/abs/2208.07479)<br>:star:[code](https://github.com/EyalSel/Contextual-Streaming-Perception)
+
 ## 8月16日更新 6 篇 
 * 语义对应
   * [Learning Semantic Correspondence with Sparse Annotations](https://arxiv.org/abs/2208.06974)
