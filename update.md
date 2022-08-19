@@ -1,3 +1,22 @@
+### —————————————————————————————————————————————
+
+## 8月19日更新 8 篇
+* GAN
+  * [Mind the Gap in Distilling StyleGANs](https://arxiv.org/abs/2208.08840)<br>:star:[code](https://github.com/xuguodong03/StyleKD)
+* 目标检测
+  * [RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection](https://arxiv.org/abs/2208.08738)<br>:star:[code](https://github.com/Chasel-Tsui/mmdet-rfla)
+  * [Unifying Visual Perception by Dispersible Points Learning](https://arxiv.org/abs/2208.08630)<br>:star:[code](https://github.com/Sense-X/UniHead)
+* 三维人体重建
+  * [Neural Capture of Animatable 3D Human from Monocular Video](https://arxiv.org/abs/2208.08728)
+* 半监督
+  * [ConMatch: Semi-Supervised Learning with Confidence-Guided Consistency Regularization](https://arxiv.org/abs/2208.08631)<br>:star:[code](https://github.com/JiwonCocoder/ConMatch)
+* 4D
+  * [LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling](https://arxiv.org/abs/2208.08622)<br>:star:[code](https://github.com/BoyanJIANG/LoRD):house:[project](https://boyanjiang.github.io/LoRD/)
+* 机器人
+  * [Visual Cross-View Metric Localization with Dense Uncertainty Estimates](https://arxiv.org/abs/2208.08519)<br>:star:[code](https://github.com/tudelft-iv/CrossViewMetricLocalization)
+* 其它
+  * [L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training](https://arxiv.org/abs/2208.08711)
+
 ## 8月18日更新 4 篇
 * 图像合成
   * [Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing](https://arxiv.org/abs/2208.08092)<br>:star:[code](https://github.com/1jsingh/paint2pix)
