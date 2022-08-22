@@ -32,22 +32,13 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 8月19日更新 8 篇
-* GAN
-  * [Mind the Gap in Distilling StyleGANs](https://arxiv.org/abs/2208.08840)<br>:star:[code](https://github.com/xuguodong03/StyleKD)
-* 目标检测
-  * [RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection](https://arxiv.org/abs/2208.08738)<br>:star:[code](https://github.com/Chasel-Tsui/mmdet-rfla)
-  * [Unifying Visual Perception by Dispersible Points Learning](https://arxiv.org/abs/2208.08630)<br>:star:[code](https://github.com/Sense-X/UniHead)
-* 三维人体重建
-  * [Neural Capture of Animatable 3D Human from Monocular Video](https://arxiv.org/abs/2208.08728)
-* 半监督
-  * [ConMatch: Semi-Supervised Learning with Confidence-Guided Consistency Regularization](https://arxiv.org/abs/2208.08631)<br>:star:[code](https://github.com/JiwonCocoder/ConMatch)
-* 4D
-  * [LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling](https://arxiv.org/abs/2208.08622)<br>:star:[code](https://github.com/BoyanJIANG/LoRD):house:[project](https://boyanjiang.github.io/LoRD/)
-* 机器人
-  * [Visual Cross-View Metric Localization with Dense Uncertainty Estimates](https://arxiv.org/abs/2208.08519)<br>:star:[code](https://github.com/tudelft-iv/CrossViewMetricLocalization)
-* 其它
-  * [L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training](https://arxiv.org/abs/2208.08711)
+## 8月22日更新 3 篇
+* 光流
+  * [Video Interpolation by Event-driven Anisotropic Adjustment of Optical Flow](https://arxiv.org/abs/2208.09127)
+* 人脸
+  * [Towards Unbiased Label Distribution Learning for Facial Pose Estimation Using Anisotropic Spherical Gaussian](https://arxiv.org/abs/2208.09122)
+* 光场
+  * [Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion](https://arxiv.org/abs/2208.09480)<br>:house:[project](https://nv-tlabs.github.io/outdoor-ar/)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -82,6 +73,8 @@
 ## 光学、几何、光场成像
 * 相机姿势
   * [Camera Pose Auto-Encoders for Improving Pose Regression](https://arxiv.org/abs/2207.05530)<br>:star:[code](https://github.com/yolish/camera-pose-auto-encoders)
+* 光场
+  * [Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion](https://arxiv.org/abs/2208.09480)<br>:house:[project](https://nv-tlabs.github.io/outdoor-ar/)
 
 ## Data Augmentation(数据增强)
 * [TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers](https://arxiv.org/abs/2207.08409)<br>:star:[code](https://github.com/Sense-X/TokenMix)
@@ -261,7 +254,7 @@
 * [Secrets of Event-Based Optical Flow](https://arxiv.org/abs/2207.10022)<br>:star:[code](https://github.com/tub-rip/event_based_optical_flow)
 * [Deep 360∘ Optical Flow Estimation Based on Multi-Projection Fusion](https://arxiv.org/abs/2208.00776)
 * [Learning Omnidirectional Flow in 360-degree Video via Siamese Representation](https://arxiv.org/abs/2208.03620)<br>:house:[project](https://siamlof.github.io/)
-
+* [Video Interpolation by Event-driven Anisotropic Adjustment of Optical Flow](https://arxiv.org/abs/2208.09127)
 
 ## Re-identification(重识别)
 * 重识别  
@@ -397,6 +390,9 @@
   * [On Mitigating Hard Clusters for Face Clustering](https://arxiv.org/abs/2207.11895)<br>:open_mouth:oral:star:[code](https://github.com/echoanran/On-Mitigating-Hard-Clusters)
 * 谈话头像合成
   * [Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://arxiv.org/abs/2207.11770)<br>:star:[code](https://github.com/sstzal/DFRF):house:[project](https://sstzal.github.io/DFRF/)
+* 人脸姿势估计
+  * [Towards Unbiased Label Distribution Learning for Facial Pose Estimation Using Anisotropic Spherical Gaussian](https://arxiv.org/abs/2208.09122)
+
 
 <a name="19"/>
 
