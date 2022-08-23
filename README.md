@@ -32,13 +32,18 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 8月22日更新 3 篇
-* 光流
-  * [Video Interpolation by Event-driven Anisotropic Adjustment of Optical Flow](https://arxiv.org/abs/2208.09127)
-* 人脸
-  * [Towards Unbiased Label Distribution Learning for Facial Pose Estimation Using Anisotropic Spherical Gaussian](https://arxiv.org/abs/2208.09122)
-* 光场
-  * [Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion](https://arxiv.org/abs/2208.09480)<br>:house:[project](https://nv-tlabs.github.io/outdoor-ar/)
+## 8月23日更新 6 篇
+* GAN
+  * [FurryGAN: High Quality Foreground-aware Image Synthesis](https://arxiv.org/abs/2208.10422)<br>:house:[project](https://jeongminb.github.io/FurryGAN/)
+  * [Improving GANs for Long-Tailed Data through Group Spectral Regularization](https://arxiv.org/abs/2208.09932)<br>:star:[code](https://drive.google.com/file/d/1aG48i04Q8mOmD968PAgwEvPsw1zcS4Gk/view):house:[project](https://sites.google.com/view/gsr-eccv22)
+* 分割
+  * [Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2208.10169)<br>:star:[code](https://github.com/JayQine/MGD-SSSS)
+* 长尾学习
+  * [Towards Calibrated Hyper-Sphere Representation via Distribution Overlap Coefficient for Long-tailed Learning](https://arxiv.org/abs/2208.10043)<br>:star:[code](https://github.com/VipaiLab/vMF_OP)
+* 检索
+  * [CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval](https://arxiv.org/abs/2208.09843)
+* 其它
+  * [GCISG: Guided Causal Invariant Learning for Improved Syn-to-real Generalization](https://arxiv.org/abs/2208.10024)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -288,6 +293,9 @@
   * [Visual Knowledge Tracing](https://arxiv.org/abs/2207.10157)<br>:star:[code](https://github.com/nkondapa/VisualKnowledgeTracing)
 * 细粒度识别
   * [Improving Fine-Grained Visual Recognition in Low Data Regimes via Self-Boosting Attention Mechanism](https://arxiv.org/abs/2208.00617)<br>:star:[code](https://github.com/GANPerf/SAM)  
+* 长尾学习
+  * [Towards Calibrated Hyper-Sphere Representation via Distribution Overlap Coefficient for Long-tailed Learning](https://arxiv.org/abs/2208.10043)<br>:star:[code](https://github.com/VipaiLab/vMF_OP)
+
 
 ## Video/Image Super-Resolution(视频/图像超分辨率)
 * 跨模态超分辨率
@@ -422,6 +430,8 @@
 * [Generator Knows What Discriminator Should Learn in Unconditional GANs](https://arxiv.org/abs/2207.13320)<br>:star:[code](https://github.com/naver-ai/GGDR)
 * [Hierarchical Semantic Regularization of Latent Spaces in StyleGANs](https://arxiv.org/abs/2208.03764)<br>:star:[code](https://drive.google.com/file/d/1gzHTYTgGBUlDWyN_Z3ORofisQrHChg_n/view):house:[project](https://sites.google.com/view/hsr-eccv22)
 * [Mind the Gap in Distilling StyleGANs](https://arxiv.org/abs/2208.08840)<br>:star:[code](https://github.com/xuguodong03/StyleKD)
+* [FurryGAN: High Quality Foreground-aware Image Synthesis](https://arxiv.org/abs/2208.10422)<br>:house:[project](https://jeongminb.github.io/FurryGAN/)
+* [Improving GANs for Long-Tailed Data through Group Spectral Regularization](https://arxiv.org/abs/2208.09932)<br>:star:[code](https://drive.google.com/file/d/1aG48i04Q8mOmD968PAgwEvPsw1zcS4Gk/view):house:[project](https://sites.google.com/view/gsr-eccv22)
 * 线稿上色
   * [Eliminating Gradient Conflict in Reference-based Line-Art Colorization](https://arxiv.org/abs/2207.06095)<br>:star:[code](https://github.com/kunkun0w0/SGA)
 * 图像生成
@@ -752,7 +762,9 @@
     * [GAMa: Cross-view Video Geo-localization](https://arxiv.org/abs/2207.02431)<br>:star:[code](https://github.com/svyas23/GAMa)
 * 文本-视频检索
   * [TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval](https://arxiv.org/abs/2207.07852)<br>:star:[code](https://github.com/yuqi657/ts2_net)
-
+* 图像-文本检索
+  * [CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval](https://arxiv.org/abs/2208.09843)
+  
 <a name="4"/>
 
 ## 4.Video/Image Captioning(视频/图像字幕)
@@ -802,6 +814,7 @@
   * [2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds](https://arxiv.org/abs/2207.04397)<br>:star:[code](https://github.com/yanx27/2DPASS)
   * [Open-world Semantic Segmentation via Contrasting and Clustering Vision-Language Embedding](https://arxiv.org/abs/2207.08455)
   * [ML-BPM: Multi-teacher Learning with Bidirectional Photometric Mixing for Open Compound Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2207.09045)
+  * [Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2208.10169)<br>:star:[code](https://github.com/JayQine/MGD-SSSS)
   * 域适应语义分割
     * [DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2207.09988)<br>:star:[code](https://github.com/dvlab-research/DecoupleNet)
     * [Online Domain Adaptation for Semantic Segmentation in Ever-Changing Conditions](https://arxiv.org/abs/2207.10667)<br>:star:[code](https://github.com/theo2021/OnDA)
@@ -871,6 +884,7 @@
 * [AdaBin: Improving Binary Neural Networks with Adaptive Binary Sets](https://arxiv.org/abs/2208.08084)
 * [TRoVE: Transforming Road Scene Datasets into Photorealistic Virtual Environments](https://arxiv.org/abs/2208.07943)<br>:star:[code](https://github.com/shubham1810/trove)
 * [L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training](https://arxiv.org/abs/2208.08711)
+* [GCISG: Guided Causal Invariant Learning for Improved Syn-to-real Generalization](https://arxiv.org/abs/2208.10024)
 
 
 扫码CV君微信（注明：CVPR）入微信交流群：
