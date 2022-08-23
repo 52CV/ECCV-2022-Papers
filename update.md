@@ -1,3 +1,11 @@
+## 8月22日更新 3 篇
+* 光流
+  * [Video Interpolation by Event-driven Anisotropic Adjustment of Optical Flow](https://arxiv.org/abs/2208.09127)
+* 人脸
+  * [Towards Unbiased Label Distribution Learning for Facial Pose Estimation Using Anisotropic Spherical Gaussian](https://arxiv.org/abs/2208.09122)
+* 光场
+  * [Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion](https://arxiv.org/abs/2208.09480)<br>:house:[project](https://nv-tlabs.github.io/outdoor-ar/)
+
 ### —————————————————————————————————————————————
 
 ## 8月19日更新 8 篇
