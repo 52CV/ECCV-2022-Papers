@@ -32,18 +32,16 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 8月23日更新 6 篇
-* GAN
-  * [FurryGAN: High Quality Foreground-aware Image Synthesis](https://arxiv.org/abs/2208.10422)<br>:house:[project](https://jeongminb.github.io/FurryGAN/)
-  * [Improving GANs for Long-Tailed Data through Group Spectral Regularization](https://arxiv.org/abs/2208.09932)<br>:star:[code](https://drive.google.com/file/d/1aG48i04Q8mOmD968PAgwEvPsw1zcS4Gk/view):house:[project](https://sites.google.com/view/gsr-eccv22)
-* 分割
-  * [Multi-Granularity Distillation Scheme Towards Lightweight Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2208.10169)<br>:star:[code](https://github.com/JayQine/MGD-SSSS)
-* 长尾学习
-  * [Towards Calibrated Hyper-Sphere Representation via Distribution Overlap Coefficient for Long-tailed Learning](https://arxiv.org/abs/2208.10043)<br>:star:[code](https://github.com/VipaiLab/vMF_OP)
-* 检索
-  * [CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval](https://arxiv.org/abs/2208.09843)
-* 其它
-  * [GCISG: Guided Causal Invariant Learning for Improved Syn-to-real Generalization](https://arxiv.org/abs/2208.10024)
+## 8月24日更新 4 篇
+* 视频异常检测
+  * [Towards Open Set Video Anomaly Detection](https://arxiv.org/abs/2208.11113)
+* 姿态
+  * [Learning Visibility for Robust Dense Human Body Estimation](https://arxiv.org/abs/2208.10652)<br>:star:[code](https://github.com/chhankyao/visdb)
+* 图像-图像翻译
+  * [Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization](https://arxiv.org/abs/2208.10730)<br>:star:[code](https://github.com/Kaminyou/URUST)
+* 对抗
+  * [RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN](https://arxiv.org/abs/2208.10608)<br>:star:[code](https://github.com/huyvnphan/ECCV2022-RIBAC)
+
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -190,11 +188,13 @@
 ## Adversarial  Learning(对抗学习)
 * [Prior-Guided Adversarial Initialization for Fast Adversarial Training](https://arxiv.org/abs/2207.08859)<br>:star:[code](https://github.com/jiaxiaojunQAQ/FGSM-PGI)
 * [Decoupled Adversarial Contrastive Learning for Self-supervised Adversarial Robustness](https://arxiv.org/abs/2207.10899)<br>:open_mouth:oral:star:[code](https://github.com/pantheon5100/DeACL)
+* [RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN](https://arxiv.org/abs/2208.10608)<br>:star:[code](https://github.com/huyvnphan/ECCV2022-RIBAC)
 * 对抗攻击
   * [Frequency Domain Model Augmentation for Adversarial Attack](https://arxiv.org/abs/2207.05382)<br>:star:[code](https://github.com/yuyang-long/SSA)
   * [Watermark Vaccine: Adversarial Attacks to Prevent Watermark Removal](https://arxiv.org/abs/2207.08178)<br>:star:[code](https://github.com/thinwayliu/Watermark-Vaccine)
   * [SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness](https://arxiv.org/abs/2207.12391)
  
+
 ## Transfer Learning(迁移学习)
 * [Factorizing Knowledge in Neural Networks](https://arxiv.org/abs/2207.03337)<br>:star:[code](https://github.com/Adamdad/KnowledgeFactor)
 
@@ -418,9 +418,10 @@
 ## 18.Image-to-Image Translation(图像到图像翻译)
 * [VecGAN: Image-to-Image Translation with Interpretable Latent Directions](https://arxiv.org/abs/2207.03411)
 * [Vector Quantized Image-to-Image Translation](https://arxiv.org/abs/2207.13286)<br>:star:[code](https://github.com/cyj407/VQ-I2I):house:[project](https://cyj407.github.io/VQ-I2I/)
+* [Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization](https://arxiv.org/abs/2208.10730)<br>:star:[code](https://github.com/Kaminyou/URUST)
 * 图像翻译
   * [BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks](https://arxiv.org/abs/2207.06873)<br>:star:[code](https://github.com/ExplainableML/BayesCap)
-
+ 
 <a name="17"/>
 
 ## 17.GAN
@@ -551,6 +552,7 @@
   * [ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild](https://arxiv.org/abs/2207.09137)<br>:star:[code](https://github.com/bytedance/particle-sfm):house:[project](http://b1ueber2y.me/projects/ParticleSfM/)
 * 视频异常检测
   * [Video Anomaly Detection by Solving Decoupled Spatio-Temporal Jigsaw Puzzles](https://arxiv.org/abs/2207.10172)<br>:star:[code](https://github.com/wizyoung/YOLOv3)
+  * [Towards Open Set Video Anomaly Detection](https://arxiv.org/abs/2208.11113)
 * 视频识别
   * [Temporal Saliency Query Network for Efficient Video Recognition](https://arxiv.org/abs/2207.10379)<br>:house:[project](https://lawrencexia2008.github.io/projects/tsqnet)
   * [NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition](https://arxiv.org/abs/2207.10388)<br>:house:[project](https://lawrencexia2008.github.io/projects/nsnet)
@@ -589,6 +591,7 @@
 * [Self-Constrained Inference Optimization on Structural Groups for Human Pose Estimation](https://arxiv.org/abs/2207.02425)
 * [Pose for Everything: Towards Category-Agnostic Pose Estimation](https://arxiv.org/abs/2207.10387)<br>:open_mouth:oral:star:[code](https://github.com/luminxu/Pose-for-Everything)
 * [PoseTrans: A Simple Yet Effective Pose Transformation Augmentation for Human Pose Estimation](https://arxiv.org/abs/2208.07755)
+* [Learning Visibility for Robust Dense Human Body Estimation](https://arxiv.org/abs/2208.10652)<br>:star:[code](https://github.com/chhankyao/visdb)
 * 运动捕捉
   * [TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts](https://arxiv.org/abs/2207.01696)<br>:star:[code](https://github.com/EricGuo5513/TM2T):house:[project](https://ericguo5513.github.io/TM2T/)
 * 基于点的衣着人体建模
