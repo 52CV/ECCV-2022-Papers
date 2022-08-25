@@ -32,17 +32,14 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 8月24日更新 5 篇
-* 视频异常检测
-  * [Towards Open Set Video Anomaly Detection](https://arxiv.org/abs/2208.11113)
-* 姿态
-  * [Learning Visibility for Robust Dense Human Body Estimation](https://arxiv.org/abs/2208.10652)<br>:star:[code](https://github.com/chhankyao/visdb)
-* 图像-图像翻译
-  * [Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization](https://arxiv.org/abs/2208.10730)<br>:star:[code](https://github.com/Kaminyou/URUST)
-* 对抗
-  * [RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN](https://arxiv.org/abs/2208.10608)<br>:star:[code](https://github.com/huyvnphan/ECCV2022-RIBAC)
-* 分类
-  * [Adversarial Feature Augmentation for Cross-domain Few-shot Classification](https://arxiv.org/abs/2208.11021)<br>:star:[code](https://github.com/youthhoo/AFA_For_Few_shot_learning)
+## 8月25日更新 3 篇
+
+* 图像检测
+  * [Discovering Transferable Forensic Features for CNN-generated Images Detection](https://arxiv.org/abs/2208.11342)<br>:open_mouth:oral:star:[code](https://drive.google.com/drive/folders/1LvKIwHf5dEbm-MxvAMQRiGViWLSKYfRP?usp=sharing):house:[project](https://keshik6.github.io/transferable-forensic-features/)
+* GAN
+  * [3D-FM GAN: Towards 3D-Controllable Face Manipulation](https://arxiv.org/abs/2208.11257)<br>:house:[project](https://lychenyoko.github.io/3D-FM-GAN-Webpage/)
+* 活体检测
+  * [Multi-domain Learning for Updating Face Anti-spoofing Models](https://arxiv.org/abs/2208.11148)<br>:star:[code](https://github.com/CHELSEA234/Multi-domain-learning-FAS)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -394,6 +391,7 @@
   * [Structure-aware Editable Morphable Model for 3D Facial Detail Animation and Manipulation](https://arxiv.org/abs/2207.09019)<br>:star:[code](https://github.com/gerwang/facial-detail-manipulation) 
 * 活体检测
   * [Generative Domain Adaptation for Face Anti-Spoofing](https://arxiv.org/abs/2207.10015)
+  * [Multi-domain Learning for Updating Face Anti-spoofing Models](https://arxiv.org/abs/2208.11148)<br>:star:[code](https://github.com/CHELSEA234/Multi-domain-learning-FAS)
 * 人脸识别
   * [Controllable and Guided Face Synthesis for Unconstrained Face Recognition](https://arxiv.org/abs/2207.10180)<br>:star:[code](https://github.com/liuf1990/CFSM):house:[project](http://cvlab.cse.msu.edu/project-cfsm.html)
 * 人脸聚类
@@ -402,7 +400,6 @@
   * [Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://arxiv.org/abs/2207.11770)<br>:star:[code](https://github.com/sstzal/DFRF):house:[project](https://sstzal.github.io/DFRF/)
 * 人脸姿势估计
   * [Towards Unbiased Label Distribution Learning for Facial Pose Estimation Using Anisotropic Spherical Gaussian](https://arxiv.org/abs/2208.09122)
-
 
 <a name="19"/>
 
@@ -435,6 +432,7 @@
 * [Mind the Gap in Distilling StyleGANs](https://arxiv.org/abs/2208.08840)<br>:star:[code](https://github.com/xuguodong03/StyleKD)
 * [FurryGAN: High Quality Foreground-aware Image Synthesis](https://arxiv.org/abs/2208.10422)<br>:house:[project](https://jeongminb.github.io/FurryGAN/)
 * [Improving GANs for Long-Tailed Data through Group Spectral Regularization](https://arxiv.org/abs/2208.09932)<br>:star:[code](https://drive.google.com/file/d/1aG48i04Q8mOmD968PAgwEvPsw1zcS4Gk/view):house:[project](https://sites.google.com/view/gsr-eccv22)
+* [3D-FM GAN: Towards 3D-Controllable Face Manipulation](https://arxiv.org/abs/2208.11257)<br>:house:[project](https://lychenyoko.github.io/3D-FM-GAN-Webpage/)
 * 线稿上色
   * [Eliminating Gradient Conflict in Reference-based Line-Art Colorization](https://arxiv.org/abs/2207.06095)<br>:star:[code](https://github.com/kunkun0w0/SGA)
 * 图像生成
@@ -484,8 +482,6 @@
   * [Self-Supervised Interactive Object Segmentation Through a Singulation-and-Grasping Approach](https://arxiv.org/abs/2207.09314)<br>:house:[project](https://sites.google.com/umn.edu/sag-interactive-segmentation)
 * HOS
   * [Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications](https://arxiv.org/abs/2208.03826)<br>:star:[code](https://github.com/owenzlz/EgoHOS)
-
-
 
 <a name="12"/>
 
@@ -751,7 +747,8 @@
   * [Out-of-Distribution Detection with Semantic Mismatch under Masking](https://arxiv.org/abs/2208.00446)<br>:star:[code](https://github.com/cure-lab/MOODCat)
 * 小目标检测
   * [RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection](https://arxiv.org/abs/2208.08738)<br>:star:[code](https://github.com/Chasel-Tsui/mmdet-rfla) 
-
+* 图像检测
+  * [Discovering Transferable Forensic Features for CNN-generated Images Detection](https://arxiv.org/abs/2208.11342)<br>:open_mouth:oral:star:[code](https://drive.google.com/drive/folders/1LvKIwHf5dEbm-MxvAMQRiGViWLSKYfRP?usp=sharing):house:[project](https://keshik6.github.io/transferable-forensic-features/)
 <a name="5"/>
 
 ## 5.Image/Video Retrieval(图像/视频检索)
