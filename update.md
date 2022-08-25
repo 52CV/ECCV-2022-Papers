@@ -1,3 +1,14 @@
+## 8月24日更新 5 篇
+* 视频异常检测
+  * [Towards Open Set Video Anomaly Detection](https://arxiv.org/abs/2208.11113)
+* 姿态
+  * [Learning Visibility for Robust Dense Human Body Estimation](https://arxiv.org/abs/2208.10652)<br>:star:[code](https://github.com/chhankyao/visdb)
+* 图像-图像翻译
+  * [Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization](https://arxiv.org/abs/2208.10730)<br>:star:[code](https://github.com/Kaminyou/URUST)
+* 对抗
+  * [RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN](https://arxiv.org/abs/2208.10608)<br>:star:[code](https://github.com/huyvnphan/ECCV2022-RIBAC)
+* 分类
+  * [Adversarial Feature Augmentation for Cross-domain Few-shot Classification](https://arxiv.org/abs/2208.11021)<br>:star:[code](https://github.com/youthhoo/AFA_For_Few_shot_learning)
 
 ## 8月23日更新 6 篇
 * GAN
