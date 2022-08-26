@@ -21,7 +21,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 8 月 19 日，已整理 350 篇。
+## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 8 月 26 日，已整理 370 篇。
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
