@@ -32,14 +32,12 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 8月25日更新 3 篇
-
-* 图像检测
-  * [Discovering Transferable Forensic Features for CNN-generated Images Detection](https://arxiv.org/abs/2208.11342)<br>:open_mouth:oral:star:[code](https://drive.google.com/drive/folders/1LvKIwHf5dEbm-MxvAMQRiGViWLSKYfRP?usp=sharing):house:[project](https://keshik6.github.io/transferable-forensic-features/)
-* GAN
-  * [3D-FM GAN: Towards 3D-Controllable Face Manipulation](https://arxiv.org/abs/2208.11257)<br>:house:[project](https://lychenyoko.github.io/3D-FM-GAN-Webpage/)
-* 活体检测
-  * [Multi-domain Learning for Updating Face Anti-spoofing Models](https://arxiv.org/abs/2208.11148)<br>:star:[code](https://github.com/CHELSEA234/Multi-domain-learning-FAS)
+## 8月26日更新 3 篇
+* 图像修复
+  * [High-Fidelity Image Inpainting with GAN Inversion](https://arxiv.org/abs/2208.11850)
+  * [Unbiased Multi-Modality Guidance for Image Inpainting](https://arxiv.org/abs/2208.11844)
+* VLN
+  * [Learning from Unlabeled 3D Environments for Vision-and-Language Navigation](https://arxiv.org/abs/2208.11781)<br>:house:[project](https://cshizhe.github.io/projects/hm3d_autovln.html)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -461,6 +459,9 @@
   * [Wave-ViT: Unifying Wavelet and Transformers for Visual Representation Learning](https://arxiv.org/abs/2207.04978)<br>:star:[code](https://github.com/YehLi/ImageNetModel)
   * [Unsupervised Visual Representation Learning by Synchronous Momentum Grouping](https://arxiv.org/abs/2207.06167)
   * [Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training](https://arxiv.org/abs/2207.12661)<br>:star:[code](https://github.com/Hxyou/MSCLIP) 
+* VLN
+  * [Learning from Unlabeled 3D Environments for Vision-and-Language Navigation](https://arxiv.org/abs/2208.11781)<br>:house:[project](https://cshizhe.github.io/projects/hm3d_autovln.html)
+
 
 <a name="14"/>
 
@@ -789,6 +790,8 @@
 * 图像修复
   * [Learning Prior Feature and Attention Enhanced Image Inpainting](https://arxiv.org/abs/2208.01837)<br>:star:[code](https://github.com/ewrfcas/MAE-FAR)
   * [Inpainting at Modern Camera Resolution by Guided PatchMatch with Auto-Curation](https://arxiv.org/abs/2208.03552)<br>:star:[code](https://drive.google.com/file/d/1Lmar1byASRReJ0SimBfWAE2Dt_-gMhor/edit)
+  * [High-Fidelity Image Inpainting with GAN Inversion](https://arxiv.org/abs/2208.11850)
+  * [Unbiased Multi-Modality Guidance for Image Inpainting](https://arxiv.org/abs/2208.11844)
 * 图像增强
   * [SepLUT: Separable Image-adaptive Lookup Tables for Real-time Image Enhancement](https://arxiv.org/abs/2207.08351)
   * [Uncertainty Inspired Underwater Image Enhancement](https://arxiv.org/abs/2207.09689)<br>:star:[code](https://github.com/zhenqifu/PUIE-Net)
