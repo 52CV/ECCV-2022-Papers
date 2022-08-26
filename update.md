@@ -1,3 +1,20 @@
+## 8月26日更新 3 篇
+* 图像修复
+  * [High-Fidelity Image Inpainting with GAN Inversion](https://arxiv.org/abs/2208.11850)
+  * [Unbiased Multi-Modality Guidance for Image Inpainting](https://arxiv.org/abs/2208.11844)
+* VLN
+  * [Learning from Unlabeled 3D Environments for Vision-and-Language Navigation](https://arxiv.org/abs/2208.11781)<br>:house:[project](https://cshizhe.github.io/projects/hm3d_autovln.html)
+
+## 8月25日更新 3 篇
+
+* 图像检测
+  * [Discovering Transferable Forensic Features for CNN-generated Images Detection](https://arxiv.org/abs/2208.11342)<br>:open_mouth:oral:star:[code](https://drive.google.com/drive/folders/1LvKIwHf5dEbm-MxvAMQRiGViWLSKYfRP?usp=sharing):house:[project](https://keshik6.github.io/transferable-forensic-features/)
+* GAN
+  * [3D-FM GAN: Towards 3D-Controllable Face Manipulation](https://arxiv.org/abs/2208.11257)<br>:house:[project](https://lychenyoko.github.io/3D-FM-GAN-Webpage/)
+* 活体检测
+  * [Multi-domain Learning for Updating Face Anti-spoofing Models](https://arxiv.org/abs/2208.11148)<br>:star:[code](https://github.com/CHELSEA234/Multi-domain-learning-FAS)
+
+
 ## 8月24日更新 5 篇
 * 视频异常检测
   * [Towards Open Set Video Anomaly Detection](https://arxiv.org/abs/2208.11113)
