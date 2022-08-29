@@ -32,12 +32,11 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 8月26日更新 3 篇
-* 图像修复
-  * [High-Fidelity Image Inpainting with GAN Inversion](https://arxiv.org/abs/2208.11850)
-  * [Unbiased Multi-Modality Guidance for Image Inpainting](https://arxiv.org/abs/2208.11844)
-* VLN
-  * [Learning from Unlabeled 3D Environments for Vision-and-Language Navigation](https://arxiv.org/abs/2208.11781)<br>:house:[project](https://cshizhe.github.io/projects/hm3d_autovln.html)
+## 8月26日更新 2 篇
+* 动作识别
+  * [CMD: Self-supervised 3D Action Representation Learning with Cross-modal Mutual Distillation](https://arxiv.org/abs/2208.12448)<br>:open_mouth:oral:star:[code](https://github.com/maoyunyao/CMD)
+* 其它
+  * [Learning Continuous Implicit Representation for Near-Periodic Patterns](https://arxiv.org/abs/2208.12278)<br>:star:[code](https://github.com/ArmastusChen/Learning-Continuous-Implicit-Representation-for-Near-Periodic-Patterns):house:[project](https://armastuschen.github.io/projects/NPP_Net/)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -493,6 +492,7 @@
   * [An Efficient Spatio-Temporal Pyramid Transformer for Action Detection](https://arxiv.org/abs/2207.10448)
   * [Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition](https://arxiv.org/abs/2207.13259)<br>:star:[code](https://github.com/MartinXM/TPS)
  * [Privacy-Preserving Action Recognition via Motion Difference Quantization](https://arxiv.org/abs/2208.02459)<br>:star:[code](https://github.com/suakaw/BDQ_PrivacyAR)
+ * [CMD: Self-supervised 3D Action Representation Learning with Cross-modal Mutual Distillation](https://arxiv.org/abs/2208.12448)<br>:open_mouth:oral:star:[code](https://github.com/maoyunyao/CMD)
  * 基于骨架动作识别
     * [Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning](https://arxiv.org/abs/2207.06101)<br>:star:[code](https://github.com/Boeun-Kim/GL-Transformer)
   * 小样本动作识别
@@ -890,7 +890,7 @@
 * [TRoVE: Transforming Road Scene Datasets into Photorealistic Virtual Environments](https://arxiv.org/abs/2208.07943)<br>:star:[code](https://github.com/shubham1810/trove)
 * [L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training](https://arxiv.org/abs/2208.08711)
 * [GCISG: Guided Causal Invariant Learning for Improved Syn-to-real Generalization](https://arxiv.org/abs/2208.10024)
-
+* [Learning Continuous Implicit Representation for Near-Periodic Patterns](https://arxiv.org/abs/2208.12278)<br>:star:[code](https://github.com/ArmastusChen/Learning-Continuous-Implicit-Representation-for-Near-Periodic-Patterns):house:[project](https://armastuschen.github.io/projects/NPP_Net/)
 
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
