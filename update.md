@@ -1,3 +1,12 @@
+
+## 8月29日更新 2 篇
+* 动作识别
+  * [CMD: Self-supervised 3D Action Representation Learning with Cross-modal Mutual Distillation](https://arxiv.org/abs/2208.12448)<br>:open_mouth:oral:star:[code](https://github.com/maoyunyao/CMD)
+* 其它
+  * [Learning Continuous Implicit Representation for Near-Periodic Patterns](https://arxiv.org/abs/2208.12278)<br>:star:[code](https://github.com/ArmastusChen/Learning-Continuous-Implicit-Representation-for-Near-Periodic-Patterns):house:[project](https://armastuschen.github.io/projects/NPP_Net/)
+
+### —————————————————————————————————————————————
+
 ## 8月26日更新 3 篇
 * 图像修复
   * [High-Fidelity Image Inpainting with GAN Inversion](https://arxiv.org/abs/2208.11850)
