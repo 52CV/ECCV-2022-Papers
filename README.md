@@ -32,11 +32,11 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 8月26日更新 2 篇
-* 动作识别
-  * [CMD: Self-supervised 3D Action Representation Learning with Cross-modal Mutual Distillation](https://arxiv.org/abs/2208.12448)<br>:open_mouth:oral:star:[code](https://github.com/maoyunyao/CMD)
-* 其它
-  * [Learning Continuous Implicit Representation for Near-Periodic Patterns](https://arxiv.org/abs/2208.12278)<br>:star:[code](https://github.com/ArmastusChen/Learning-Continuous-Implicit-Representation-for-Near-Periodic-Patterns):house:[project](https://armastuschen.github.io/projects/NPP_Net/)
+
+## 8月30日更新 1 篇
+* 人脸识别
+  * [Towards Robust Face Recognition with Comprehensive Search](https://arxiv.org/abs/2208.13600)
+
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -391,6 +391,7 @@
   * [Multi-domain Learning for Updating Face Anti-spoofing Models](https://arxiv.org/abs/2208.11148)<br>:star:[code](https://github.com/CHELSEA234/Multi-domain-learning-FAS)
 * 人脸识别
   * [Controllable and Guided Face Synthesis for Unconstrained Face Recognition](https://arxiv.org/abs/2207.10180)<br>:star:[code](https://github.com/liuf1990/CFSM):house:[project](http://cvlab.cse.msu.edu/project-cfsm.html)
+  * [Towards Robust Face Recognition with Comprehensive Search](https://arxiv.org/abs/2208.13600)
 * 人脸聚类
   * [On Mitigating Hard Clusters for Face Clustering](https://arxiv.org/abs/2207.11895)<br>:open_mouth:oral:star:[code](https://github.com/echoanran/On-Mitigating-Hard-Clusters)
 * 谈话头像合成
