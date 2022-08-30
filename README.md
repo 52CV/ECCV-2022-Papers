@@ -33,10 +33,11 @@
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
 
-## 8月30日更新 1 篇
+## 8月30日更新 2 篇
 * 人脸识别
   * [Towards Robust Face Recognition with Comprehensive Search](https://arxiv.org/abs/2208.13600)
-
+* 目标检测
+  * [Open-Set Semi-Supervised Object Detection](https://arxiv.org/abs/2208.13722)<br>:star:[code](https://github.com/facebookresearch/OSSOD):house:[project](https://ycliu93.github.io/projects/ossod.html)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -725,6 +726,7 @@
   * [Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph](https://arxiv.org/abs/2208.03624)<br>:open_mouth:oral:star:[code](https://github.com/Nightmare-n/GraphRCNN) 
 * 半监督目标检测
   * [Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection](https://arxiv.org/abs/2207.02541)<br>:star:[code](https://github.com/Megvii-BaseDetection/DenseTeacher)
+  * [Open-Set Semi-Supervised Object Detection](https://arxiv.org/abs/2208.13722)<br>:star:[code](https://github.com/facebookresearch/OSSOD):house:[project](https://ycliu93.github.io/projects/ossod.html)
 * 小样本目标检测
   * [Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark](https://arxiv.org/abs/2207.11169)<br>:star:[code](https://github.com/amazon-research/few-shot-object-detection-benchmark)
   * [Multi-Faceted Distillation of Base-Novel Commonality for Few-shot Object Detection](https://arxiv.org/abs/2207.11184)<br>:star:[code](https://github.com/WuShuang1998/MFDC)
