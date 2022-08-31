@@ -1,3 +1,8 @@
+## 8月30日更新 2 篇
+* 人脸识别
+  * [Towards Robust Face Recognition with Comprehensive Search](https://arxiv.org/abs/2208.13600)
+* 目标检测
+  * [Open-Set Semi-Supervised Object Detection](https://arxiv.org/abs/2208.13722)<br>:star:[code](https://github.com/facebookresearch/OSSOD):house:[project](https://ycliu93.github.io/projects/ossod.html)
 
 ## 8月29日更新 2 篇
 * 动作识别
