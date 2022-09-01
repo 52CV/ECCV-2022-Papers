@@ -33,10 +33,13 @@
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
 
-## 8月31日更新 1 篇
-* 图像匹配
-  * [ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer](https://arxiv.org/abs/2208.14201)<br>:house:[project](https://aspanformer.github.io/)
-
+## 9月1日更新 3 篇
+* 点云
+  * [Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation](https://arxiv.org/abs/2208.14893)<br>:star:[code](https://github.com/514DNA/LLT)
+* 强化学习
+  * [Style-Agnostic Reinforcement Learning](https://arxiv.org/abs/2208.14863)<br>:star:[code](https://github.com/POSTECH-CVLab/style-agnostic-RL)
+* 3D
+  * [SimpleRecon: 3D Reconstruction Without 3D Convolutions](https://arxiv.org/abs/2208.14743)<br>:star:[code](https://nianticlabs.github.io/simplerecon/)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -172,6 +175,8 @@
 ## Metric Learning(度量学习)
 * [DAS: Densely-Anchored Sampling for Deep Metric Learning](https://arxiv.org/abs/2208.00119)<br>:star:[code](https://github.com/lizhaoliu-Lec/DAS)
 
+## Reinforcement Learning(强化学习)
+* [Style-Agnostic Reinforcement Learning](https://arxiv.org/abs/2208.14863)<br>:star:[code](https://github.com/POSTECH-CVLab/style-agnostic-RL)
 
 ## Incremental Learning(增量学习)
 * [Learning with Recoverable Forgetting](https://arxiv.org/abs/2207.08224)
@@ -242,6 +247,7 @@
   * [SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer](https://arxiv.org/abs/2207.10315)<br>:star:[code](https://github.com/hrzhou2/seedformer)   
 * 点云配准
   * [SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud](https://arxiv.org/abs/2208.01925)<br>:star:[code](https://github.com/zxrzju/SuperLine3D) 
+  * [Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation](https://arxiv.org/abs/2208.14893)<br>:star:[code](https://github.com/514DNA/LLT)
 
 ## SLAM/Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
 * VR
@@ -672,6 +678,7 @@
   * [2D GANs Meet Unsupervised Single-view 3D Reconstruction](https://arxiv.org/abs/2207.10183)<br>:star:[code](https://github.com/liuf1990/GANSVR):house:[project](http://cvlab.cse.msu.edu/project-gansvr.html)
   * [Few-shot Single-view 3D Reconstruction with Memory Prior Contrastive Network](https://arxiv.org/abs/2208.00183)
   * [PlaneFormers: From Sparse View Planes to 3D Reconstruction](https://arxiv.org/abs/2208.04307)<br>:star:[code](https://github.com/samiragarwala/PlaneFormers):house:[project](https://samiragarwala.github.io/PlaneFormers/):tv:[video](https://youtu.be/3VPsOxXEMlI)
+  * [SimpleRecon: 3D Reconstruction Without 3D Convolutions](https://arxiv.org/abs/2208.14743)<br>:star:[code](https://nianticlabs.github.io/simplerecon/)
 * 三维形状
   * [3D Shape Sequence of Human Comparison and Classification using Current and Varifolds](https://arxiv.org/abs/2207.12485)<br>:star:[code](https://github.com/CRISTAL-3DSAM/HumanComparisonVarifolds)
   * 3D形状匹配
