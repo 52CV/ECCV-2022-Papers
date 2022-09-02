@@ -1,6 +1,6 @@
 ## 9月2日更新 1 篇
 * 时序动作分割
-  * [Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation]()
+  * [Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation](https://arxiv.org/abs/2209.00638)
 
 ## 9月1日更新 3 篇
 * 点云
