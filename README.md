@@ -32,16 +32,9 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 9月2日更新 1 篇
-* 时序动作分割
-  * [Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation](https://arxiv.org/abs/2209.00638)
-## 9月1日更新 3 篇
-* 点云
-  * [Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation](https://arxiv.org/abs/2208.14893)<br>:star:[code](https://github.com/514DNA/LLT)
-* 强化学习
-  * [Style-Agnostic Reinforcement Learning](https://arxiv.org/abs/2208.14863)<br>:star:[code](https://github.com/POSTECH-CVLab/style-agnostic-RL)
-* 3D
-  * [SimpleRecon: 3D Reconstruction Without 3D Convolutions](https://arxiv.org/abs/2208.14743)<br>:star:[code](https://nianticlabs.github.io/simplerecon/)
+## 9月5日更新 1 篇
+* GAN
+  * [Exploring Gradient-based Multi-directional Controls in GANs](https://arxiv.org/abs/2209.00698)<br>:star:[code](https://github.com/zikuncshelly/GradCtrl)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -443,6 +436,7 @@
 * [FurryGAN: High Quality Foreground-aware Image Synthesis](https://arxiv.org/abs/2208.10422)<br>:house:[project](https://jeongminb.github.io/FurryGAN/)
 * [Improving GANs for Long-Tailed Data through Group Spectral Regularization](https://arxiv.org/abs/2208.09932)<br>:star:[code](https://drive.google.com/file/d/1aG48i04Q8mOmD968PAgwEvPsw1zcS4Gk/view):house:[project](https://sites.google.com/view/gsr-eccv22)
 * [3D-FM GAN: Towards 3D-Controllable Face Manipulation](https://arxiv.org/abs/2208.11257)<br>:house:[project](https://lychenyoko.github.io/3D-FM-GAN-Webpage/)
+* [Exploring Gradient-based Multi-directional Controls in GANs](https://arxiv.org/abs/2209.00698)<br>:star:[code](https://github.com/zikuncshelly/GradCtrl)
 * 线稿上色
   * [Eliminating Gradient Conflict in Reference-based Line-Art Colorization](https://arxiv.org/abs/2207.06095)<br>:star:[code](https://github.com/kunkun0w0/SGA)
 * 图像生成
