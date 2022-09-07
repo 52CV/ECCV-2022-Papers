@@ -1,3 +1,9 @@
+
+## 9月5日更新 1 篇
+* GAN
+  * [Exploring Gradient-based Multi-directional Controls in GANs](https://arxiv.org/abs/2209.00698)<br>:star:[code](https://github.com/zikuncshelly/GradCtrl)
+### —————————————————————————————————————————————
+
 ## 9月2日更新 1 篇
 * 时序动作分割
   * [Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation](https://arxiv.org/abs/2209.00638)
