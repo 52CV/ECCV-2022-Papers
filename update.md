@@ -1,4 +1,16 @@
 
+
+## 9月7日更新 5篇
+* 图像-图像翻译
+  * [Unpaired Image Translation via Vector Symbolic Architectures](https://arxiv.org/abs/2209.02686)<br>:open_mouth:oral:star:[code](https://github.com/facebookresearch/vsait)
+* BNN
+  * [Recurrent Bilinear Optimization for Binary Neural Networks](https://arxiv.org/abs/2209.01542)<br>:open_mouth:oral:star:[code](https://github.com/SteveTsui/RBONN)
+  * [Towards Accurate Binary Neural Networks via Modeling Contextual Dependencies](https://arxiv.org/abs/2209.01404)<br>:star:[code](https://github.com/Sense-GVT/BCDNet)
+* 元学习
+  * [Meta-Learning with Less Forgetting on Large-Scale Non-Stationary Task Distributions](https://arxiv.org/abs/2209.01501)
+* 动作识别
+  * [Dynamic Spatio-Temporal Specialization Learning for Fine-Grained Action Recognition](https://arxiv.org/abs/2209.01425)
+
 ## 9月5日更新 1 篇
 * GAN
   * [Exploring Gradient-based Multi-directional Controls in GANs](https://arxiv.org/abs/2209.00698)<br>:star:[code](https://github.com/zikuncshelly/GradCtrl)
