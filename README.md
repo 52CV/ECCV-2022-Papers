@@ -32,16 +32,11 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 9月7日更新 5篇
-* 图像-图像翻译
-  * [Unpaired Image Translation via Vector Symbolic Architectures](https://arxiv.org/abs/2209.02686)<br>:open_mouth:oral:star:[code](https://github.com/facebookresearch/vsait)
-* BNN
-  * [Recurrent Bilinear Optimization for Binary Neural Networks](https://arxiv.org/abs/2209.01542)<br>:open_mouth:oral:star:[code](https://github.com/SteveTsui/RBONN)
-  * [Towards Accurate Binary Neural Networks via Modeling Contextual Dependencies](https://arxiv.org/abs/2209.01404)<br>:star:[code](https://github.com/Sense-GVT/BCDNet)
-* 元学习
-  * [Meta-Learning with Less Forgetting on Large-Scale Non-Stationary Task Distributions](https://arxiv.org/abs/2209.01501)
-* 动作识别
-  * [Dynamic Spatio-Temporal Specialization Learning for Fine-Grained Action Recognition](https://arxiv.org/abs/2209.01425)
+## 9月8日更新 2篇
+* GAN
+  * [Studying Bias in GANs through the Lens of Race](https://arxiv.org/abs/2209.02836)
+* 剪枝
+  * [Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps](https://arxiv.org/abs/2209.02869)<br>:star:[code](https://github.com/Alii-Ganjj/InterpretationsSteeredPruning)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -240,6 +235,7 @@
 * 剪枝
   * [FairGRAPE: Fairness-aware GRAdient Pruning mEthod for Face Attribute Classification](https://arxiv.org/abs/2207.10888)<br>:star:[code](https://github.com/Bernardo1998/FairGRAPE)
   * [Trainability Preserving Neural Structured Pruning](https://arxiv.org/abs/2207.12534)<br>:star:[code](https://github.com/mingsun-tse/TPP)
+  * [Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps](https://arxiv.org/abs/2209.02869)<br>:star:[code](https://github.com/Alii-Ganjj/InterpretationsSteeredPruning)
 
 ## Point Cloud(点云)
 * [Few 'Zero Level Set'-Shot Learning of Shape Signed Distance Functions in Feature Space](https://arxiv.org/abs/2207.04161)
@@ -449,6 +445,7 @@
 * [Improving GANs for Long-Tailed Data through Group Spectral Regularization](https://arxiv.org/abs/2208.09932)<br>:star:[code](https://drive.google.com/file/d/1aG48i04Q8mOmD968PAgwEvPsw1zcS4Gk/view):house:[project](https://sites.google.com/view/gsr-eccv22)
 * [3D-FM GAN: Towards 3D-Controllable Face Manipulation](https://arxiv.org/abs/2208.11257)<br>:house:[project](https://lychenyoko.github.io/3D-FM-GAN-Webpage/)
 * [Exploring Gradient-based Multi-directional Controls in GANs](https://arxiv.org/abs/2209.00698)<br>:star:[code](https://github.com/zikuncshelly/GradCtrl)
+* [Studying Bias in GANs through the Lens of Race](https://arxiv.org/abs/2209.02836)
 * 线稿上色
   * [Eliminating Gradient Conflict in Reference-based Line-Art Colorization](https://arxiv.org/abs/2207.06095)<br>:star:[code](https://github.com/kunkun0w0/SGA)
 * 图像生成
