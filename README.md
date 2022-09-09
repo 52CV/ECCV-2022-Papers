@@ -32,11 +32,13 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 9月8日更新 2篇
-* GAN
-  * [Studying Bias in GANs through the Lens of Race](https://arxiv.org/abs/2209.02836)
-* 剪枝
-  * [Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps](https://arxiv.org/abs/2209.02869)<br>:star:[code](https://github.com/Alii-Ganjj/InterpretationsSteeredPruning)
+## 9月9日更新 3篇
+* 点云
+  * [Learning to Generate Realistic LiDAR Point Clouds](https://arxiv.org/abs/2209.03954)<br>:house:[project](https://www.zyrianov.org/lidargen/)
+* OCR
+  * [Levenshtein OCR](https://arxiv.org/abs/2209.03594)
+  * [Multi-Granularity Prediction for Scene Text Recognition](https://arxiv.org/abs/2209.03592)
+
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -241,6 +243,7 @@
 * [Few 'Zero Level Set'-Shot Learning of Shape Signed Distance Functions in Feature Space](https://arxiv.org/abs/2207.04161)
 * [Dynamic 3D Scene Analysis by Point Cloud Accumulation](https://arxiv.org/abs/2207.12394)<br>:star:[code](https://github.com/prs-eth/PCAccumulation):house:[project](https://shengyuh.github.io/eccv22/index.html)
 * [PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees](https://arxiv.org/abs/2208.05962)<br>:star:[code](https://github.com/immortalCO/PointTree)
+* [Learning to Generate Realistic LiDAR Point Clouds](https://arxiv.org/abs/2209.03954)<br>:house:[project](https://www.zyrianov.org/lidargen/)
 * 点云定位
   * [CPO: Change Robust Panorama to Point Cloud Localization](https://arxiv.org/abs/2207.05317)
 * 点云分割
@@ -355,6 +358,7 @@
 <a name="22"/>
 
 ## 22.OCR
+* [Levenshtein OCR](https://arxiv.org/abs/2209.03594)
 * 文本识别
   * [Text-DIAE: Degradation Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/abs/2203.04814)
 * 手写数学表达式识别
@@ -368,9 +372,10 @@
   * [Contextual Text Block Detection towards Scene Text Understanding](https://arxiv.org/abs/2207.12955)<br>:house:[project](https://sg-vilab.github.io/publication/xue2022contextual/)  
   * [Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://arxiv.org/abs/2208.00438)<br>:open_mouth:oral:star:[code](https://github.com/xdxie/WordArt)
   * [GLASS: Global to Local Attention for Scene-Text Spotting](https://arxiv.org/abs/2208.03364)<br>:star:[code](https://github.com/amazon-research/glass-text-spotting)
+  * [Multi-Granularity Prediction for Scene Text Recognition](https://arxiv.org/abs/2209.03592)
 * 视频文本检测
   * [Real-time End-to-End Video Text Spotter with Contrastive Representation Learning](https://arxiv.org/abs/2207.08417)<br>:star:[code](https://github.com/weijiawu/CoText)
-  
+
 <a name="21"/>
 
 ## 21.Semi/self-supervised learning(半/自监督)
