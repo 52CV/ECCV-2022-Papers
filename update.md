@@ -1,4 +1,20 @@
 
+### —————————————————————————————————————————————
+
+## 9月9日更新 3篇
+* 点云
+  * [Learning to Generate Realistic LiDAR Point Clouds](https://arxiv.org/abs/2209.03954)<br>:house:[project](https://www.zyrianov.org/lidargen/)
+* OCR
+  * [Levenshtein OCR](https://arxiv.org/abs/2209.03594)
+  * [Multi-Granularity Prediction for Scene Text Recognition](https://arxiv.org/abs/2209.03592)
+
+
+## 9月8日更新 2篇
+* GAN
+  * [Studying Bias in GANs through the Lens of Race](https://arxiv.org/abs/2209.02836)
+* 剪枝
+  * [Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps](https://arxiv.org/abs/2209.02869)<br>:star:[code](https://github.com/Alii-Ganjj/InterpretationsSteeredPruning)
+
 
 ## 9月7日更新 5篇
 * 图像-图像翻译
