@@ -32,21 +32,9 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 9月14日更新 7 篇
-* 文本-图像合成
-  * [StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation](https://arxiv.org/abs/2209.06192)<br>:star:[code](https://github.com/adymaharana/storydalle)
-* 图像合成
-  * [Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation](https://arxiv.org/abs/2209.05968)
-* 病变检测
-  * [Check and Link: Pairwise Lesion Correspondence Guides Mammogram Mass Detection](https://arxiv.org/abs/2209.05809)
-* 医学图像分割
-  * [PointScatter: Point Set Representation for Tubular Structure Extraction](https://arxiv.org/abs/2209.05774)<br>:open_mouth:oral:star:[code](https://github.com/zhangzhao2022/pointscatter)
-* 6D
-  * [Robust Category-Level 6D Pose Estimation with Coarse-to-Fine Rendering of Neural Features](https://arxiv.org/abs/2209.05624)
-* 3D
-  * [CenterFormer: Center-based Transformer for 3D Object Detection](https://arxiv.org/abs/2209.05588)<br>:open_mouth:oral:star:[code](https://github.com/TuSimple/centerformer)
-* 对抗
-  * [Adversarial Coreset Selection for Efficient Robust Training](https://arxiv.org/abs/2209.05785)
+## 9月15日更新 1 篇
+* 深度估计
+  * [DevNet: Self-supervised Monocular Depth Learning via Density Volume Construction](https://arxiv.org/abs/2209.06351)<br>:star:[code](https://github.com/gitkaichenzhou/DevNet)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -698,6 +686,7 @@
   * [PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation](https://arxiv.org/abs/2207.13340)
   * [Depth Field Networks for Generalizable Multi-view Scene Representation](https://arxiv.org/abs/2207.14287)<br>:house:[project](https://sites.google.com/view/tri-define)
   * [Gradient-based Uncertainty for Monocular Depth Estimation](https://arxiv.org/abs/2208.02005)<br>:star:[code](https://github.com/jhornauer/GrUMoDepth)
+  * [DevNet: Self-supervised Monocular Depth Learning via Density Volume Construction](https://arxiv.org/abs/2209.06351)<br>:star:[code](https://github.com/gitkaichenzhou/DevNet)
 * 三维视觉
   * [A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision](https://arxiv.org/abs/2207.04997)
   * [Neural Density-Distance Fields](https://arxiv.org/abs/2207.14455)<br>:star:[code](https://github.com/ueda0319/neddf)
