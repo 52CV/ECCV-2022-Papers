@@ -1,4 +1,29 @@
 
+## 9月14日更新 7 篇
+* 文本-图像合成
+  * [StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation](https://arxiv.org/abs/2209.06192)<br>:star:[code](https://github.com/adymaharana/storydalle)
+* 图像合成
+  * [Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation](https://arxiv.org/abs/2209.05968)
+* 病变检测
+  * [Check and Link: Pairwise Lesion Correspondence Guides Mammogram Mass Detection](https://arxiv.org/abs/2209.05809)
+* 医学图像分割
+  * [PointScatter: Point Set Representation for Tubular Structure Extraction](https://arxiv.org/abs/2209.05774)<br>:open_mouth:oral:star:[code](https://github.com/zhangzhao2022/pointscatter)
+* 6D
+  * [Robust Category-Level 6D Pose Estimation with Coarse-to-Fine Rendering of Neural Features](https://arxiv.org/abs/2209.05624)
+* 3D
+  * [CenterFormer: Center-based Transformer for 3D Object Detection](https://arxiv.org/abs/2209.05588)<br>:open_mouth:oral:star:[code](https://github.com/TuSimple/centerformer)
+* 对抗
+  * [Adversarial Coreset Selection for Efficient Robust Training](https://arxiv.org/abs/2209.05785)
+
+
+## 9月13日更新 3 篇
+* 知识蒸馏
+  * [Switchable Online Knowledge Distillation](https://arxiv.org/abs/2209.04996)<br>:star:[code](https://github.com/hfutqian/SwitOKD)
+* 人体网格恢复
+  * [Self-supervised Human Mesh Recovery with Cross-Representation Alignment](https://arxiv.org/abs/2209.04596)
+* 图像合成
+  * [Improved Masked Image Generation with Token-Critic](https://arxiv.org/abs/2209.04439)
+
 ### —————————————————————————————————————————————
 
 ## 9月9日更新 3篇
