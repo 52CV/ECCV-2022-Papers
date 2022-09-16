@@ -1,3 +1,10 @@
+## 9月16日更新 1 篇
+* 深度估计
+  * [Self-distilled Feature Aggregation for Self-supervised Monocular Depth Estimation](https://arxiv.org/abs/2209.07088)<br>:star:[code](https://github.com/ZM-Zhou/SDFA-Net_pytorch)
+
+## 9月15日更新 1 篇
+* 深度估计
+  * [DevNet: Self-supervised Monocular Depth Learning via Density Volume Construction](https://arxiv.org/abs/2209.06351)<br>:star:[code](https://github.com/gitkaichenzhou/DevNet)
 
 ## 9月14日更新 7 篇
 * 文本-图像合成
