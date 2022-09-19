@@ -32,10 +32,11 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 9月16日更新 1 篇
-* 深度估计
-  * [Self-distilled Feature Aggregation for Self-supervised Monocular Depth Estimation](https://arxiv.org/abs/2209.07088)<br>:star:[code](https://github.com/ZM-Zhou/SDFA-Net_pytorch)
-
+## 9月19日更新  篇
+* 目标检测
+  * [A Large-scale Multiple-objective Method for Black-box Attack against Object Detection](https://arxiv.org/abs/2209.07790)<br>:star:[code](https://github.com/LiangSiyuan21/GARSDC)
+* 其它
+  * [A Deep Moving-camera Background Model](https://arxiv.org/abs/2209.07923)<br>:star:[code](https://github.com/BGU-CS-VIL/DeepMCBM)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -748,6 +749,7 @@
 * [UC-OWOD: Unknown-Classified Open World Object Detection](https://arxiv.org/abs/2207.11455)<br>:star:[code](https://github.com/JohnWuzh/UC-OWOD)
 * [Exploring Resolution and Degradation Clues as Self-supervised Signal for Low Quality Object](https://arxiv.org/abs/2208.03062)<br>:star:[code](https://github.com/cuiziteng/ECCV_AERIS)
 * [Unifying Visual Perception by Dispersible Points Learning](https://arxiv.org/abs/2208.08630)<br>:star:[code](https://github.com/Sense-X/UniHead)
+* [A Large-scale Multiple-objective Method for Black-box Attack against Object Detection](https://arxiv.org/abs/2209.07790)<br>:star:[code](https://github.com/LiangSiyuan21/GARSDC)
 * 3D目标检测
   * [DID-M3D: Decoupling Instance Depth for Monocular 3D Object Detection](https://arxiv.org/abs/2207.08531)<br>:star:[code](https://github.com/SPengLiang/DID-M3D)
   * [Rethinking IoU-based Optimization for Single-stage 3D Object Detection](https://arxiv.org/abs/2207.09332)<br>:star:[code](https://github.com/hlsheng1/RDIoU)
@@ -929,6 +931,7 @@
 * [L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training](https://arxiv.org/abs/2208.08711)
 * [GCISG: Guided Causal Invariant Learning for Improved Syn-to-real Generalization](https://arxiv.org/abs/2208.10024)
 * [Learning Continuous Implicit Representation for Near-Periodic Patterns](https://arxiv.org/abs/2208.12278)<br>:star:[code](https://github.com/ArmastusChen/Learning-Continuous-Implicit-Representation-for-Near-Periodic-Patterns):house:[project](https://armastuschen.github.io/projects/NPP_Net/)
+* [A Deep Moving-camera Background Model](https://arxiv.org/abs/2209.07923)<br>:star:[code](https://github.com/BGU-CS-VIL/DeepMCBM)
 
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
