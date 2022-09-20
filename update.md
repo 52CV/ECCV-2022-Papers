@@ -1,3 +1,11 @@
+## 9月19日更新 2 篇
+* 目标检测
+  * [A Large-scale Multiple-objective Method for Black-box Attack against Object Detection](https://arxiv.org/abs/2209.07790)<br>:star:[code](https://github.com/LiangSiyuan21/GARSDC)
+* 其它
+  * [A Deep Moving-camera Background Model](https://arxiv.org/abs/2209.07923)<br>:star:[code](https://github.com/BGU-CS-VIL/DeepMCBM)
+
+### —————————————————————————————————————————————
+
 ## 9月16日更新 1 篇
 * 深度估计
   * [Self-distilled Feature Aggregation for Self-supervised Monocular Depth Estimation](https://arxiv.org/abs/2209.07088)<br>:star:[code](https://github.com/ZM-Zhou/SDFA-Net_pytorch)
