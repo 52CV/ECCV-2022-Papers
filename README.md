@@ -32,27 +32,9 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 9月20日更新 10 篇
-* 动作检测
-  * [Real-time Online Video Detection with Temporal Smoothing Transformers](https://arxiv.org/abs/2209.09236)<br>:star:[code](https://github.com/zhaoyue-zephyrus/TeSTra/)
-* 深度估计
-  * [3D-PL: Domain Adaptive Depth Estimation with 3D-aware Pseudo-Labeling](https://arxiv.org/abs/2209.09231)<br>:star:[code](https://github.com/ccc870206/3D-PL)
-* 视频理解
-  * [Panoramic Vision Transformer for Saliency Detection in 360° Videos](https://arxiv.org/abs/2209.08956)<br>:star:[code](https://github.com/hs-yn/PAVER)
-* 跟踪
-  * [HVC-Net: Unifying Homography, Visibility, and Confidence Learning for Planar Object Tracking](https://arxiv.org/abs/2209.08924)
-* 姿态估计
-  * [D&D: Learning Human Dynamics from Dynamic Camera](https://arxiv.org/abs/2209.08790)<br>:open_mouth:oral:star:[code](https://github.com/Jeff-sjtu/DnD)
-  * [PPT: token-Pruned Pose Transformer for monocular and multi-view human pose estimation](https://arxiv.org/abs/2209.08194)<br>:star:[code](https://github.com/HowieMa/PPT)
-* 半监督
-  * [RVSL: Robust Vehicle Similarity Learning in Real Hazy Scenes Based on Semi-supervised Learning](https://arxiv.org/abs/2209.08630)<br>:star:[code](https://github.com/Cihsaing/rvsl-robust-vehicle-similarity-learning--ECCV22)
-* 渲染
-  * [ActiveNeRF: Learning where to See with Uncertainty Estimation](https://arxiv.org/abs/2209.08546)<br>:star:[code](https://github.com/LeapLabTHU/ActiveNeRF)
-* 元学习
-  * [Learning to Weight Samples for Dynamic Early-exiting Networks](https://arxiv.org/abs/2209.08310)<br>:star:[code](https://github.com/LeapLabTHU/L2W-DEN)
-* 分类
-  * [Few-Shot Classification with Contrastive Learning](https://arxiv.org/abs/2209.08224)
-
+## 9月22日更新 1 篇
+* SR
+  * [KXNet: A Model-Driven Deep Neural Network for Blind Super-Resolution](https://arxiv.org/abs/2209.10305)<br>:star:[code](https://github.com/jiahong-fu/KXNet)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -333,6 +315,7 @@
   * [Image Super-Resolution with Deep Dictionary](https://arxiv.org/abs/2207.09228)<br>:star:[code](https://github.com/shuntama/srdd)
   * [CADyQ: Content-Aware Dynamic Quantization for Image Super-Resolution](https://arxiv.org/abs/2207.10345)<br>:star:[code](https://github.com/Cheeun/CADyQ)
   * [Reference-based Image Super-Resolution with Deformable Attention Transformer](https://arxiv.org/abs/2207.11938)<br>:star:[code](https://github.com/caojiezhang/DATSR) 
+  * [KXNet: A Model-Driven Deep Neural Network for Blind Super-Resolution](https://arxiv.org/abs/2209.10305)<br>:star:[code](https://github.com/jiahong-fu/KXNet)
 * 视频超分辨率
   * [Towards Interpretable Video Super-Resolution via Alternating Optimization](https://arxiv.org/abs/2207.10765)<br>:star:[code](https://github.com/caojiezhang/DAVSR)
   * [Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution](https://arxiv.org/abs/2208.03012)<br>:star:[code](https://github.com/researchmm/FTVSR)
