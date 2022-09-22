@@ -1,3 +1,26 @@
+
+## 9月20日更新 10 篇
+* 动作检测
+  * [Real-time Online Video Detection with Temporal Smoothing Transformers](https://arxiv.org/abs/2209.09236)<br>:star:[code](https://github.com/zhaoyue-zephyrus/TeSTra/)
+* 深度估计
+  * [3D-PL: Domain Adaptive Depth Estimation with 3D-aware Pseudo-Labeling](https://arxiv.org/abs/2209.09231)<br>:star:[code](https://github.com/ccc870206/3D-PL)
+* 视频理解
+  * [Panoramic Vision Transformer for Saliency Detection in 360° Videos](https://arxiv.org/abs/2209.08956)<br>:star:[code](https://github.com/hs-yn/PAVER)
+* 跟踪
+  * [HVC-Net: Unifying Homography, Visibility, and Confidence Learning for Planar Object Tracking](https://arxiv.org/abs/2209.08924)
+* 姿态估计
+  * [D&D: Learning Human Dynamics from Dynamic Camera](https://arxiv.org/abs/2209.08790)<br>:open_mouth:oral:star:[code](https://github.com/Jeff-sjtu/DnD)
+  * [PPT: token-Pruned Pose Transformer for monocular and multi-view human pose estimation](https://arxiv.org/abs/2209.08194)<br>:star:[code](https://github.com/HowieMa/PPT)
+* 半监督
+  * [RVSL: Robust Vehicle Similarity Learning in Real Hazy Scenes Based on Semi-supervised Learning](https://arxiv.org/abs/2209.08630)<br>:star:[code](https://github.com/Cihsaing/rvsl-robust-vehicle-similarity-learning--ECCV22)
+* 渲染
+  * [ActiveNeRF: Learning where to See with Uncertainty Estimation](https://arxiv.org/abs/2209.08546)<br>:star:[code](https://github.com/LeapLabTHU/ActiveNeRF)
+* 元学习
+  * [Learning to Weight Samples for Dynamic Early-exiting Networks](https://arxiv.org/abs/2209.08310)<br>:star:[code](https://github.com/LeapLabTHU/L2W-DEN)
+* 分类
+  * [Few-Shot Classification with Contrastive Learning](https://arxiv.org/abs/2209.08224)
+
+
 ## 9月19日更新 2 篇
 * 目标检测
   * [A Large-scale Multiple-objective Method for Black-box Attack against Object Detection](https://arxiv.org/abs/2209.07790)<br>:star:[code](https://github.com/LiangSiyuan21/GARSDC)
