@@ -1,3 +1,19 @@
+## 9月23日更新 5 篇
+* 目标检测
+  * [AcroFOD: An Adaptive Method for Cross-domain Few-shot Object Detection](https://arxiv.org/abs/2209.10904)<br>:star:[code](https://github.com/Hlings/AcroFOD)
+* 手部网格估计
+  * [Identity-Aware Hand Mesh Estimation and Personalization from RGB Images](https://arxiv.org/abs/2209.10840)<br>:star:[code](https://github.com/deyingk/PersonalizedHandMeshEstimation)
+* GAN
+  * [IntereStyle: Encoding an Interest Region for Robust StyleGAN Inversion](https://arxiv.org/abs/2209.10811)
+* 运动估计
+  * [PREF: Predictability Regularized Neural Motion Fields](https://arxiv.org/abs/2209.10691)<br>:open_mouth:oral
+* 其它
+  * [NashAE: Disentangling Representations through Adversarial Covariance Minimization](https://arxiv.org/abs/2209.10677)<br>:star:[code](https://github.com/ericyeats/nashae-beamsynthesis)
+
+
+## 9月22日更新 1 篇
+* SR
+  * [KXNet: A Model-Driven Deep Neural Network for Blind Super-Resolution](https://arxiv.org/abs/2209.10305)<br>:star:[code](https://github.com/jiahong-fu/KXNet)
 
 ## 9月20日更新 10 篇
 * 动作检测
