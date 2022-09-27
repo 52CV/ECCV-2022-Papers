@@ -1,3 +1,9 @@
+## 9月26日更新 1 篇
+* 其它
+  * [FusionVAE: A Deep Hierarchical Variational Autoencoder for RGB Image Fusion](https://arxiv.org/abs/2209.11277)
+
+### —————————————————————————————————————————————
+
 ## 9月23日更新 5 篇
 * 目标检测
   * [AcroFOD: An Adaptive Method for Cross-domain Few-shot Object Detection](https://arxiv.org/abs/2209.10904)<br>:star:[code](https://github.com/Hlings/AcroFOD)
