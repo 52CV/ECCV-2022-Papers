@@ -32,11 +32,16 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 9月27日更新 2 篇
-* SR
-  * [Real-RawVSR: Real-World Raw Video Super-Resolution with a Benchmark Dataset](https://arxiv.org/abs/2209.12475)<br>:star:[code](https://github.com/zmzhang1998/Real-RawVSR)
-* 图像匹配
-  * [ECO-TR: Efficient Correspondences Finding Via Coarse-to-Fine Refinement](https://arxiv.org/abs/2209.12213)<br>:star:[code](https://github.com/dltan7/ECO-TR):house:[project](https://dltan7.github.io/ecotr/)
+## 9月28日更新 5 篇
+* 人脸交换
+  * [StyleSwap: Style-Based Generator Empowers Robust Face Swapping](https://arxiv.org/abs/2209.13514)<br>:star:[code](https://github.com/Seanseattle/StyleSwap):house:[project](https://hangz-nju-cuhk.github.io/projects/StyleSwap)
+* 视频识别
+  * [AdaFocusV3: On Unified Spatial-temporal Dynamic Video Recognition](https://arxiv.org/abs/2209.13465)
+* 深度估计
+  * [DELTAR: Depth Estimation from a Light-weight ToF Sensor and RGB Image](https://arxiv.org/abs/2209.13362)<br>:star:[code](https://github.com/zju3dv/deltar):house:[project](https://zju3dv.github.io/deltar/)
+
+* 其它
+  * [Diversified Dynamic Routing for Vision Tasks](https://arxiv.org/abs/2209.13071)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -72,7 +77,8 @@
   * [Towards Accurate Binary Neural Networks via Modeling Contextual Dependencies](https://arxiv.org/abs/2209.01404)<br>:star:[code](https://github.com/Sense-GVT/BCDNet)
 * 图像匹配
   * [ECO-TR: Efficient Correspondences Finding Via Coarse-to-Fine Refinement](https://arxiv.org/abs/2209.12213)<br>:star:[code](https://github.com/dltan7/ECO-TR):house:[project](https://dltan7.github.io/ecotr/)
-
+* 图像取证
+  * [Totems: Physical Objects for Verifying Visual Integrity](https://arxiv.org/abs/2209.13032)<br>:house:[project](https://jingweim.github.io/totems/)
 ## 光学、几何、光场成像
 * 相机姿势
   * [Camera Pose Auto-Encoders for Improving Pose Regression](https://arxiv.org/abs/2207.05530)<br>:star:[code](https://github.com/yolish/camera-pose-auto-encoders)
@@ -427,6 +433,8 @@
   * [Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://arxiv.org/abs/2207.11770)<br>:star:[code](https://github.com/sstzal/DFRF):house:[project](https://sstzal.github.io/DFRF/)
 * 人脸姿势估计
   * [Towards Unbiased Label Distribution Learning for Facial Pose Estimation Using Anisotropic Spherical Gaussian](https://arxiv.org/abs/2208.09122)
+* 人脸交换
+  * [StyleSwap: Style-Based Generator Empowers Robust Face Swapping](https://arxiv.org/abs/2209.13514)<br>:star:[code](https://github.com/Seanseattle/StyleSwap):house:[project](https://hangz-nju-cuhk.github.io/projects/StyleSwap)
 
 <a name="19"/>
 
@@ -599,6 +607,7 @@
   * [Temporal Saliency Query Network for Efficient Video Recognition](https://arxiv.org/abs/2207.10379)<br>:house:[project](https://lawrencexia2008.github.io/projects/tsqnet)
   * [NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition](https://arxiv.org/abs/2207.10388)<br>:house:[project](https://lawrencexia2008.github.io/projects/nsnet)
   * [Expanding Language-Image Pretrained Models for General Video Recognition](https://arxiv.org/abs/2208.02816)<br>:open_mouth:oral:star:[code](https://github.com/microsoft/VideoX/tree/master/X-CLIP)
+  * [AdaFocusV3: On Unified Spatial-temporal Dynamic Video Recognition](https://arxiv.org/abs/2209.13465)
 * 视频理解
   * [Spotting Temporally Precise, Fine-Grained Events in Video](https://arxiv.org/abs/2207.10213)<br>:star:[code](https://github.com/jhong93/spot):house:[project](https://jhong93.github.io/projects/spot.html)
   * [Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding](https://arxiv.org/abs/2208.00281)
@@ -684,6 +693,7 @@
 * 手部网格估计
   * [Identity-Aware Hand Mesh Estimation and Personalization from RGB Images](https://arxiv.org/abs/2209.10840)<br>:star:[code](https://github.com/deyingk/PersonalizedHandMeshEstimation)
 
+
 <a name="8"/>
 
 ## 8.3D(三维视觉)
@@ -708,6 +718,7 @@
   * [DevNet: Self-supervised Monocular Depth Learning via Density Volume Construction](https://arxiv.org/abs/2209.06351)<br>:star:[code](https://github.com/gitkaichenzhou/DevNet)
   * [Self-distilled Feature Aggregation for Self-supervised Monocular Depth Estimation](https://arxiv.org/abs/2209.07088)<br>:star:[code](https://github.com/ZM-Zhou/SDFA-Net_pytorch)
   * [3D-PL: Domain Adaptive Depth Estimation with 3D-aware Pseudo-Labeling](https://arxiv.org/abs/2209.09231)<br>:star:[code](https://github.com/ccc870206/3D-PL)
+  * [DELTAR: Depth Estimation from a Light-weight ToF Sensor and RGB Image](https://arxiv.org/abs/2209.13362)<br>:star:[code](https://github.com/zju3dv/deltar):house:[project](https://zju3dv.github.io/deltar/)
 * 三维视觉
   * [A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision](https://arxiv.org/abs/2207.04997)
   * [Neural Density-Distance Fields](https://arxiv.org/abs/2207.14455)<br>:star:[code](https://github.com/ueda0319/neddf)
@@ -954,7 +965,8 @@
 * [A Deep Moving-camera Background Model](https://arxiv.org/abs/2209.07923)<br>:star:[code](https://github.com/BGU-CS-VIL/DeepMCBM)
 * [NashAE: Disentangling Representations through Adversarial Covariance Minimization](https://arxiv.org/abs/2209.10677)<br>:star:[code](https://github.com/ericyeats/nashae-beamsynthesis)
 * [FusionVAE: A Deep Hierarchical Variational Autoencoder for RGB Image Fusion](https://arxiv.org/abs/2209.11277)
+* [Diversified Dynamic Routing for Vision Tasks](https://arxiv.org/abs/2209.13071)
 
-
+  
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
