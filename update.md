@@ -1,3 +1,14 @@
+## 9月28日更新 5 篇
+* 人脸交换
+  * [StyleSwap: Style-Based Generator Empowers Robust Face Swapping](https://arxiv.org/abs/2209.13514)<br>:star:[code](https://github.com/Seanseattle/StyleSwap):house:[project](https://hangz-nju-cuhk.github.io/projects/StyleSwap)
+* 视频识别
+  * [AdaFocusV3: On Unified Spatial-temporal Dynamic Video Recognition](https://arxiv.org/abs/2209.13465)
+* 深度估计
+  * [DELTAR: Depth Estimation from a Light-weight ToF Sensor and RGB Image](https://arxiv.org/abs/2209.13362)<br>:star:[code](https://github.com/zju3dv/deltar):house:[project](https://zju3dv.github.io/deltar/)
+* 图像取证
+  * [Totems: Physical Objects for Verifying Visual Integrity](https://arxiv.org/abs/2209.13032)<br>:house:[project](https://jingweim.github.io/totems/)
+* 其它
+  * [Diversified Dynamic Routing for Vision Tasks](https://arxiv.org/abs/2209.13071)
 ## 9月27日更新 2 篇
 * SR
   * [Real-RawVSR: Real-World Raw Video Super-Resolution with a Benchmark Dataset](https://arxiv.org/abs/2209.12475)<br>:star:[code](https://github.com/zmzhang1998/Real-RawVSR)
