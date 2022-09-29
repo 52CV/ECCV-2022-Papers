@@ -32,16 +32,13 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 9月28日更新 5 篇
-* 人脸交换
-  * [StyleSwap: Style-Based Generator Empowers Robust Face Swapping](https://arxiv.org/abs/2209.13514)<br>:star:[code](https://github.com/Seanseattle/StyleSwap):house:[project](https://hangz-nju-cuhk.github.io/projects/StyleSwap)
-* 视频识别
-  * [AdaFocusV3: On Unified Spatial-temporal Dynamic Video Recognition](https://arxiv.org/abs/2209.13465)
-* 深度估计
-  * [DELTAR: Depth Estimation from a Light-weight ToF Sensor and RGB Image](https://arxiv.org/abs/2209.13362)<br>:star:[code](https://github.com/zju3dv/deltar):house:[project](https://zju3dv.github.io/deltar/)
-
-* 其它
-  * [Diversified Dynamic Routing for Vision Tasks](https://arxiv.org/abs/2209.13071)
+## 9月29日更新 3 篇
+* 检索
+  * [SEMICON: A Learning-to-hash Solution for Large-scale Fine-grained Image Retrieval](https://arxiv.org/abs/2209.13833)<br>:star:[code](https://github.com/NJUST-VIPGroup/SEMICON)
+* NAS
+  * [Towards Regression-Free Neural Networks for Diverse Compute Platforms](https://arxiv.org/abs/2209.13740)
+* 元学习
+  * [Rethinking Clustering-Based Pseudo-Labeling for Unsupervised Meta-Learning](https://arxiv.org/abs/2209.13635)<br>:star:[code](https://github.com/xingpingdong/PL-CFE)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -238,6 +235,8 @@
 * [Bitwidth-Adaptive Quantization-Aware Neural Network Training: A Meta-Learning Approach](https://arxiv.org/abs/2207.10188)
 * [Meta-Learning with Less Forgetting on Large-Scale Non-Stationary Task Distributions](https://arxiv.org/abs/2209.01501)  
 * [Learning to Weight Samples for Dynamic Early-exiting Networks](https://arxiv.org/abs/2209.08310)<br>:star:[code](https://github.com/LeapLabTHU/L2W-DEN)  
+* [Rethinking Clustering-Based Pseudo-Labeling for Unsupervised Meta-Learning](https://arxiv.org/abs/2209.13635)<br>:star:[code](https://github.com/xingpingdong/PL-CFE)
+
 
 ## Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)
 * 知识蒸馏
@@ -299,6 +298,7 @@
 * [UniNet: Unified Architecture Search with Convolution, Transformer, and MLP](https://arxiv.org/abs/2207.05420)<br>:star:[code](https://github.com/Sense-X/UniNet)
 * [ScaleNet: Searching for the Model to Scale](https://arxiv.org/abs/2207.07267)<br>:star:[code](https://github.com/luminolx/ScaleNet)
 * [CLOSE: Curriculum Learning On the Sharing Extent Towards Better One-shot NAS](https://arxiv.org/abs/2207.07868)<br>:star:[code](https://github.com/walkerning/aw_nas)
+* [Towards Regression-Free Neural Networks for Diverse Compute Platforms](https://arxiv.org/abs/2209.13740)
 
 ## Image Classification(图像分类)
 * [Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset](https://arxiv.org/abs/2207.10664)<br>:star:[code](https://github.com/visipedia/ssw60)
@@ -838,7 +838,10 @@
   * [TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval](https://arxiv.org/abs/2207.07852)<br>:star:[code](https://github.com/yuqi657/ts2_net)
 * 图像-文本检索
   * [CODER: Coupled Diversity-Sensitive Momentum Contrastive Learning for Image-Text Retrieval](https://arxiv.org/abs/2208.09843)
-  
+* 细粒度图像检索
+  * [SEMICON: A Learning-to-hash Solution for Large-scale Fine-grained Image Retrieval](https://arxiv.org/abs/2209.13833)<br>:star:[code](https://github.com/NJUST-VIPGroup/SEMICON)
+
+    
 <a name="4"/>
 
 ## 4.Video/Image Captioning(视频/图像字幕)
