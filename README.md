@@ -21,7 +21,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 9 月 16 日，已整理 402 篇。
+## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 10 月 12 日，已整理 434 篇。
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
@@ -31,6 +31,36 @@
 |[13.Human-Object Interaction(人物交互)](#13)|[14.Visual Answer Questions(视觉问答)](#14)|[15.Vision-Language(视觉语言)](#15)|[16.Transformer](#16)|
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
+
+## 10月6日-10月12日更新 14 篇
+* 检索
+  * [Granularity-aware Adaptation for Image Retrieval over Multiple Tasks](https://arxiv.org/abs/2210.02254)
+* 自动驾驶
+  * [Dfferentiable Raycasting for Self-supervised Occupancy Forecasting](https://arxiv.org/abs/2210.01917)<br>:star:[code](https://github.com/tarashakhurana/emergent-occ-forecasting)
+* 视频帧插值
+  * [A Perceptual Quality Metric for Video Frame Interpolation](https://arxiv.org/abs/2210.01879)<br>:star:[code](https://github.com/hqqxyy/VFIPS)
+* SR
+  * [Super-Resolution by Predicting Offsets: An Ultra-Efficient Super-Resolution Network for Rasterized Images](https://arxiv.org/abs/2210.04198)
+* 深度估计
+  * [FloatingFusion: Depth from ToF and Image-stabilized Stereo Cameras](https://arxiv.org/abs/2210.02785)
+* 人脸
+  * [BoundaryFace: A mining framework with noise label self-correction for Face Recognition](https://arxiv.org/abs/2210.04567)<br>:star:[code](https://github.com/SWJTU-3DVision/BoundaryFace)
+* 域泛化
+  * [Attention Diversification for Domain Generalization](https://arxiv.org/abs/2210.04206)<br>:star:[code](https://github.com/hikvision-research/DomainGeneralization)
+* 点云补全
+  * [FBNet: Feedback Network for Point Cloud Completion](https://arxiv.org/abs/2210.03974)<br>:open_mouth:oral:star:[code](https://github.com/hikvision-research/3DVision/)
+* VOS
+  * [Global Spectral Filter Memory Network for Video Object Segmentation](https://arxiv.org/abs/2210.05567)<br>:star:[code](https://github.com/workforai/GSFM)
+* 视觉重定位
+  * [Map-free Visual Relocalization: Metric Pose Relative to a Single Image](https://arxiv.org/abs/2210.05494)
+* NAS
+  * [LidarNAS: Unifying and Searching Neural Architectures for 3D Point Clouds](https://arxiv.org/abs/2210.05018)
+* Video Grounding
+  * [Graph2Vid: Flow graph to Video Grounding forWeakly-supervised Multi-Step Localization](https://arxiv.org/abs/2210.04996)<br>:open_mouth:oral
+* 其它
+  * [Fast-ParC: Position Aware Global Kernel for ConvNets and ViTs](https://arxiv.org/abs/2210.04020)
+* 图像合成
+  * [SCAM! Transferring humans between images with Semantic Cross Attention Modulation](https://arxiv.org/abs/2210.04883)<br>:house:[project](https://imagine.enpc.fr/~dufourn/publications/scam.html)
 
 ## 9月29日更新 3 篇
 * 检索
@@ -172,6 +202,7 @@
 * 域泛化
   * [Grounding Visual Representations with Texts for Domain Generalization](https://arxiv.org/abs/2207.10285)<br>:star:[code](https://github.com/mswzeus/GVRT)
   * [Improving Test-Time Adaptation via Shift-agnostic Weight Regularization and Nearest Source Prototypes](https://arxiv.org/abs/2207.11707)
+  * [Attention Diversification for Domain Generalization](https://arxiv.org/abs/2210.04206)<br>:star:[code](https://github.com/hikvision-research/DomainGeneralization)
 
 ## Semantic Correspondence(语义对应)
 * [Demystifying Unsupervised Semantic Correspondence Estimation](https://arxiv.org/abs/2207.05054)<br>:star:[code](https://github.com/MehmetAygun/demistfy_correspondence):house:[project](https://mehmetaygun.github.io/demistfy.html)
@@ -265,6 +296,7 @@
  * [Dual Adaptive Transformations for Weakly Supervised Point Cloud Segmentation](https://arxiv.org/abs/2207.09084)
 * 点云补全  
   * [SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer](https://arxiv.org/abs/2207.10315)<br>:star:[code](https://github.com/hrzhou2/seedformer)   
+  * [FBNet: Feedback Network for Point Cloud Completion](https://arxiv.org/abs/2210.03974)<br>:open_mouth:oral:star:[code](https://github.com/hikvision-research/3DVision/) 
 * 点云配准
   * [SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud](https://arxiv.org/abs/2208.01925)<br>:star:[code](https://github.com/zxrzju/SuperLine3D) 
   * [Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation](https://arxiv.org/abs/2208.14893)<br>:star:[code](https://github.com/514DNA/LLT)
@@ -299,6 +331,7 @@
 * [ScaleNet: Searching for the Model to Scale](https://arxiv.org/abs/2207.07267)<br>:star:[code](https://github.com/luminolx/ScaleNet)
 * [CLOSE: Curriculum Learning On the Sharing Extent Towards Better One-shot NAS](https://arxiv.org/abs/2207.07868)<br>:star:[code](https://github.com/walkerning/aw_nas)
 * [Towards Regression-Free Neural Networks for Diverse Compute Platforms](https://arxiv.org/abs/2209.13740)
+* [LidarNAS: Unifying and Searching Neural Architectures for 3D Point Clouds](https://arxiv.org/abs/2210.05018)
 
 ## Image Classification(图像分类)
 * [Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset](https://arxiv.org/abs/2207.10664)<br>:star:[code](https://github.com/visipedia/ssw60)
@@ -328,6 +361,7 @@
   * [CADyQ: Content-Aware Dynamic Quantization for Image Super-Resolution](https://arxiv.org/abs/2207.10345)<br>:star:[code](https://github.com/Cheeun/CADyQ)
   * [Reference-based Image Super-Resolution with Deformable Attention Transformer](https://arxiv.org/abs/2207.11938)<br>:star:[code](https://github.com/caojiezhang/DATSR) 
   * [KXNet: A Model-Driven Deep Neural Network for Blind Super-Resolution](https://arxiv.org/abs/2209.10305)<br>:star:[code](https://github.com/jiahong-fu/KXNet)
+  * [Super-Resolution by Predicting Offsets: An Ultra-Efficient Super-Resolution Network for Rasterized Images](https://arxiv.org/abs/2210.04198)  
 * 视频超分辨率
   * [Towards Interpretable Video Super-Resolution via Alternating Optimization](https://arxiv.org/abs/2207.10765)<br>:star:[code](https://github.com/caojiezhang/DAVSR)
   * [Learning Spatiotemporal Frequency-Transformer for Compressed Video Super-Resolution](https://arxiv.org/abs/2208.03012)<br>:star:[code](https://github.com/researchmm/FTVSR)
@@ -341,6 +375,7 @@
 * 自动驾驶
   * [ST-P3: End-to-end Vision-based Autonomous Driving via Spatial-Temporal Feature Learning](https://arxiv.org/abs/2207.07601)<br>:star:[code](https://github.com/OpenPerceptionX/ST-P3)
   * [Resolving Copycat Problems in Visual Imitation Learning via Residual Action Prediction](https://arxiv.org/abs/2207.09705)
+  * [Dfferentiable Raycasting for Self-supervised Occupancy Forecasting](https://arxiv.org/abs/2210.01917)<br>:star:[code](https://github.com/tarashakhurana/emergent-occ-forecasting)
 * 轨迹预测
   * [Learning Pedestrian Group Representations for Multi-modal Trajectory Prediction](https://arxiv.org/abs/2207.09953)<br>:star:[code](https://github.com/inhwanbae/GPGraph)
   * [Aware of the History: Trajectory Forecasting with the Local Behavior Data](https://arxiv.org/abs/2207.09646)<br>:star:[code](https://github.com/Kay1794/LocalBehavior-based-trajectory-prediction)
@@ -427,6 +462,7 @@
 * 人脸识别
   * [Controllable and Guided Face Synthesis for Unconstrained Face Recognition](https://arxiv.org/abs/2207.10180)<br>:star:[code](https://github.com/liuf1990/CFSM):house:[project](http://cvlab.cse.msu.edu/project-cfsm.html)
   * [Towards Robust Face Recognition with Comprehensive Search](https://arxiv.org/abs/2208.13600)
+  * [BoundaryFace: A mining framework with noise label self-correction for Face Recognition](https://arxiv.org/abs/2210.04567)<br>:star:[code](https://github.com/SWJTU-3DVision/BoundaryFace)
 * 人脸聚类
   * [On Mitigating Hard Clusters for Face Clustering](https://arxiv.org/abs/2207.11895)<br>:open_mouth:oral:star:[code](https://github.com/echoanran/On-Mitigating-Hard-Clusters)
 * 谈话头像合成
@@ -444,6 +480,7 @@
 * [Paint2Pix: Interactive Painting based Progressive Image Synthesis and Editing](https://arxiv.org/abs/2208.08092)<br>:star:[code](https://github.com/1jsingh/paint2pix)
 * [Improved Masked Image Generation with Token-Critic](https://arxiv.org/abs/2209.04439)
 * [Weakly-Supervised Stitching Network for Real-World Panoramic Image Generation](https://arxiv.org/abs/2209.05968)
+* [SCAM! Transferring humans between images with Semantic Cross Attention Modulation](https://arxiv.org/abs/2210.04883)<br>:house:[project](https://imagine.enpc.fr/~dufourn/publications/scam.html)
 * 图像生成
   * [DeltaGAN: Towards Diverse Few-shot Image Generation with Sample-Specific Delta](https://arxiv.org/abs/2207.10271)<br>:star:[code](https://github.com/bcmi/DeltaGAN-Few-Shot-Image-Generation)
 * 样本引导下的图像生成
@@ -507,7 +544,8 @@
   * [Learning Visual Representation from Modality-Shared Contrastive Language-Image Pre-training](https://arxiv.org/abs/2207.12661)<br>:star:[code](https://github.com/Hxyou/MSCLIP) 
 * VLN
   * [Learning from Unlabeled 3D Environments for Vision-and-Language Navigation](https://arxiv.org/abs/2208.11781)<br>:house:[project](https://cshizhe.github.io/projects/hm3d_autovln.html)
-
+* 视觉重定位
+  * [Map-free Visual Relocalization: Metric Pose Relative to a Single Image](https://arxiv.org/abs/2210.05494)
 
 <a name="14"/>
 
@@ -565,6 +603,8 @@
 ## 11.Video  
 * 视频-视频合成
   * [Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis](https://arxiv.org/abs/2207.05049)<br>:star:[code](https://github.com/fast-vid2vid/fast-vid2vid):house:[project](https://fast-vid2vid.github.io/)
+* 视频帧插值
+  * [A Perceptual Quality Metric for Video Frame Interpolation](https://arxiv.org/abs/2210.01879)<br>:star:[code](https://github.com/hqqxyy/VFIPS)
 * 视频生成
   * [RealFlow: EM-based Realistic Optical Flow Dataset Generation from Videos](https://arxiv.org/abs/2207.11075)<br>:open_mouth:oral:star:[code](https://github.com/megvii-research/RealFlow)
 * 视频质量评估
@@ -585,6 +625,7 @@
   * [Tackling Background Distraction in Video Object Segmentation](https://arxiv.org/abs/2207.06953)<br>:star:[code](https://github.com/suhwan-cho/TBD)
   * [Hierarchical Feature Alignment Network for Unsupervised Video Object Segmentation](https://arxiv.org/abs/2207.08485)<br>:star:[code](https://github.com/NUST-Machine-Intelligence-Laboratory/HFAN)
   * [Learning Quality-aware Dynamic Memory for Video Object Segmentation](https://arxiv.org/abs/2207.07922)<br>:star:[code](https://github.com/workforai/QDMN)
+  * [Global Spectral Filter Memory Network for Video Object Segmentation](https://arxiv.org/abs/2210.05567)<br>:star:[code](https://github.com/workforai/GSFM)
 * VIS
   * [In Defense of Online Models for Video Instance Segmentation](https://arxiv.org/abs/2207.10661)<br><br>:open_mouth:oral:star:[code](https://github.com/wjf5203/VNext)
   * [Video Mask Transfiner for High-Quality Video Instance Segmentation](https://arxiv.org/abs/2207.14012)
@@ -622,7 +663,9 @@
   * [AlphaVC: High-Performance and Efficient Learned Video Compression](https://arxiv.org/abs/2207.14678) 
 * 视频摘要
   * [TL;DW? Summarizing Instructional Videos with Task Relevance & Cross-Modal Saliency](https://arxiv.org/abs/2208.06773)<br>:star:[code](https://github.com/medhini/Instructional-Video-Summarization):house:[project](https://medhini.github.io/ivsum/)
-   
+* Video Grounding
+  * [Graph2Vid: Flow graph to Video Grounding forWeakly-supervised Multi-Step Localization](https://arxiv.org/abs/2210.04996)<br>:open_mouth:oral 
+ 
 <a name="10"/>
 
 ## 10.Pose Estimation(物体姿势估计)
@@ -693,7 +736,6 @@
 * 手部网格估计
   * [Identity-Aware Hand Mesh Estimation and Personalization from RGB Images](https://arxiv.org/abs/2209.10840)<br>:star:[code](https://github.com/deyingk/PersonalizedHandMeshEstimation)
 
-
 <a name="8"/>
 
 ## 8.3D(三维视觉)
@@ -719,6 +761,7 @@
   * [Self-distilled Feature Aggregation for Self-supervised Monocular Depth Estimation](https://arxiv.org/abs/2209.07088)<br>:star:[code](https://github.com/ZM-Zhou/SDFA-Net_pytorch)
   * [3D-PL: Domain Adaptive Depth Estimation with 3D-aware Pseudo-Labeling](https://arxiv.org/abs/2209.09231)<br>:star:[code](https://github.com/ccc870206/3D-PL)
   * [DELTAR: Depth Estimation from a Light-weight ToF Sensor and RGB Image](https://arxiv.org/abs/2209.13362)<br>:star:[code](https://github.com/zju3dv/deltar):house:[project](https://zju3dv.github.io/deltar/)
+  * [FloatingFusion: Depth from ToF and Image-stabilized Stereo Cameras](https://arxiv.org/abs/2210.02785)
 * 三维视觉
   * [A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision](https://arxiv.org/abs/2207.04997)
   * [Neural Density-Distance Fields](https://arxiv.org/abs/2207.14455)<br>:star:[code](https://github.com/ueda0319/neddf)
@@ -830,6 +873,7 @@
   * [Hierarchical Average Precision Training for Pertinent Image Retrieval](https://arxiv.org/abs/2207.04873)<br>:star:[code](https://github.com/elias-ramzi/HAPPIER)
   * [Adaptive Fine-Grained Sketch-Based Image Retrieval](https://arxiv.org/abs/2207.01723)<br>:star:[code](https://github.com/AyanKumarBhunia/Adaptive-FGSBIR)
   * [A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch](https://arxiv.org/abs/2208.03354)<br>:star:[code](https://github.com/janesjanes/tsbir):house:[project](https://patsorn.me/projects/tsbir/)
+  * [Granularity-aware Adaptation for Image Retrieval over Multiple Tasks](https://arxiv.org/abs/2210.02254)
 * 视频检索
   * [LocVTP: Video-Text Pre-training for Temporal Localization](https://arxiv.org/abs/2207.10362)<br>:star:[code](https://github.com/mengcaopku/LocVTP)
   * Video Geo-localization(检索)
@@ -969,7 +1013,8 @@
 * [NashAE: Disentangling Representations through Adversarial Covariance Minimization](https://arxiv.org/abs/2209.10677)<br>:star:[code](https://github.com/ericyeats/nashae-beamsynthesis)
 * [FusionVAE: A Deep Hierarchical Variational Autoencoder for RGB Image Fusion](https://arxiv.org/abs/2209.11277)
 * [Diversified Dynamic Routing for Vision Tasks](https://arxiv.org/abs/2209.13071)
+* [Fast-ParC: Position Aware Global Kernel for ConvNets and ViTs](https://arxiv.org/abs/2210.04020)
 
-  
+
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
