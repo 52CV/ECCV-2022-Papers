@@ -1,3 +1,43 @@
+## 10月6日-10月12日更新 14 篇
+* 检索
+  * [Granularity-aware Adaptation for Image Retrieval over Multiple Tasks](https://arxiv.org/abs/2210.02254)
+* 自动驾驶
+  * [Dfferentiable Raycasting for Self-supervised Occupancy Forecasting](https://arxiv.org/abs/2210.01917)<br>:star:[code](https://github.com/tarashakhurana/emergent-occ-forecasting)
+* 视频帧插值
+  * [A Perceptual Quality Metric for Video Frame Interpolation](https://arxiv.org/abs/2210.01879)<br>:star:[code](https://github.com/hqqxyy/VFIPS)
+* SR
+  * [Super-Resolution by Predicting Offsets: An Ultra-Efficient Super-Resolution Network for Rasterized Images](https://arxiv.org/abs/2210.04198)
+* 深度估计
+  * [FloatingFusion: Depth from ToF and Image-stabilized Stereo Cameras](https://arxiv.org/abs/2210.02785)
+* 人脸
+  * [BoundaryFace: A mining framework with noise label self-correction for Face Recognition](https://arxiv.org/abs/2210.04567)<br>:star:[code](https://github.com/SWJTU-3DVision/BoundaryFace)
+* 域泛化
+  * [Attention Diversification for Domain Generalization](https://arxiv.org/abs/2210.04206)<br>:star:[code](https://github.com/hikvision-research/DomainGeneralization)
+* 点云补全
+  * [FBNet: Feedback Network for Point Cloud Completion](https://arxiv.org/abs/2210.03974)<br>:open_mouth:oral:star:[code](https://github.com/hikvision-research/3DVision/)
+* VOS
+  * [Global Spectral Filter Memory Network for Video Object Segmentation](https://arxiv.org/abs/2210.05567)<br>:star:[code](https://github.com/workforai/GSFM)
+* 视觉重定位
+  * [Map-free Visual Relocalization: Metric Pose Relative to a Single Image](https://arxiv.org/abs/2210.05494)
+* NAS
+  * [LidarNAS: Unifying and Searching Neural Architectures for 3D Point Clouds](https://arxiv.org/abs/2210.05018)
+* Video Grounding
+  * [Graph2Vid: Flow graph to Video Grounding forWeakly-supervised Multi-Step Localization](https://arxiv.org/abs/2210.04996)<br>:open_mouth:oral
+* 其它
+  * [Fast-ParC: Position Aware Global Kernel for ConvNets and ViTs](https://arxiv.org/abs/2210.04020)
+* 图像合成
+  * [SCAM! Transferring humans between images with Semantic Cross Attention Modulation](https://arxiv.org/abs/2210.04883)<br>:house:[project](https://imagine.enpc.fr/~dufourn/publications/scam.html)
+
+## 9月29日更新 3 篇
+* 检索
+  * [SEMICON: A Learning-to-hash Solution for Large-scale Fine-grained Image Retrieval](https://arxiv.org/abs/2209.13833)<br>:star:[code](https://github.com/NJUST-VIPGroup/SEMICON)
+* NAS
+  * [Towards Regression-Free Neural Networks for Diverse Compute Platforms](https://arxiv.org/abs/2209.13740)
+* 元学习
+  * [Rethinking Clustering-Based Pseudo-Labeling for Unsupervised Meta-Learning](https://arxiv.org/abs/2209.13635)<br>:star:[code](https://github.com/xingpingdong/PL-CFE)
+
+
+
 ## 9月28日更新 5 篇
 * 人脸交换
   * [StyleSwap: Style-Based Generator Empowers Robust Face Swapping](https://arxiv.org/abs/2209.13514)<br>:star:[code](https://github.com/Seanseattle/StyleSwap):house:[project](https://hangz-nju-cuhk.github.io/projects/StyleSwap)
