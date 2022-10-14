@@ -32,6 +32,9 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
+## 10月14日更新 1 篇
+* [Improving the Reliability for Confidence Estimation](https://arxiv.org/abs/2210.06776)
+
 ## 10月13日更新 1 篇
 * 形状修补
   * [DeepMend: Learning Occupancy Functions to Represent Shape for Repair](https://arxiv.org/abs/2210.05728)<br>:star:[code](https://github.com/Terascale-All-sensing-Research-Studio/DeepMend)
@@ -1019,7 +1022,7 @@
 * [FusionVAE: A Deep Hierarchical Variational Autoencoder for RGB Image Fusion](https://arxiv.org/abs/2209.11277)
 * [Diversified Dynamic Routing for Vision Tasks](https://arxiv.org/abs/2209.13071)
 * [Fast-ParC: Position Aware Global Kernel for ConvNets and ViTs](https://arxiv.org/abs/2210.04020)
-
+* [Improving the Reliability for Confidence Estimation](https://arxiv.org/abs/2210.06776)
 
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
