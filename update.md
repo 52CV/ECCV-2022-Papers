@@ -1,3 +1,19 @@
+## 10月17日更新 3 篇
+* OD
+  * [SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2210.07372)
+  * [Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction](https://arxiv.org/abs/2210.07424)<br>:star:[code](https://github.com/naver/garnet)
+* 医学
+  * [The Surprisingly Straightforward Scene Text Removal Method With Gated Attention and Region of Interest Generation: A Comprehensive Prominent Model Analysis](https://arxiv.org/abs/2210.07489)<br>:star:[code](https://github.com/wyndwarrior/autoregressive-bbox):house:[project](https://bbox.yuxuanliu.com/)
+
+## 10月14日更新 1 篇
+* [Improving the Reliability for Confidence Estimation](https://arxiv.org/abs/2210.06776)
+
+## 10月13日更新 1 篇
+* 形状修补
+  * [DeepMend: Learning Occupancy Functions to Represent Shape for Repair](https://arxiv.org/abs/2210.05728)<br>:star:[code](https://github.com/Terascale-All-sensing-Research-Studio/DeepMend)
+
+### —————————————————————————————————————————————
+
 ## 10月6日-10月12日更新 14 篇
 * 检索
   * [Granularity-aware Adaptation for Image Retrieval over Multiple Tasks](https://arxiv.org/abs/2210.02254)
