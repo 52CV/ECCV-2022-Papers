@@ -32,50 +32,12 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 10月14日更新 1 篇
-* [Improving the Reliability for Confidence Estimation](https://arxiv.org/abs/2210.06776)
-
-## 10月13日更新 1 篇
-* 形状修补
-  * [DeepMend: Learning Occupancy Functions to Represent Shape for Repair](https://arxiv.org/abs/2210.05728)<br>:star:[code](https://github.com/Terascale-All-sensing-Research-Studio/DeepMend)
-
-## 10月6日-10月12日更新 14 篇
-* 检索
-  * [Granularity-aware Adaptation for Image Retrieval over Multiple Tasks](https://arxiv.org/abs/2210.02254)
-* 自动驾驶
-  * [Dfferentiable Raycasting for Self-supervised Occupancy Forecasting](https://arxiv.org/abs/2210.01917)<br>:star:[code](https://github.com/tarashakhurana/emergent-occ-forecasting)
-* 视频帧插值
-  * [A Perceptual Quality Metric for Video Frame Interpolation](https://arxiv.org/abs/2210.01879)<br>:star:[code](https://github.com/hqqxyy/VFIPS)
-* SR
-  * [Super-Resolution by Predicting Offsets: An Ultra-Efficient Super-Resolution Network for Rasterized Images](https://arxiv.org/abs/2210.04198)
-* 深度估计
-  * [FloatingFusion: Depth from ToF and Image-stabilized Stereo Cameras](https://arxiv.org/abs/2210.02785)
-* 人脸
-  * [BoundaryFace: A mining framework with noise label self-correction for Face Recognition](https://arxiv.org/abs/2210.04567)<br>:star:[code](https://github.com/SWJTU-3DVision/BoundaryFace)
-* 域泛化
-  * [Attention Diversification for Domain Generalization](https://arxiv.org/abs/2210.04206)<br>:star:[code](https://github.com/hikvision-research/DomainGeneralization)
-* 点云补全
-  * [FBNet: Feedback Network for Point Cloud Completion](https://arxiv.org/abs/2210.03974)<br>:open_mouth:oral:star:[code](https://github.com/hikvision-research/3DVision/)
-* VOS
-  * [Global Spectral Filter Memory Network for Video Object Segmentation](https://arxiv.org/abs/2210.05567)<br>:star:[code](https://github.com/workforai/GSFM)
-* 视觉重定位
-  * [Map-free Visual Relocalization: Metric Pose Relative to a Single Image](https://arxiv.org/abs/2210.05494)
-* NAS
-  * [LidarNAS: Unifying and Searching Neural Architectures for 3D Point Clouds](https://arxiv.org/abs/2210.05018)
-* Video Grounding
-  * [Graph2Vid: Flow graph to Video Grounding forWeakly-supervised Multi-Step Localization](https://arxiv.org/abs/2210.04996)<br>:open_mouth:oral
-* 其它
-  * [Fast-ParC: Position Aware Global Kernel for ConvNets and ViTs](https://arxiv.org/abs/2210.04020)
-* 图像合成
-  * [SCAM! Transferring humans between images with Semantic Cross Attention Modulation](https://arxiv.org/abs/2210.04883)<br>:house:[project](https://imagine.enpc.fr/~dufourn/publications/scam.html)
-
-## 9月29日更新 3 篇
-* 检索
-  * [SEMICON: A Learning-to-hash Solution for Large-scale Fine-grained Image Retrieval](https://arxiv.org/abs/2209.13833)<br>:star:[code](https://github.com/NJUST-VIPGroup/SEMICON)
-* NAS
-  * [Towards Regression-Free Neural Networks for Diverse Compute Platforms](https://arxiv.org/abs/2209.13740)
-* 元学习
-  * [Rethinking Clustering-Based Pseudo-Labeling for Unsupervised Meta-Learning](https://arxiv.org/abs/2209.13635)<br>:star:[code](https://github.com/xingpingdong/PL-CFE)
+## 10月17日更新 3 篇
+* OD
+  * [SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2210.07372)
+  * [Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction](https://arxiv.org/abs/2210.07424)<br>:star:[code](https://github.com/naver/garnet)
+* 医学
+  * [The Surprisingly Straightforward Scene Text Removal Method With Gated Attention and Region of Interest Generation: A Comprehensive Prominent Model Analysis](https://arxiv.org/abs/2210.07489)<br>:star:[code](https://github.com/wyndwarrior/autoregressive-bbox):house:[project](https://bbox.yuxuanliu.com/)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -398,6 +360,7 @@
 <a name="23"/>
 
 ## 23.Medical Image(医学影像)
+* [The Surprisingly Straightforward Scene Text Removal Method With Gated Attention and Region of Interest Generation: A Comprehensive Prominent Model Analysis](https://arxiv.org/abs/2210.07489)<br>:star:[code](https://github.com/wyndwarrior/autoregressive-bbox):house:[project](https://bbox.yuxuanliu.com/)
 * 医学图像分割
   * [Personalizing Federated Medical Image Segmentation via Local Calibration](https://arxiv.org/abs/2207.04655)<br>:star:[code](https://github.com/jcwang123/FedLC)
   * [Learning Topological Interactions for Multi-Class Medical Image Segmentation](https://arxiv.org/abs/2207.09654)<br>:open_mouth:oral:star:[code](https://github.com/TopoXLab/TopoInteraction)
@@ -813,7 +776,7 @@
 * 视觉跟踪
   * [AiATrack: Attention in Attention for Transformer Visual Tracking](https://arxiv.org/abs/2207.09603)<br>:star:[code](https://github.com/Little-Podi/AiATrack)
   * [Towards Sequence-Level Training for Visual Tracking](https://arxiv.org/abs/2208.05810)<br>:star:[code](https://github.com/byminji/SLTtrack)
-
+ 
 <a name="6"/>
 
 ## 6.Object Detection(目标检测)
@@ -842,6 +805,8 @@
   * [MV-FCOS3D++: Multi-View Camera-Only 4D Object Detection with Pretrained Monocular Backbones](https://arxiv.org/abs/2207.12716)<br>:open_mouth:oral:star:[code](https://github.com/Tai-Wang/Depth-from-Motion)
   * [Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph](https://arxiv.org/abs/2208.03624)<br>:open_mouth:oral:star:[code](https://github.com/Nightmare-n/GraphRCNN) 
   * [CenterFormer: Center-based Transformer for 3D Object Detection](https://arxiv.org/abs/2209.05588)<br>:open_mouth:oral:star:[code](https://github.com/TuSimple/centerformer)
+  * [SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2210.07372)
+  * [Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction](https://arxiv.org/abs/2210.07424)<br>:star:[code](https://github.com/naver/garnet)
 * 半监督目标检测
   * [Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection](https://arxiv.org/abs/2207.02541)<br>:star:[code](https://github.com/Megvii-BaseDetection/DenseTeacher)
   * [Open-Set Semi-Supervised Object Detection](https://arxiv.org/abs/2208.13722)<br>:star:[code](https://github.com/facebookresearch/OSSOD):house:[project](https://ycliu93.github.io/projects/ossod.html)
