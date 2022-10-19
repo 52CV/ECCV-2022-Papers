@@ -1,3 +1,15 @@
+
+## 10月18日更新 5 篇
+* 自动驾驶
+  * [Motion Inspired Unsupervised Perception and Prediction in Autonomous Driving](https://arxiv.org/abs/2210.08061)
+* OD
+  * [CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection](https://arxiv.org/abs/2210.09267)
+  * [Distilling Object Detectors With Global Knowledge](https://arxiv.org/abs/2210.09022)<br>:star:[code](https://github.com/hikvision-research/DAVAR-Lab-ML)
+* 视频时刻检索
+  * [Selective Query-guided Debiasing Network for Video Corpus Moment Retrieval](https://arxiv.org/abs/2210.08714)
+* 文件图像矫正
+  * [Geometric Representation Learning for Document Image Rectification](https://arxiv.org/abs/2210.08161)<br>:star:[code](https://github.com/fh2019ustc/DocGeoNet)
+
 ## 10月17日更新 3 篇
 * OD
   * [SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2210.07372)
