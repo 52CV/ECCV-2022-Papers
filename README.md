@@ -32,23 +32,15 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 10月18日更新 5 篇
-* 自动驾驶
-  * [Motion Inspired Unsupervised Perception and Prediction in Autonomous Driving](https://arxiv.org/abs/2210.08061)
-* OD
-  * [CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection](https://arxiv.org/abs/2210.09267)
-  * [Distilling Object Detectors With Global Knowledge](https://arxiv.org/abs/2210.09022)<br>:star:[code](https://github.com/hikvision-research/DAVAR-Lab-ML)
-* 视频时刻检索
-  * [Selective Query-guided Debiasing Network for Video Corpus Moment Retrieval](https://arxiv.org/abs/2210.08714)
-* 文件图像矫正
-  * [Geometric Representation Learning for Document Image Rectification](https://arxiv.org/abs/2210.08161)<br>:star:[code](https://github.com/fh2019ustc/DocGeoNet)
-
-## 10月17日更新 3 篇
-* OD
-  * [SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2210.07372)
-  * [Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction](https://arxiv.org/abs/2210.07424)<br>:star:[code](https://github.com/naver/garnet)
-* 医学
-  * [The Surprisingly Straightforward Scene Text Removal Method With Gated Attention and Region of Interest Generation: A Comprehensive Prominent Model Analysis](https://arxiv.org/abs/2210.07489)<br>:star:[code](https://github.com/wyndwarrior/autoregressive-bbox):house:[project](https://bbox.yuxuanliu.com/)
+## 10月19日更新 4 篇
+* 渲染
+  * [ARAH: Animatable Volume Rendering of Articulated Human SDFs](https://arxiv.org/abs/2210.10036)<br>:star:[code](https://github.com/taconite/arah-release):house:[project](https://neuralbodies.github.io/arah/)
+* 自监督
+  * [Towards Efficient and Effective Self-Supervised Learning of Visual Representations](https://arxiv.org/abs/2210.09866)<br>:star:[code](https://github.com/val-iisc/EffSSL)
+* 3DOD
+  * [Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection](https://arxiv.org/abs/2210.09615)
+* 对抗
+  * [Scaling Adversarial Training to Large Perturbation Bounds](https://arxiv.org/abs/2210.09852)<br>:star:[code](https://github.com/val-iisc/OAAT)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -165,7 +157,7 @@
 * [Deforming Radiance Fields with Cages](https://arxiv.org/abs/2207.12298)<br>:star:[code](https://github.com/xth430/deforming-nerf):house:[project](https://xth430.github.io/deforming-nerf/)
 * [NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing](https://arxiv.org/abs/2207.11911)<br>:open_mouth:oral:star:[code](https://github.com/zju3dv/neumesh):house:[project](https://zju3dv.github.io/neumesh/)  
 * [ActiveNeRF: Learning where to See with Uncertainty Estimation](https://arxiv.org/abs/2209.08546)<br>:star:[code](https://github.com/LeapLabTHU/ActiveNeRF)
-
+* [ARAH: Animatable Volume Rendering of Articulated Human SDFs](https://arxiv.org/abs/2210.10036)<br>:star:[code](https://github.com/taconite/arah-release):house:[project](https://neuralbodies.github.io/arah/)
 
 ## Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/适应)
 * 小样本
@@ -226,6 +218,7 @@
   * [Frequency Domain Model Augmentation for Adversarial Attack](https://arxiv.org/abs/2207.05382)<br>:star:[code](https://github.com/yuyang-long/SSA)
   * [Watermark Vaccine: Adversarial Attacks to Prevent Watermark Removal](https://arxiv.org/abs/2207.08178)<br>:star:[code](https://github.com/thinwayliu/Watermark-Vaccine)
   * [SegPGD: An Effective and Efficient Adversarial Attack for Evaluating and Boosting Segmentation Robustness](https://arxiv.org/abs/2207.12391)
+  * [Scaling Adversarial Training to Large Perturbation Bounds](https://arxiv.org/abs/2210.09852)<br>:star:[code](https://github.com/val-iisc/OAAT)
  
 ## Transfer Learning(迁移学习)
 * [Factorizing Knowledge in Neural Networks](https://arxiv.org/abs/2207.03337)<br>:star:[code](https://github.com/Adamdad/KnowledgeFactor)
@@ -424,6 +417,7 @@
   * [SdAE: Self-distillated Masked Autoencoder](https://arxiv.org/abs/2208.00449)<br>:star:[code](https://github.com/AbrahamYabo/SdAE)
   * [RDA: Reciprocal Distribution Alignment for Robust SSL](https://arxiv.org/abs/2208.04619)<br>:star:[code](https://github.com/NJUyued/RDA4RobustSSL)
   * [Motion Sensitive Contrastive Learning for Self-supervised Video Representation](https://arxiv.org/abs/2208.06105)
+  * [Towards Efficient and Effective Self-Supervised Learning of Visual Representations](https://arxiv.org/abs/2210.09866)<br>:star:[code](https://github.com/val-iisc/EffSSL)
 * 半监督
   * [Towards Realistic Semi-Supervised Learning](https://arxiv.org/abs/2207.02269)
   * [OpenLDN: Learning to Discover Novel Classes for Open-World Semi-Supervised Learning](https://arxiv.org/abs/2207.02261)
@@ -825,6 +819,7 @@
   * [SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2210.07372)
   * [Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction](https://arxiv.org/abs/2210.07424)<br>:star:[code](https://github.com/naver/garnet)
   * [CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection](https://arxiv.org/abs/2210.09267)
+  * [Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection](https://arxiv.org/abs/2210.09615)
 * 半监督目标检测
   * [Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection](https://arxiv.org/abs/2207.02541)<br>:star:[code](https://github.com/Megvii-BaseDetection/DenseTeacher)
   * [Open-Set Semi-Supervised Object Detection](https://arxiv.org/abs/2208.13722)<br>:star:[code](https://github.com/facebookresearch/OSSOD):house:[project](https://ycliu93.github.io/projects/ossod.html)
