@@ -21,7 +21,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 10 月 12 日，已整理 445 篇。
+## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 10 月 21 日，已整理 465 篇。
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
@@ -31,6 +31,13 @@
 |[13.Human-Object Interaction(人物交互)](#13)|[14.Visual Answer Questions(视觉问答)](#14)|[15.Vision-Language(视觉语言)](#15)|[16.Transformer](#16)|
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
+
+
+## 10月21日更新 2 篇
+* 检索
+  * [VTC: Improving Video-Text Retrieval with User Comments](https://arxiv.org/abs/2210.10820)<br>:star:[code](https://github.com/unitaryai/VTC):house:[project](https://unitaryai.github.io/vtc-paper/)
+* 着色
+  * [PalGAN: Image Colorization with Palette Generative Adversarial Networks](https://arxiv.org/abs/2210.11204)<br>:star:[code](https://github.com/shepnerd/PalGAN)
 
 ## 10月20日更新 4 篇
 * 三维人体运动生成
@@ -887,7 +894,9 @@
   * [SEMICON: A Learning-to-hash Solution for Large-scale Fine-grained Image Retrieval](https://arxiv.org/abs/2209.13833)<br>:star:[code](https://github.com/NJUST-VIPGroup/SEMICON)
 * 视频时刻检索
   * [Selective Query-guided Debiasing Network for Video Corpus Moment Retrieval](https://arxiv.org/abs/2210.08714)
-    
+* 视频-文本检索
+  * [VTC: Improving Video-Text Retrieval with User Comments](https://arxiv.org/abs/2210.10820)<br>:star:[code](https://github.com/unitaryai/VTC):house:[project](https://unitaryai.github.io/vtc-paper/)
+
 <a name="4"/>
 
 ## 4.Video/Image Captioning(视频/图像字幕)
@@ -930,6 +939,8 @@
   * [Towards Efficient and Scale-Robust Ultra-High-Definition Image Demoireing](https://arxiv.org/abs/2207.09935)<br>:star:[code](https://github.com/CVMI-Lab/UHDM):house:[project](https://xinyu-andy.github.io/uhdm-page/)
 * 语义图像编辑
   * [Context-Consistent Semantic Image Editing with Style-Preserved Modulation](https://arxiv.org/abs/2207.06252)<br>:star:[code](https://github.com/WuyangLuo/SPMPGAN)
+* 图像着色
+  * [PalGAN: Image Colorization with Palette Generative Adversarial Networks](https://arxiv.org/abs/2210.11204)<br>:star:[code](https://github.com/shepnerd/PalGAN)
 
 <a name="2"/>
 
