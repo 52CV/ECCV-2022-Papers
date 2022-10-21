@@ -1,3 +1,30 @@
+### —————————————————————————————————————————————
+## 10月21日更新 2 篇
+* 检索
+  * [VTC: Improving Video-Text Retrieval with User Comments](https://arxiv.org/abs/2210.10820)<br>:star:[code](https://github.com/unitaryai/VTC):house:[project](https://unitaryai.github.io/vtc-paper/)
+* 着色
+  * [PalGAN: Image Colorization with Palette Generative Adversarial Networks](https://arxiv.org/abs/2210.11204)<br>:star:[code](https://github.com/shepnerd/PalGAN)
+
+## 10月20日更新 4 篇
+* 三维人体运动生成
+  * [PoseGPT: Quantization-based 3D Human Motion Generation and Forecasting](https://arxiv.org/abs/2210.10542)<br>:house:[project](https://europe.naverlabs.com/research/computer-vision/posegpt/)
+* 增强现实
+  * [LaMAR: Benchmarking Localization and Mapping for Augmented Reality](https://arxiv.org/abs/2210.10770)<br>:star:[code](https://github.com/microsoft/lamar-benchmark):house:[project](https://lamar.ethz.ch/)
+* 深度补全
+  * [GraphCSPN: Geometry-Aware Depth Completion via Dynamic GCNs](https://arxiv.org/abs/2210.10758)<br>:star:[code](https://github.com/xinliu20/GraphCSPN_ECCV2022)
+* 其它
+  * [Attaining Class-level Forgetting in Pretrained Model using Few Samples](https://arxiv.org/abs/2210.10670)
+
+## 10月19日更新 4 篇
+* 渲染
+  * [ARAH: Animatable Volume Rendering of Articulated Human SDFs](https://arxiv.org/abs/2210.10036)<br>:star:[code](https://github.com/taconite/arah-release):house:[project](https://neuralbodies.github.io/arah/)
+* 自监督
+  * [Towards Efficient and Effective Self-Supervised Learning of Visual Representations](https://arxiv.org/abs/2210.09866)<br>:star:[code](https://github.com/val-iisc/EffSSL)
+* 3DOD
+  * [Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection](https://arxiv.org/abs/2210.09615)
+* 对抗
+  * [Scaling Adversarial Training to Large Perturbation Bounds](https://arxiv.org/abs/2210.09852)<br>:star:[code](https://github.com/val-iisc/OAAT)
+
 
 ## 10月18日更新 5 篇
 * 自动驾驶
