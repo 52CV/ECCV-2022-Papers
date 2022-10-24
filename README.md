@@ -33,31 +33,20 @@
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
 
-## 10月21日更新 2 篇
-* 检索
-  * [VTC: Improving Video-Text Retrieval with User Comments](https://arxiv.org/abs/2210.10820)<br>:star:[code](https://github.com/unitaryai/VTC):house:[project](https://unitaryai.github.io/vtc-paper/)
-* 着色
-  * [PalGAN: Image Colorization with Palette Generative Adversarial Networks](https://arxiv.org/abs/2210.11204)<br>:star:[code](https://github.com/shepnerd/PalGAN)
 
-## 10月20日更新 4 篇
-* 三维人体运动生成
-  * [PoseGPT: Quantization-based 3D Human Motion Generation and Forecasting](https://arxiv.org/abs/2210.10542)<br>:house:[project](https://europe.naverlabs.com/research/computer-vision/posegpt/)
-* 增强现实
-  * [LaMAR: Benchmarking Localization and Mapping for Augmented Reality](https://arxiv.org/abs/2210.10770)<br>:star:[code](https://github.com/microsoft/lamar-benchmark):house:[project](https://lamar.ethz.ch/)
-* 深度补全
-  * [GraphCSPN: Geometry-Aware Depth Completion via Dynamic GCNs](https://arxiv.org/abs/2210.10758)<br>:star:[code](https://github.com/xinliu20/GraphCSPN_ECCV2022)
+## 10月24日更新 5 篇
+* 人体姿势
+  * [PoseScript: 3D Human Poses from Natural Language](https://arxiv.org/abs/2210.11795)<br>:house:[project](https://europe.naverlabs.com/research/computer-vision/posescript/)
+* KD
+  * [Distilling the Undistillable: Learning from a Nasty Teacher](https://arxiv.org/abs/2210.11728)<br>:star:[code](https://github.com/surgan12/NastyAttacks)
+* 深度估计
+  * [Context-Enhanced Stereo Transformer](https://arxiv.org/abs/2210.11719)
+* 行动预测
+  * [Rethinking Learning Approaches for Long-Term Action Anticipation](https://arxiv.org/abs/2210.11566)<br>:star:[code](https://github.com/Nmegha2601/anticipatr)
 * 其它
-  * [Attaining Class-level Forgetting in Pretrained Model using Few Samples](https://arxiv.org/abs/2210.10670)
+  * [Overexposure Mask Fusion: Generalizable Reverse ISP Multi-Step Refinement](https://arxiv.org/abs/2210.11511)
 
-## 10月19日更新 4 篇
-* 渲染
-  * [ARAH: Animatable Volume Rendering of Articulated Human SDFs](https://arxiv.org/abs/2210.10036)<br>:star:[code](https://github.com/taconite/arah-release):house:[project](https://neuralbodies.github.io/arah/)
-* 自监督
-  * [Towards Efficient and Effective Self-Supervised Learning of Visual Representations](https://arxiv.org/abs/2210.09866)<br>:star:[code](https://github.com/val-iisc/EffSSL)
-* 3DOD
-  * [Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection](https://arxiv.org/abs/2210.09615)
-* 对抗
-  * [Scaling Adversarial Training to Large Perturbation Bounds](https://arxiv.org/abs/2210.09852)<br>:star:[code](https://github.com/val-iisc/OAAT)
+
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -115,6 +104,8 @@
 ## 人体动作预测
 * [ERA: Expert Retrieval and Assembly for Early Action Prediction](https://arxiv.org/abs/2207.09675)
 * [Overlooked Poses Actually Make Sense: Distilling Privileged Knowledge for Human Motion Prediction](https://arxiv.org/abs/2208.01302)
+* 行动预测
+  * [Rethinking Learning Approaches for Long-Term Action Anticipation](https://arxiv.org/abs/2210.11566)<br>:star:[code](https://github.com/Nmegha2601/anticipatr)
 * 运动估计
   * [PREF: Predictability Regularized Neural Motion Fields](https://arxiv.org/abs/2209.10691)<br>:open_mouth:oral
 
@@ -271,6 +262,7 @@
   * [Efficient One Pass Self-distillation with Zipf's Label Smoothing](https://arxiv.org/abs/2207.12980)<br>:star:[code](https://github.com/megvii-research/zipfls)
   * [MixSKD: Self-Knowledge Distillation from Mixup for Image Recognition](https://arxiv.org/abs/2208.05768)<br>:star:[code](https://github.com/winycg/Self-KD-Lib)
   * [Switchable Online Knowledge Distillation](https://arxiv.org/abs/2209.04996)<br>:star:[code](https://github.com/hfutqian/SwitOKD)
+  * [Distilling the Undistillable: Learning from a Nasty Teacher](https://arxiv.org/abs/2210.11728)<br>:star:[code](https://github.com/surgan12/NastyAttacks)
 * 量化
   * [Synergistic Self-supervised and Quantization Learning](https://arxiv.org/abs/2207.05432)<br>:open_mouth:oral:star:[code](https://github.com/megvii-research/SSQL-ECCV2022)
   * [PalQuant: Accelerating High-precision Networks on Low-precision Accelerators](https://arxiv.org/abs/2208.01944)<br>:star:[code](https://github.com/huqinghao/PalQuant)
@@ -278,6 +270,7 @@
   * [FairGRAPE: Fairness-aware GRAdient Pruning mEthod for Face Attribute Classification](https://arxiv.org/abs/2207.10888)<br>:star:[code](https://github.com/Bernardo1998/FairGRAPE)
   * [Trainability Preserving Neural Structured Pruning](https://arxiv.org/abs/2207.12534)<br>:star:[code](https://github.com/mingsun-tse/TPP)
   * [Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps](https://arxiv.org/abs/2209.02869)<br>:star:[code](https://github.com/Alii-Ganjj/InterpretationsSteeredPruning)
+
 
 ## Point Cloud(点云)
 * [Few 'Zero Level Set'-Shot Learning of Shape Signed Distance Functions in Feature Space](https://arxiv.org/abs/2207.04161)
@@ -701,6 +694,7 @@
   * [DH-AUG: DH Forward Kinematics Model Driven Augmentation for 3D Human Pose Estimation](https://arxiv.org/abs/2207.09303)<br>:star:[code](https://github.com/hlz0606/DH-AUG-DH-Forward-Kinematics-Model-Driven-Augmentation-for-3D-Human-Pose-Estimation)
   * [Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection](https://arxiv.org/abs/2207.10955)
   * [Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation](https://arxiv.org/abs/2208.00090)
+  * [PoseScript: 3D Human Poses from Natural Language](https://arxiv.org/abs/2210.11795)<br>:house:[project](https://europe.naverlabs.com/research/computer-vision/posescript/)
 * 三维人体重建
   * [3D Clothed Human Reconstruction in the Wild](https://arxiv.org/abs/2207.10053)<br>:star:[code](https://github.com/hygenie1228/ClothWild_RELEASE)
   * [UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation](https://arxiv.org/abs/2207.09835)<br>:star:[code](https://github.com/ShenhanQian/UNIF)
@@ -762,6 +756,7 @@
   * [3D-PL: Domain Adaptive Depth Estimation with 3D-aware Pseudo-Labeling](https://arxiv.org/abs/2209.09231)<br>:star:[code](https://github.com/ccc870206/3D-PL)
   * [DELTAR: Depth Estimation from a Light-weight ToF Sensor and RGB Image](https://arxiv.org/abs/2209.13362)<br>:star:[code](https://github.com/zju3dv/deltar):house:[project](https://zju3dv.github.io/deltar/)
   * [FloatingFusion: Depth from ToF and Image-stabilized Stereo Cameras](https://arxiv.org/abs/2210.02785)
+  * [Context-Enhanced Stereo Transformer](https://arxiv.org/abs/2210.11719)
 * 深度补全
   * [GraphCSPN: Geometry-Aware Depth Completion via Dynamic GCNs](https://arxiv.org/abs/2210.10758)<br>:star:[code](https://github.com/xinliu20/GraphCSPN_ECCV2022)
 * 三维视觉
@@ -1029,6 +1024,7 @@
 * [Fast-ParC: Position Aware Global Kernel for ConvNets and ViTs](https://arxiv.org/abs/2210.04020)
 * [Improving the Reliability for Confidence Estimation](https://arxiv.org/abs/2210.06776)
 * [Attaining Class-level Forgetting in Pretrained Model using Few Samples](https://arxiv.org/abs/2210.10670)
+* [Overexposure Mask Fusion: Generalizable Reverse ISP Multi-Step Refinement](https://arxiv.org/abs/2210.11511)
 
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
