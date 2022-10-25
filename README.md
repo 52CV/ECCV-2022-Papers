@@ -33,6 +33,15 @@
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
 
+## 10月25日更新 4 篇
+* 点云
+  * [PseudoAugment: Learning to Use Unlabeled Data for Data Augmentation in Point Clouds](https://arxiv.org/abs/2210.13428)
+* 假脸检测
+  * [UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection](https://arxiv.org/abs/2210.12752)<br>:open_mouth:oral
+* 重识别
+  * [SC-wLS: Towards Interpretable Feed-forward Camera Re-localization](https://arxiv.org/abs/2210.12748)<br>:star:[code](https://github.com/XinWu98/SC-wLS)
+* 其它
+  * [Photo-realistic Neural Domain Randomization](https://arxiv.org/abs/2210.12682)
 
 ## 10月24日更新 5 篇
 * 人体姿势
@@ -86,7 +95,8 @@
   * [Totems: Physical Objects for Verifying Visual Integrity](https://arxiv.org/abs/2209.13032)<br>:house:[project](https://jingweim.github.io/totems/)
 * 文件图像矫正
   * [Geometric Representation Learning for Document Image Rectification](https://arxiv.org/abs/2210.08161)<br>:star:[code](https://github.com/fh2019ustc/DocGeoNet)
-
+* 重识别
+  * [SC-wLS: Towards Interpretable Feed-forward Camera Re-localization](https://arxiv.org/abs/2210.12748)<br>:star:[code](https://github.com/XinWu98/SC-wLS)
 
 ## 光学、几何、光场成像
 * 相机姿势
@@ -277,6 +287,7 @@
 * [Dynamic 3D Scene Analysis by Point Cloud Accumulation](https://arxiv.org/abs/2207.12394)<br>:star:[code](https://github.com/prs-eth/PCAccumulation):house:[project](https://shengyuh.github.io/eccv22/index.html)
 * [PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees](https://arxiv.org/abs/2208.05962)<br>:star:[code](https://github.com/immortalCO/PointTree)
 * [Learning to Generate Realistic LiDAR Point Clouds](https://arxiv.org/abs/2209.03954)<br>:house:[project](https://www.zyrianov.org/lidargen/)
+* [PseudoAugment: Learning to Use Unlabeled Data for Data Augmentation in Point Clouds](https://arxiv.org/abs/2210.13428)
 * 点云定位
   * [CPO: Change Robust Panorama to Point Cloud Localization](https://arxiv.org/abs/2207.05317)
 * 点云分割
@@ -463,7 +474,10 @@
   * [Towards Unbiased Label Distribution Learning for Facial Pose Estimation Using Anisotropic Spherical Gaussian](https://arxiv.org/abs/2208.09122)
 * 人脸交换
   * [StyleSwap: Style-Based Generator Empowers Robust Face Swapping](https://arxiv.org/abs/2209.13514)<br>:star:[code](https://github.com/Seanseattle/StyleSwap):house:[project](https://hangz-nju-cuhk.github.io/projects/StyleSwap)
+* 假脸检测
+  * [UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection](https://arxiv.org/abs/2210.12752)<br>:open_mouth:oral
 
+  
 <a name="19"/>
 
 ## 19.Image Synthesis/Generation(图像合成)
@@ -1025,6 +1039,8 @@
 * [Improving the Reliability for Confidence Estimation](https://arxiv.org/abs/2210.06776)
 * [Attaining Class-level Forgetting in Pretrained Model using Few Samples](https://arxiv.org/abs/2210.10670)
 * [Overexposure Mask Fusion: Generalizable Reverse ISP Multi-Step Refinement](https://arxiv.org/abs/2210.11511)
+* [Photo-realistic Neural Domain Randomization](https://arxiv.org/abs/2210.12682)
+
 
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
