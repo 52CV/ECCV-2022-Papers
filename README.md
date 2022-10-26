@@ -32,32 +32,12 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-
-## 10月25日更新 5 篇
-* 检索
-  * [Reliability-Aware Prediction via Uncertainty Learning for Person Image Retrieval](https://arxiv.org/abs/2210.13440)<br>:star:[code](https://github.com/dcp15/UAL)
-* 点云
-  * [PseudoAugment: Learning to Use Unlabeled Data for Data Augmentation in Point Clouds](https://arxiv.org/abs/2210.13428)
-* 假脸检测
-  * [UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection](https://arxiv.org/abs/2210.12752)<br>:open_mouth:oral
-* 重识别
-  * [SC-wLS: Towards Interpretable Feed-forward Camera Re-localization](https://arxiv.org/abs/2210.12748)<br>:star:[code](https://github.com/XinWu98/SC-wLS)
-* 其它
-  * [Photo-realistic Neural Domain Randomization](https://arxiv.org/abs/2210.12682)
-
-## 10月24日更新 5 篇
-* 人体姿势
-  * [PoseScript: 3D Human Poses from Natural Language](https://arxiv.org/abs/2210.11795)<br>:house:[project](https://europe.naverlabs.com/research/computer-vision/posescript/)
-* KD
-  * [Distilling the Undistillable: Learning from a Nasty Teacher](https://arxiv.org/abs/2210.11728)<br>:star:[code](https://github.com/surgan12/NastyAttacks)
-* 深度估计
-  * [Context-Enhanced Stereo Transformer](https://arxiv.org/abs/2210.11719)
-* 行动预测
-  * [Rethinking Learning Approaches for Long-Term Action Anticipation](https://arxiv.org/abs/2210.11566)<br>:star:[code](https://github.com/Nmegha2601/anticipatr)
-* 其它
-  * [Overexposure Mask Fusion: Generalizable Reverse ISP Multi-Step Refinement](https://arxiv.org/abs/2210.11511)
-
-
+## 10月26日更新 3 篇
+* 全景分割
+  * [Pointly-Supervised Panoptic Segmentation](https://arxiv.org/abs/2210.13950)<br>:star:[code](https://github.com/BraveGroup/PSPS)
+* 三维人体
+  * [SUPR: A Sparse Unified Part-Based Human Representation](https://arxiv.org/abs/2210.13861)<br>:star:[code](https://github.com/ahmedosman/SUPR):house:[project](https://supr.is.tue.mpg.de/)
+  * [Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement](https://arxiv.org/abs/2210.13529)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -711,11 +691,13 @@
   * [Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection](https://arxiv.org/abs/2207.10955)
   * [Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation](https://arxiv.org/abs/2208.00090)
   * [PoseScript: 3D Human Poses from Natural Language](https://arxiv.org/abs/2210.11795)<br>:house:[project](https://europe.naverlabs.com/research/computer-vision/posescript/)
+  * [Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement](https://arxiv.org/abs/2210.13529)
 * 三维人体重建
   * [3D Clothed Human Reconstruction in the Wild](https://arxiv.org/abs/2207.10053)<br>:star:[code](https://github.com/hygenie1228/ClothWild_RELEASE)
   * [UNIF: United Neural Implicit Functions for Clothed Human Reconstruction and Animation](https://arxiv.org/abs/2207.09835)<br>:star:[code](https://github.com/ShenhanQian/UNIF)
   * [The One Where They Reconstructed 3D Humans and Environments in TV Shows](https://arxiv.org/abs/2207.14279)<br>:star:[code](https://github.com/ethanweber/sitcoms3D):house:[project](http://ethanweber.me/sitcoms3D/)
   * [Neural Capture of Animatable 3D Human from Monocular Video](https://arxiv.org/abs/2208.08728)  
+  * [SUPR: A Sparse Unified Part-Based Human Representation](https://arxiv.org/abs/2210.13861)<br>:star:[code](https://github.com/ahmedosman/SUPR):house:[project](https://supr.is.tue.mpg.de/)
 * 三维交互式手部姿势估计
   * [3D Interacting Hand Pose Estimation by Hand De-occlusion and Removal](https://arxiv.org/abs/2207.11061)<br>:star:[code](https://github.com/MengHao666/HDR)
   * [S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning](https://arxiv.org/abs/2208.00874)<br>:star:[code](https://github.com/eldentse/s2contact):house:[project](https://eldentse.github.io/s2contact/)
@@ -744,8 +726,8 @@
 * 人体网格恢复
   * [Self-supervised Human Mesh Recovery with Cross-Representation Alignment](https://arxiv.org/abs/2209.04596)
 * 手部网格估计
-  * [Identity-Aware Hand Mesh Estimation and Personalization from RGB Images](https://arxiv.org/abs/2209.10840)<br>:star:[code](https://github.com/deyingk/PersonalizedHandMeshEstimation)
-
+  * [Identity-Aware Hand Mesh Estimation and Personalization from RGB Images](https://arxiv.org/abs/2209.10840)<br>:star:[code](https://github.com/deyingk/PersonalizedHandMeshEstimation) 
+  
 <a name="8"/>
 
 ## 8.3D(三维视觉)
@@ -975,6 +957,8 @@
   * [Box-supervised Instance Segmentation with Level Set Evolution](https://arxiv.org/abs/2207.09055)<br>:star:[code](https://github.com/LiWentomng/boxlevelset)
   * [Long-tailed Instance Segmentation using Gumbel Optimized Loss](https://arxiv.org/abs/2207.10936)<br>:star:[code](https://github.com/kostas1515/GOL)
   * [Active Pointly-Supervised Instance Segmentation](https://arxiv.org/abs/2207.11493)
+* 全景分割
+  * [Pointly-Supervised Panoptic Segmentation](https://arxiv.org/abs/2210.13950)<br>:star:[code](https://github.com/BraveGroup/PSPS)
 * 小样本分割
   * [Dense Cross-Query-and-Support Attention Weighted Mask Aggregation for Few-Shot Segmentation](https://arxiv.org/abs/2207.08549)<br>:star:[code](https://github.com/pawn-sxy/DCAMA)
   * [Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation](https://arxiv.org/abs/2207.10866)<br>:star:[code](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer):house:[project](https://seokju-cho.github.io/VAT/)
