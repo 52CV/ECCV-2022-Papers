@@ -1,3 +1,30 @@
+
+
+## 10月25日更新 5 篇
+* 检索
+  * [Reliability-Aware Prediction via Uncertainty Learning for Person Image Retrieval](https://arxiv.org/abs/2210.13440)<br>:star:[code](https://github.com/dcp15/UAL)
+* 点云
+  * [PseudoAugment: Learning to Use Unlabeled Data for Data Augmentation in Point Clouds](https://arxiv.org/abs/2210.13428)
+* 假脸检测
+  * [UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection](https://arxiv.org/abs/2210.12752)<br>:open_mouth:oral
+* 重识别
+  * [SC-wLS: Towards Interpretable Feed-forward Camera Re-localization](https://arxiv.org/abs/2210.12748)<br>:star:[code](https://github.com/XinWu98/SC-wLS)
+* 其它
+  * [Photo-realistic Neural Domain Randomization](https://arxiv.org/abs/2210.12682)
+
+## 10月24日更新 5 篇
+* 人体姿势
+  * [PoseScript: 3D Human Poses from Natural Language](https://arxiv.org/abs/2210.11795)<br>:house:[project](https://europe.naverlabs.com/research/computer-vision/posescript/)
+* KD
+  * [Distilling the Undistillable: Learning from a Nasty Teacher](https://arxiv.org/abs/2210.11728)<br>:star:[code](https://github.com/surgan12/NastyAttacks)
+* 深度估计
+  * [Context-Enhanced Stereo Transformer](https://arxiv.org/abs/2210.11719)
+* 行动预测
+  * [Rethinking Learning Approaches for Long-Term Action Anticipation](https://arxiv.org/abs/2210.11566)<br>:star:[code](https://github.com/Nmegha2601/anticipatr)
+* 其它
+  * [Overexposure Mask Fusion: Generalizable Reverse ISP Multi-Step Refinement](https://arxiv.org/abs/2210.11511)
+
+
 ### —————————————————————————————————————————————
 ## 10月21日更新 2 篇
 * 检索
