@@ -1,4 +1,16 @@
 
+## 10月28日更新 2 篇
+* VLN
+  * [Bridging the visual gap in VLN via semantically richer instructions](https://arxiv.org/abs/2210.15565)
+* 联合学习
+  * [Addressing Heterogeneity in Federated Learning via Distributional Transformation](https://arxiv.org/abs/2210.15025)<br>:star:[code](https://github.com/hyhmia/DisTrans)
+
+## 10月26日更新 3 篇
+* 全景分割
+  * [Pointly-Supervised Panoptic Segmentation](https://arxiv.org/abs/2210.13950)<br>:star:[code](https://github.com/BraveGroup/PSPS)
+* 三维人体
+  * [SUPR: A Sparse Unified Part-Based Human Representation](https://arxiv.org/abs/2210.13861)<br>:star:[code](https://github.com/ahmedosman/SUPR):house:[project](https://supr.is.tue.mpg.de/)
+  * [Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement](https://arxiv.org/abs/2210.13529)
 
 ## 10月25日更新 5 篇
 * 检索
