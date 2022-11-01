@@ -32,6 +32,15 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
+
+## 11月1日更新 3 篇
+* 目标检测
+  * [Time-rEversed diffusioN tEnsor Transformer: A new TENET of Few-Shot Object Detection](https://arxiv.org/abs/2210.16897)<br>:star:[code](https://github.com/ZS123-lang/TENET)
+* 语义分割
+  * [Max Pooling with Vision Transformers reconciles class and shape in weakly supervised semantic segmentation](https://arxiv.org/abs/2210.17400)<br>:star:[code](https://github.com/deepplants/ViT-PCM)
+* VL
+  * [Generative Negative Text Replay for Continual Vision-Language Pretraining](https://arxiv.org/abs/2210.17322)
+
 ## 10月28日更新 2 篇
 * VLN
   * [Bridging the visual gap in VLN via semantically richer instructions](https://arxiv.org/abs/2210.15565)
