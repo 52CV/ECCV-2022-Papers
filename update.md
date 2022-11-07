@@ -1,3 +1,11 @@
+### —————————————————————————————————————————————
+## 11月1日更新 3 篇
+* 目标检测
+  * [Time-rEversed diffusioN tEnsor Transformer: A new TENET of Few-Shot Object Detection](https://arxiv.org/abs/2210.16897)<br>:star:[code](https://github.com/ZS123-lang/TENET)
+* 语义分割
+  * [Max Pooling with Vision Transformers reconciles class and shape in weakly supervised semantic segmentation](https://arxiv.org/abs/2210.17400)<br>:star:[code](https://github.com/deepplants/ViT-PCM)
+* VL
+  * [Generative Negative Text Replay for Continual Vision-Language Pretraining](https://arxiv.org/abs/2210.17322)
 
 ## 10月28日更新 2 篇
 * VLN
