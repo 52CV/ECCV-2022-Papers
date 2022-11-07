@@ -21,7 +21,7 @@
 ↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
 ↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
-## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 10 月 21 日，已整理 465 篇。
+## ❣❣❣另外打包下载ECCV 2022论文，可在【我爱计算机视觉】微信公众号后台回复“paper”。截止 11 月 1 日，已整理 483 篇。
 
 |:cat:|:dog:|:tiger:|:wolf:|
 |------|------|------|------|
@@ -32,6 +32,11 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
+## 11月7日更新 2 篇
+* 剪枝
+  * [Soft Masking for Cost-Constrained Channel Pruning](https://arxiv.org/abs/2211.02206)
+* 跟踪
+  * [Large Scale Real-World Multi-Person Tracking](https://arxiv.org/abs/2211.02175)<br>:house:[project](https://amazon-science.github.io/tracking-dataset/personpath22.html)
 
 ## 11月1日更新 3 篇
 * 目标检测
