@@ -32,32 +32,15 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
+## 11月8日更新 1 篇
+* 对比学习
+  * [Contrastive Learning for Diverse Disentangled Foreground Generation](https://arxiv.org/abs/2211.02707)
+
 ## 11月7日更新 2 篇
 * 剪枝
   * [Soft Masking for Cost-Constrained Channel Pruning](https://arxiv.org/abs/2211.02206)
 * 跟踪
   * [Large Scale Real-World Multi-Person Tracking](https://arxiv.org/abs/2211.02175)<br>:house:[project](https://amazon-science.github.io/tracking-dataset/personpath22.html)
-
-## 11月1日更新 3 篇
-* 目标检测
-  * [Time-rEversed diffusioN tEnsor Transformer: A new TENET of Few-Shot Object Detection](https://arxiv.org/abs/2210.16897)<br>:star:[code](https://github.com/ZS123-lang/TENET)
-* 语义分割
-  * [Max Pooling with Vision Transformers reconciles class and shape in weakly supervised semantic segmentation](https://arxiv.org/abs/2210.17400)<br>:star:[code](https://github.com/deepplants/ViT-PCM)
-* VL
-  * [Generative Negative Text Replay for Continual Vision-Language Pretraining](https://arxiv.org/abs/2210.17322)
-
-## 10月28日更新 2 篇
-* VLN
-  * [Bridging the visual gap in VLN via semantically richer instructions](https://arxiv.org/abs/2210.15565)
-* 联合学习
-  * [Addressing Heterogeneity in Federated Learning via Distributional Transformation](https://arxiv.org/abs/2210.15025)<br>:star:[code](https://github.com/hyhmia/DisTrans)
-
-## 10月26日更新 3 篇
-* 全景分割
-  * [Pointly-Supervised Panoptic Segmentation](https://arxiv.org/abs/2210.13950)<br>:star:[code](https://github.com/BraveGroup/PSPS)
-* 三维人体
-  * [SUPR: A Sparse Unified Part-Based Human Representation](https://arxiv.org/abs/2210.13861)<br>:star:[code](https://github.com/ahmedosman/SUPR):house:[project](https://supr.is.tue.mpg.de/)
-  * [Multi-Person 3D Pose and Shape Estimation via Inverse Kinematics and Refinement](https://arxiv.org/abs/2210.13529)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -247,6 +230,7 @@
 * [Network Binarization via Contrastive Learning](https://arxiv.org/abs/2207.02970)
 * [Adversarial Contrastive Learning via Asymmetric InfoNCE](https://arxiv.org/abs/2207.08374)<br>:star:[code](https://github.com/yqy2001/A-InfoNCE)
 * [Fast-MoCo: Boost Momentum-based Contrastive Learning with Combinatorial Patches](https://arxiv.org/abs/2207.08220)<br>:star:[code](https://github.com/orashi/Fast-MoCo)
+* [Contrastive Learning for Diverse Disentangled Foreground Generation](https://arxiv.org/abs/2211.02707)
 
 ## Open-set Recognition(开集识别)
 * [DenseHybrid: Hybrid Anomaly Detection for Dense Open-set Recognition](https://arxiv.org/abs/2207.02606)
