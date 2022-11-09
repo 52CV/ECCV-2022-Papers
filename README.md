@@ -32,6 +32,11 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
+
+## 11月9日更新 1 篇
+* 其它
+  * [Editable indoor lighting estimation](https://arxiv.org/abs/2211.03928)<br>:house:[project](https://lvsn.github.io/EditableIndoorLight/)
+  
 ## 11月8日更新 1 篇
 * 对比学习
   * [Contrastive Learning for Diverse Disentangled Foreground Generation](https://arxiv.org/abs/2211.02707)
@@ -1038,7 +1043,7 @@
 * [Attaining Class-level Forgetting in Pretrained Model using Few Samples](https://arxiv.org/abs/2210.10670)
 * [Overexposure Mask Fusion: Generalizable Reverse ISP Multi-Step Refinement](https://arxiv.org/abs/2210.11511)
 * [Photo-realistic Neural Domain Randomization](https://arxiv.org/abs/2210.12682)
-
+* [Editable indoor lighting estimation](https://arxiv.org/abs/2211.03928)<br>:house:[project](https://lvsn.github.io/EditableIndoorLight/)
 
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
