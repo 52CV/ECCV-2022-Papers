@@ -32,6 +32,9 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
+## 11月10日更新 1 篇
+* 场景文本识别
+  * [Pure Transformer with Integrated Experts for Scene Text Recognition](https://arxiv.org/abs/2211.04963)
 
 ## 11月9日更新 1 篇
 * 其它
@@ -419,6 +422,7 @@
   * [Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://arxiv.org/abs/2208.00438)<br>:open_mouth:oral:star:[code](https://github.com/xdxie/WordArt)
   * [GLASS: Global to Local Attention for Scene-Text Spotting](https://arxiv.org/abs/2208.03364)<br>:star:[code](https://github.com/amazon-research/glass-text-spotting)
   * [Multi-Granularity Prediction for Scene Text Recognition](https://arxiv.org/abs/2209.03592)
+  * [Pure Transformer with Integrated Experts for Scene Text Recognition](https://arxiv.org/abs/2211.04963)
 * 视频文本检测
   * [Real-time End-to-End Video Text Spotter with Contrastive Representation Learning](https://arxiv.org/abs/2207.08417)<br>:star:[code](https://github.com/weijiawu/CoText)
 
