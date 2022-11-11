@@ -32,6 +32,10 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
+## 11月11日更新 1 篇
+* OD
+  * [Plausibility Verification For 3D Object Detectors Using Energy-Based Optimization](https://arxiv.org/abs/2211.05233)
+
 ## 11月10日更新 1 篇
 * 场景文本识别
   * [Pure Transformer with Integrated Experts for Scene Text Recognition](https://arxiv.org/abs/2211.04963)
@@ -851,6 +855,7 @@
   * [Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction](https://arxiv.org/abs/2210.07424)<br>:star:[code](https://github.com/naver/garnet)
   * [CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection](https://arxiv.org/abs/2210.09267)
   * [Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection](https://arxiv.org/abs/2210.09615)
+  * [Plausibility Verification For 3D Object Detectors Using Energy-Based Optimization](https://arxiv.org/abs/2211.05233)
 * 半监督目标检测
   * [Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection](https://arxiv.org/abs/2207.02541)<br>:star:[code](https://github.com/Megvii-BaseDetection/DenseTeacher)
   * [Open-Set Semi-Supervised Object Detection](https://arxiv.org/abs/2208.13722)<br>:star:[code](https://github.com/facebookresearch/OSSOD):house:[project](https://ycliu93.github.io/projects/ossod.html)
