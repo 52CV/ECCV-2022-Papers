@@ -32,31 +32,18 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
+## 11月16日更新 3 篇
+* 人体重建
+  * [IntegratedPIFu: Integrated Pixel Aligned Implicit Function for Single-view Human Reconstruction](https://arxiv.org/abs/2211.07955)<br>:star:[code](https://github.com/kcyt/IntegratedPIFu)
+* 点云
+  * [SPE-Net: Boosting Point Cloud Analysis via Rotation Robustness Enhancement](https://arxiv.org/abs/2211.08250)<br>:star:[code](https://github.com/ZhaofanQiu/SPE-Net)
+* 视频
+  * [Dynamic Temporal Filtering in Video Models](https://arxiv.org/abs/2211.08252)<br>:star:[code](https://github.com/FuchenUSTC/DTF)
+
 ## 11月15日更新 1 篇
 * 目标检测
   * [Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection](https://arxiv.org/abs/2211.07171)<br>:star:[code](https://github.com/Cc-Hy/CMKD)
 
-## 11月11日更新 1 篇
-* OD
-  * [Plausibility Verification For 3D Object Detectors Using Energy-Based Optimization](https://arxiv.org/abs/2211.05233)
-
-## 11月10日更新 1 篇
-* 场景文本识别
-  * [Pure Transformer with Integrated Experts for Scene Text Recognition](https://arxiv.org/abs/2211.04963)
-
-## 11月9日更新 1 篇
-* 其它
-  * [Editable indoor lighting estimation](https://arxiv.org/abs/2211.03928)<br>:house:[project](https://lvsn.github.io/EditableIndoorLight/)
-  
-## 11月8日更新 1 篇
-* 对比学习
-  * [Contrastive Learning for Diverse Disentangled Foreground Generation](https://arxiv.org/abs/2211.02707)
-
-## 11月7日更新 2 篇
-* 剪枝
-  * [Soft Masking for Cost-Constrained Channel Pruning](https://arxiv.org/abs/2211.02206)
-* 跟踪
-  * [Large Scale Real-World Multi-Person Tracking](https://arxiv.org/abs/2211.02175)<br>:house:[project](https://amazon-science.github.io/tracking-dataset/personpath22.html)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -291,6 +278,7 @@
 * [PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees](https://arxiv.org/abs/2208.05962)<br>:star:[code](https://github.com/immortalCO/PointTree)
 * [Learning to Generate Realistic LiDAR Point Clouds](https://arxiv.org/abs/2209.03954)<br>:house:[project](https://www.zyrianov.org/lidargen/)
 * [PseudoAugment: Learning to Use Unlabeled Data for Data Augmentation in Point Clouds](https://arxiv.org/abs/2210.13428)
+* [SPE-Net: Boosting Point Cloud Analysis via Rotation Robustness Enhancement](https://arxiv.org/abs/2211.08250)<br>:star:[code](https://github.com/ZhaofanQiu/SPE-Net)
 * 点云定位
   * [CPO: Change Robust Panorama to Point Cloud Localization](https://arxiv.org/abs/2207.05317)
 * 点云分割
@@ -609,10 +597,11 @@
   * [Action Quality Assessment with Temporal Parsing Transformer](https://arxiv.org/abs/2207.09270)
 * 时序动作分割
   * [Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation](https://arxiv.org/abs/2209.00638)
-
+ 
 <a name="11"/>
 
 ## 11.Video  
+* [Dynamic Temporal Filtering in Video Models](https://arxiv.org/abs/2211.08252)<br>:star:[code](https://github.com/FuchenUSTC/DTF)
 * 视频-视频合成
   * [Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis](https://arxiv.org/abs/2207.05049)<br>:star:[code](https://github.com/fast-vid2vid/fast-vid2vid):house:[project](https://fast-vid2vid.github.io/)
 * 视频帧插值
@@ -722,6 +711,7 @@
   * [The One Where They Reconstructed 3D Humans and Environments in TV Shows](https://arxiv.org/abs/2207.14279)<br>:star:[code](https://github.com/ethanweber/sitcoms3D):house:[project](http://ethanweber.me/sitcoms3D/)
   * [Neural Capture of Animatable 3D Human from Monocular Video](https://arxiv.org/abs/2208.08728)  
   * [SUPR: A Sparse Unified Part-Based Human Representation](https://arxiv.org/abs/2210.13861)<br>:star:[code](https://github.com/ahmedosman/SUPR):house:[project](https://supr.is.tue.mpg.de/)
+  * [IntegratedPIFu: Integrated Pixel Aligned Implicit Function for Single-view Human Reconstruction](https://arxiv.org/abs/2211.07955)<br>:star:[code](https://github.com/kcyt/IntegratedPIFu)
 * 三维交互式手部姿势估计
   * [3D Interacting Hand Pose Estimation by Hand De-occlusion and Removal](https://arxiv.org/abs/2207.11061)<br>:star:[code](https://github.com/MengHao666/HDR)
   * [S2Contact: Graph-based Network for 3D Hand-Object Contact Estimation with Semi-Supervised Learning](https://arxiv.org/abs/2208.00874)<br>:star:[code](https://github.com/eldentse/s2contact):house:[project](https://eldentse.github.io/s2contact/)
