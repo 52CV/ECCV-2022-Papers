@@ -1,3 +1,42 @@
+## 11月17日更新 1 篇
+* 分割
+  * [Interclass Prototype Relation for Few-Shot Segmentation](https://arxiv.org/abs/2211.08681)
+
+## 11月16日更新 3 篇
+* 人体重建
+  * [IntegratedPIFu: Integrated Pixel Aligned Implicit Function for Single-view Human Reconstruction](https://arxiv.org/abs/2211.07955)<br>:star:[code](https://github.com/kcyt/IntegratedPIFu)
+* 点云
+  * [SPE-Net: Boosting Point Cloud Analysis via Rotation Robustness Enhancement](https://arxiv.org/abs/2211.08250)<br>:star:[code](https://github.com/ZhaofanQiu/SPE-Net)
+* 视频
+  * [Dynamic Temporal Filtering in Video Models](https://arxiv.org/abs/2211.08252)<br>:star:[code](https://github.com/FuchenUSTC/DTF)
+
+## 11月15日更新 1 篇
+* 目标检测
+  * [Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection](https://arxiv.org/abs/2211.07171)<br>:star:[code](https://github.com/Cc-Hy/CMKD)
+
+
+## 11月11日更新 1 篇
+* OD
+  * [Plausibility Verification For 3D Object Detectors Using Energy-Based Optimization](https://arxiv.org/abs/2211.05233)
+
+## 11月10日更新 1 篇
+* 场景文本识别
+  * [Pure Transformer with Integrated Experts for Scene Text Recognition](https://arxiv.org/abs/2211.04963)
+
+## 11月9日更新 1 篇
+* 其它
+  * [Editable indoor lighting estimation](https://arxiv.org/abs/2211.03928)<br>:house:[project](https://lvsn.github.io/EditableIndoorLight/)
+  
+## 11月8日更新 1 篇
+* 对比学习
+  * [Contrastive Learning for Diverse Disentangled Foreground Generation](https://arxiv.org/abs/2211.02707)
+
+## 11月7日更新 2 篇
+* 剪枝
+  * [Soft Masking for Cost-Constrained Channel Pruning](https://arxiv.org/abs/2211.02206)
+* 跟踪
+  * [Large Scale Real-World Multi-Person Tracking](https://arxiv.org/abs/2211.02175)<br>:house:[project](https://amazon-science.github.io/tracking-dataset/personpath22.html)
+
 ### —————————————————————————————————————————————
 ## 11月1日更新 3 篇
 * 目标检测
