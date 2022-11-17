@@ -32,7 +32,7 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 11月15日更新 1 篇
+## 11月17日更新 1 篇
 * 分割
   * [Interclass Prototype Relation for Few-Shot Segmentation](https://arxiv.org/abs/2211.08681)
 
