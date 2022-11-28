@@ -32,21 +32,9 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 11月17日更新 1 篇
-* 分割
-  * [Interclass Prototype Relation for Few-Shot Segmentation](https://arxiv.org/abs/2211.08681)
-
-## 11月16日更新 3 篇
-* 人体重建
-  * [IntegratedPIFu: Integrated Pixel Aligned Implicit Function for Single-view Human Reconstruction](https://arxiv.org/abs/2211.07955)<br>:star:[code](https://github.com/kcyt/IntegratedPIFu)
-* 点云
-  * [SPE-Net: Boosting Point Cloud Analysis via Rotation Robustness Enhancement](https://arxiv.org/abs/2211.08250)<br>:star:[code](https://github.com/ZhaofanQiu/SPE-Net)
-* 视频
-  * [Dynamic Temporal Filtering in Video Models](https://arxiv.org/abs/2211.08252)<br>:star:[code](https://github.com/FuchenUSTC/DTF)
-
-## 11月15日更新 1 篇
-* 目标检测
-  * [Cross-Modality Knowledge Distillation Network for Monocular 3D Object Detection](https://arxiv.org/abs/2211.07171)<br>:star:[code](https://github.com/Cc-Hy/CMKD)
+## 11月28日更新 1 篇
+* 域泛化
+  * [Cross-Domain Ensemble Distillation for Domain Generalization](https://arxiv.org/abs/2211.14058)
 
 
 ### —————————————————————————————————————————————
@@ -189,6 +177,7 @@
   * [Grounding Visual Representations with Texts for Domain Generalization](https://arxiv.org/abs/2207.10285)<br>:star:[code](https://github.com/mswzeus/GVRT)
   * [Improving Test-Time Adaptation via Shift-agnostic Weight Regularization and Nearest Source Prototypes](https://arxiv.org/abs/2207.11707)
   * [Attention Diversification for Domain Generalization](https://arxiv.org/abs/2210.04206)<br>:star:[code](https://github.com/hikvision-research/DomainGeneralization)
+  * [Cross-Domain Ensemble Distillation for Domain Generalization](https://arxiv.org/abs/2211.14058)
 
 ## Semantic Correspondence(语义对应)
 * [Demystifying Unsupervised Semantic Correspondence Estimation](https://arxiv.org/abs/2207.05054)<br>:star:[code](https://github.com/MehmetAygun/demistfy_correspondence):house:[project](https://mehmetaygun.github.io/demistfy.html)
