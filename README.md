@@ -32,9 +32,7 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 12月5日整理 28+36 篇
-
-
+## 12月5日整理 28+36+32 篇
 * 物体姿态估计
   * [Fusing Local Similarities for Retrieval-based 3D Orientation Estimation of Unseen Objects](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610106.pdf)<br>:star:[code](https://github.com/sailor-z/Unseen_Object_Pose):house:[project](https://sailor-z.github.io/projects/Unseen_Object_Pose.html)
 * 6D
@@ -133,6 +131,55 @@
   * [Intrinsic Neural Fields: Learning Functions on Manifolds](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620609.pdf)
   * [A Level Set Theory for Neural Implicit Evolution under Explicit Flows](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620699.pdf)
 
+
+* 渲染
+  * [Conditional-Flow NeRF: Accurate 3D Modelling with Reliable Uncertainty Quantification](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630531.pdf)
+* 三维形状
+  * [The Shape Part Slot Machine: Contact-Based Reasoning for Generating 3D Shapes from Parts](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630599.pdf)
+* 时序动作检测
+  * [Proposal-Free Temporal Action Detection via Global Segmentation Mask Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630632.pdf)<br>:star:[code](https://github.com/sauradip/TAGS)
+* 时序动作定位
+  * [Dual-Evidential Learning for Weakly-Supervised Temporal Action Localization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640190.pdf)<br>:star:[code](github.com/MengyuanChen21/ECCV2022-DELU)
+  * [ActionFormer: Localizing Moments of Actions with Transformers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640485.pdf)<br>:star:[code](https://github.com/happyharrycn/actionformer_release)
+* 时序动作分割
+  * [A Generalized & Robust Framework For Timestamp Supervision in Temporal Action Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640276.pdf)
+* 动作识别
+  * [CycDA: Unsupervised Cycle Domain Adaptation to Learn from Image to Video](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630684.pdf)
+  * [Uncertainty-Based Spatial-Temporal Attention for Online Action Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640068.pdf)
+  * [Rethinking Zero-Shot Action Recognition: Learning from Latent Atomic Actions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640102.pdf)
+  * [Is Appearance Free Action Recognition Possible?](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640154.pdf)
+  * [Learning Spatial-Preserved Skeleton Representations for Few-Shot Action Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640172.pdf)
+  * [Panoramic Human Activity Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640242.pdf)
+  * [Delving into Details: Synopsis-to-Detail Networks for Video Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640259.pdf)<br>:star:[code](https://github.com/liang4sx/S2DNet)
+  * [Few-Shot Action Recognition with Hierarchical Matching and Contrastive Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640293.pdf)
+  * [PrivHAR: Recognizing Human Actions from Privacy-Preserving Lens](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640310.pdf)<br>:house:[project](https://carloshinojosa.me/project/privhar/)
+  * [Continual 3D Convolutional Neural Networks for Real-Time Processing of Videos](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640364.pdf)<br>:star:[code](https://github.com/lukashedegaard/co3d)
+  * [Dynamic Spatio-Temporal Specialization Learning for Fine-Grained Action Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640381.pdf)
+* 群体活动识别
+  * [Hunting Group Clues with Transformers for Social Group Activity Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640018.pdf)
+* Action Quality Assessment(行动质量评估)
+  * [Pairwise Contrastive Learning Network for Action Quality Assessment](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640450.pdf)<br>:star:[code](https://github.com/hqu-cst-mmc/PCLN)
+* 视频异常检测
+  * [Scale-Aware Spatio-Temporal Relation Learning for Video Anomaly Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640328.pdf)<br>:star:[code](https://github.com/nutuniv/SSRL)
+* 人体轨迹预测
+  * [SocialVAE: Human Trajectory Prediction Using Timewise Latents](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640504.pdf)<br>:star:[code](https://github.com/xupei0610/SocialVAE):house:[project](https://motion-lab.github.io/SocialVAE/)
+* 对抗
+  * [Shape Matters: Deformable Patch Attack](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640522.pdf)
+  * [Enhanced Accuracy and Robustness via Multi-Teacher Adversarial Distillation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640577.pdf)<br>:star:[code](https://github.com/zhaoshiji123/MTARD)
+  * [GradAuto: Energy-Oriented Attack on Dynamic Neural Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640628.pdf)<br>:star:[code](https://github.com/JianhongPan/GradAuto)
+* HOI
+  * [Iwin: Human-Object Interaction Detection via Transformer with Irregular Windows](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640085.pdf)
+* 无监督
+  * [Contrastive Positive Mining for Unsupervised 3D Action Representation Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640035.pdf)
+* Visual Search
+  * [Target-Absent Human Attention](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640051.pdf)<br>:star:[code](https://github.com/cvlab-stonybrook/Target-absent-Human-Attention)
+* 点云
+  * [Improving Adversarial Robustness of 3D Point Cloud Classification Models](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640663.pdf)<br>:star:[code](https://github.com/GuanlinLee/CCNAMS)
+* 其它
+  * [Unsupervised Pose-Aware Part Decomposition for Man-Made Articulated Objects](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630549.pdf)
+  * [MeshUDF: Fast and Differentiable Meshing of Unsigned Distance Field Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630566.pdf)
+  * [S2N: Suppression-Strengthen Network for Event-Based Recognition under Variant Illuminations](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630701.pdf)<br>:star:[code](https://github.com/wanzengy/S2N-Suppression-Strengthen-Network)
+  * [A Spectral View of Randomized Smoothing under Common Corruptions: Benchmarking and Improving Certified Robustness](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640645.pdf)
 ### —————————————————————————————————————————————
 * human relighting
   * [Geometry-aware Single-image Full-body Human Relighting](https://arxiv.org/abs/2207.04750)
@@ -259,7 +306,8 @@
 * [ARAH: Animatable Volume Rendering of Articulated Human SDFs](https://arxiv.org/abs/2210.10036)<br>:star:[code](https://github.com/taconite/arah-release):house:[project](https://neuralbodies.github.io/arah/)
 * [LaTeRF: Label and Text Driven Object Radiance Fields](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630021.pdf)
 * [MoFaNeRF: Morphable Facial Neural Radiance Field](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630267.pdf)<br>:star:[code](https://github.com/zhuhao-nju/mofanerf)
- 
+* [Conditional-Flow NeRF: Accurate 3D Modelling with Reliable Uncertainty Quantification](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630531.pdf) 
+
 ## Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/适应)
 * 小样本
   * [Cross-Domain Cross-Set Few-Shot Learning via Learning Compact and Aligned Representations](https://arxiv.org/abs/2207.07826)<br>:star:[code](https://github.com/WentaoChen0813/CDCS-FSL)
@@ -312,12 +360,14 @@
   * [Few-Shot Class-Incremental Learning from an Open-Set Perspective](https://arxiv.org/abs/2208.00147)<br>:star:[code](https://github.com/CanPeng123/FSCIL_ALICE)
   * [Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer](https://arxiv.org/abs/2208.03767)<br>:star:[code](https://github.com/richzhang/webpage-template):house:[project](https://cscct.github.io/)
 
- 
 ## Adversarial  Learning(对抗学习)
 * [Prior-Guided Adversarial Initialization for Fast Adversarial Training](https://arxiv.org/abs/2207.08859)<br>:star:[code](https://github.com/jiaxiaojunQAQ/FGSM-PGI)
 * [Decoupled Adversarial Contrastive Learning for Self-supervised Adversarial Robustness](https://arxiv.org/abs/2207.10899)<br>:open_mouth:oral:star:[code](https://github.com/pantheon5100/DeACL)
 * [RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN](https://arxiv.org/abs/2208.10608)<br>:star:[code](https://github.com/huyvnphan/ECCV2022-RIBAC)
 * [Adversarial Coreset Selection for Efficient Robust Training](https://arxiv.org/abs/2209.05785)
+* [Shape Matters: Deformable Patch Attack](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640522.pdf)
+* [Enhanced Accuracy and Robustness via Multi-Teacher Adversarial Distillation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640577.pdf)<br>:star:[code](https://github.com/zhaoshiji123/MTARD)
+* [GradAuto: Energy-Oriented Attack on Dynamic Neural Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640628.pdf)<br>:star:[code](https://github.com/JianhongPan/GradAuto) 
 * 对抗攻击
   * [Frequency Domain Model Augmentation for Adversarial Attack](https://arxiv.org/abs/2207.05382)<br>:star:[code](https://github.com/yuyang-long/SSA)
   * [Watermark Vaccine: Adversarial Attacks to Prevent Watermark Removal](https://arxiv.org/abs/2207.08178)<br>:star:[code](https://github.com/thinwayliu/Watermark-Vaccine)
@@ -403,6 +453,8 @@
   * [Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation](https://arxiv.org/abs/2208.14893)<br>:star:[code](https://github.com/514DNA/LLT)
 * 点云重建
   * [Learning to Train a Point Cloud Reconstruction Network without Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610177.pdf)<br>:star:[code](https://github.com/Tianxinhuang/PCLossNet)
+* 点云分类
+  * [Improving Adversarial Robustness of 3D Point Cloud Classification Models](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640663.pdf)<br>:star:[code](https://github.com/GuanlinLee/CCNAMS)
 
 ## SLAM/Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
 * 增强现实
@@ -431,6 +483,8 @@
   * [Domain Adaptive Person Search](https://arxiv.org/abs/2207.11898)<br>:open_mouth:oral:star:[code](https://github.com/caposerenity/DAPS)
 * 人群计数
   * [An End-to-End Transformer Model for Crowd Localization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610037.pdf)<br>:house:[project](https://dk-liang.github.io/CLTR/)
+* Visual Search
+  * [Target-Absent Human Attention](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640051.pdf)<br>:star:[code](https://github.com/cvlab-stonybrook/Target-absent-Human-Attention)
 
 ## Neural Architecture Search(神经架构搜索)
 * [SuperTickets: Drawing Task-Agnostic Lottery Tickets from Supernets via Jointly Architecture Searching and Parameter Pruning](https://arxiv.org/abs/2207.03677)<br>:star:[code](https://github.com/RICE-EIC/SuperTickets)
@@ -491,6 +545,8 @@
   * [RCLane: Relay Chain Prediction for Lane Detection](https://arxiv.org/abs/2207.09399)
 * 行人轨迹预测
   * [Human Trajectory Prediction via Neural Social Physics](https://arxiv.org/abs/2207.10435)<br>:star:[code](https://github.com/realcrane/Human-Trajectory-Prediction-via-Neural-Social-Physics)
+  * [SocialVAE: Human Trajectory Prediction Using Timewise Latents](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640504.pdf)<br>:star:[code](https://github.com/xupei0610/SocialVAE):house:[project](https://motion-lab.github.io/SocialVAE/)
+
 
 <a name="24"/>
 
@@ -538,11 +594,13 @@
 * 视频文本检测
   * [Real-time End-to-End Video Text Spotter with Contrastive Representation Learning](https://arxiv.org/abs/2207.08417)<br>:star:[code](https://github.com/weijiawu/CoText)
 
+ 
 <a name="21"/>
 
 ## 21.Semi/self-supervised learning(半/自监督)
 * 无监督
   * [Contrastive Positive Mining for Unsupervised 3D Action Representation Learning](https://arxiv.org/abs/2208.03497)
+  * [Contrastive Positive Mining for Unsupervised 3D Action Representation Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640035.pdf)
 * 自监督
   * [GOCA: Guided Online Cluster Assignment for Self-Supervised Video Representation Learning](https://arxiv.org/abs/2207.10158)<br>:star:[code](https://github.com/Seleucia/goca)
   * [SdAE: Self-distillated Masked Autoencoder](https://arxiv.org/abs/2208.00449)<br>:star:[code](https://github.com/AbrahamYabo/SdAE)
@@ -678,9 +736,10 @@
 
 ## 13.Human-Object Interaction(人物交互)
 * [Towards Hard-Positive Query Mining for DETR-based Human-Object Interaction Detection](https://arxiv.org/abs/2207.05293)<br>:star:[code](https://github.com/MuchHair/HQM)
-* [Geometric Features Informed Multi-person Human-object Interaction Recognition in Videos](https://arxiv.org/abs/2207.09425)
+* [Geometric Features Informed Multi-person Human-object Interaction Recognition in Videos](https://arxiv.org/abs/2207.09425)<br>:star:[code](https://github.com/tanqiu98/2G-GCN)
 * [IGFormer: Interaction Graph Transformer for Skeleton-based Human Interaction Recognition](https://arxiv.org/abs/2207.12100)
 * [Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection](https://arxiv.org/abs/2207.14192)<br>:star:[code](https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness)
+* [Iwin: Human-Object Interaction Detection via Transformer with Irregular Windows](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640085.pdf)
 * 交互式物体分割
   * [Self-Supervised Interactive Object Segmentation Through a Singulation-and-Grasping Approach](https://arxiv.org/abs/2207.09314)<br>:house:[project](https://sites.google.com/umn.edu/sag-interactive-segmentation)
 * HOS
@@ -696,10 +755,21 @@
   * [Hierarchically Self-Supervised Transformer for Human Skeleton Representation Learning](https://arxiv.org/abs/2207.09644)<br>:star:[code](https://github.com/yuxiaochen1103/Hi-TRS)
   * [An Efficient Spatio-Temporal Pyramid Transformer for Action Detection](https://arxiv.org/abs/2207.10448)
   * [Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition](https://arxiv.org/abs/2207.13259)<br>:star:[code](https://github.com/MartinXM/TPS)
- * [Privacy-Preserving Action Recognition via Motion Difference Quantization](https://arxiv.org/abs/2208.02459)<br>:star:[code](https://github.com/suakaw/BDQ_PrivacyAR)
- * [CMD: Self-supervised 3D Action Representation Learning with Cross-modal Mutual Distillation](https://arxiv.org/abs/2208.12448)<br>:open_mouth:oral:star:[code](https://github.com/maoyunyao/CMD)
- * [Dynamic Spatio-Temporal Specialization Learning for Fine-Grained Action Recognition](https://arxiv.org/abs/2209.01425)
- * [Real-time Online Video Detection with Temporal Smoothing Transformers](https://arxiv.org/abs/2209.09236)<br>:star:[code](https://github.com/zhaoyue-zephyrus/TeSTra/)
+  * [Privacy-Preserving Action Recognition via Motion Difference Quantization](https://arxiv.org/abs/2208.02459)<br>:star:[code](https://github.com/suakaw/BDQ_PrivacyAR)
+  * [CMD: Self-supervised 3D Action Representation Learning with Cross-modal Mutual Distillation](https://arxiv.org/abs/2208.12448)<br>:open_mouth:oral:star:[code](https://github.com/maoyunyao/CMD)
+  * [Dynamic Spatio-Temporal Specialization Learning for Fine-Grained Action Recognition](https://arxiv.org/abs/2209.01425)
+  * [Real-time Online Video Detection with Temporal Smoothing Transformers](https://arxiv.org/abs/2209.09236)<br>:star:[code](https://github.com/zhaoyue-zephyrus/TeSTra/)
+  * [CycDA: Unsupervised Cycle Domain Adaptation to Learn from Image to Video](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630684.pdf)
+  * [Uncertainty-Based Spatial-Temporal Attention for Online Action Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640068.pdf)
+  * [Rethinking Zero-Shot Action Recognition: Learning from Latent Atomic Actions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640102.pdf)
+  * [Is Appearance Free Action Recognition Possible?](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640154.pdf)
+  * [Learning Spatial-Preserved Skeleton Representations for Few-Shot Action Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640172.pdf)
+  * [Panoramic Human Activity Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640242.pdf)
+  * [Delving into Details: Synopsis-to-Detail Networks for Video Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640259.pdf)<br>:star:[code](https://github.com/liang4sx/S2DNet)
+  * [Few-Shot Action Recognition with Hierarchical Matching and Contrastive Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640293.pdf)
+  * [PrivHAR: Recognizing Human Actions from Privacy-Preserving Lens](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640310.pdf)<br>:house:[project](https://carloshinojosa.me/project/privhar/)
+  * [Continual 3D Convolutional Neural Networks for Real-Time Processing of Videos](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640364.pdf)<br>:star:[code](https://github.com/lukashedegaard/co3d)
+  * [Dynamic Spatio-Temporal Specialization Learning for Fine-Grained Action Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640381.pdf)
  * 基于骨架动作识别
     * [Global-local Motion Transformer for Unsupervised Skeleton-based Action Learning](https://arxiv.org/abs/2207.06101)<br>:star:[code](https://github.com/Boeun-Kim/GL-Transformer)
   * 小样本动作识别
@@ -707,16 +777,23 @@
 * 社会群体活动识别
   * [Hunting Group Clues with Transformers for Social Group Activity Recognition](https://arxiv.org/abs/2207.05254)
   * [Entry-Flipped Transformer for Inference and Prediction of Participant Behavior](https://arxiv.org/abs/2207.06235)
+  * [Hunting Group Clues with Transformers for Social Group Activity Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640018.pdf)
 * 时序动作检测
   * [Semi-Supervised Temporal Action Detection with Proposal-Free Masking](https://arxiv.org/abs/2207.07059)<br>:star:[code](https://github.com/sauradip/SPOT)
   * [Temporal Action Detection with Global Segmentation Mask Learning](https://arxiv.org/abs/2207.06580)<br>:star:[code](https://github.com/sauradip/TAGS)
   * [ReAct: Temporal Action Detection with Relational Queries](https://arxiv.org/abs/2207.07097)<br>:star:[code](https://github.com/sssste/React)
   * [Zero-Shot Temporal Action Detection via Vision-Language Prompting](https://arxiv.org/abs/2207.08184)<br>:star:[code](https://github.com/sauradip/STALE)
   * [Weakly-Supervised Temporal Action Detection for Fine-Grained Videos with Hierarchical Atomic Actions](https://arxiv.org/abs/2207.11805)<br>:star:[code](https://github.com/lizhi1104/HAAN)
-* Action Quality Assessment(行动质量评估)
-  * [Action Quality Assessment with Temporal Parsing Transformer](https://arxiv.org/abs/2207.09270)
+  * [Proposal-Free Temporal Action Detection via Global Segmentation Mask Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630632.pdf)<br>:star:[code](https://github.com/sauradip/TAGS)
+* 时序动作定位
+  * [Dual-Evidential Learning for Weakly-Supervised Temporal Action Localization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640190.pdf)<br>:star:[code](github.com/MengyuanChen21/ECCV2022-DELU)
+  * [ActionFormer: Localizing Moments of Actions with Transformers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640485.pdf)<br>:star:[code](https://github.com/happyharrycn/actionformer_release)
 * 时序动作分割
   * [Unified Fully and Timestamp Supervised Temporal Action Segmentation via Sequence to Sequence Translation](https://arxiv.org/abs/2209.00638)
+* Action Quality Assessment(行动质量评估)
+  * [Action Quality Assessment with Temporal Parsing Transformer](https://arxiv.org/abs/2207.09270)
+  * [Pairwise Contrastive Learning Network for Action Quality Assessment](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640450.pdf)<br>:star:[code](https://github.com/hqu-cst-mmc/PCLN)
+  * [A Generalized & Robust Framework For Timestamp Supervision in Temporal Action Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640276.pdf)
  
 <a name="11"/>
 
@@ -765,6 +842,7 @@
 * 视频异常检测
   * [Video Anomaly Detection by Solving Decoupled Spatio-Temporal Jigsaw Puzzles](https://arxiv.org/abs/2207.10172)<br>:star:[code](https://github.com/wizyoung/YOLOv3)
   * [Towards Open Set Video Anomaly Detection](https://arxiv.org/abs/2208.11113)
+  * [Scale-Aware Spatio-Temporal Relation Learning for Video Anomaly Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640328.pdf)<br>:star:[code](https://github.com/nutuniv/SSRL)
 * 视频识别
   * [Temporal Saliency Query Network for Efficient Video Recognition](https://arxiv.org/abs/2207.10379)<br>:house:[project](https://lawrencexia2008.github.io/projects/tsqnet)
   * [NSNet: Non-saliency Suppression Sampler for Efficient Video Recognition](https://arxiv.org/abs/2207.10388)<br>:house:[project](https://lawrencexia2008.github.io/projects/nsnet)
@@ -939,7 +1017,8 @@
   * [Texturify: Generating Textures on 3D Shape Surfaces](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630073.pdf)
   * [Implicit Field Supervision for Robust Non-rigid Shape Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630338.pdf)<br>:star:[code](https://github.com/Sentient07/IFMatch)
   * [3D Shape Sequence of Human Comparison and Classification using Current and Varifolds](https://arxiv.org/abs/2207.12485)<br>:star:[code](https://github.com/CRISTAL-3DSAM/HumanComparisonVarifolds)
-  * 3D形状匹配
+  * [The Shape Part Slot Machine: Contact-Based Reasoning for Generating 3D Shapes from Parts](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630599.pdf) 
+ * 3D形状匹配
     * [Unsupervised Deep Multi-Shape Matching](https://arxiv.org/abs/2207.09610)
   * 3D形状合成
     * [Cross-Modal 3D Shape Generation and Manipulation](https://arxiv.org/abs/2207.11795)<br>:star:[code](https://github.com/snap-research/edit3d):house:[project](https://people.cs.umass.edu/~zezhoucheng/edit3d/)
@@ -1215,6 +1294,10 @@
 * [DeepShadow: Neural Shape from Shadow](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620403.pdf)<br>:star:[code](https://github.com/asafkar/deep_shadow):house:[project](https://asafkar.github.io/deepshadow/)
 * [Intrinsic Neural Fields: Learning Functions on Manifolds](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620609.pdf)
 * [A Level Set Theory for Neural Implicit Evolution under Explicit Flows](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620699.pdf)
+* [Unsupervised Pose-Aware Part Decomposition for Man-Made Articulated Objects](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630549.pdf)
+* [MeshUDF: Fast and Differentiable Meshing of Unsigned Distance Field Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630566.pdf)
+* [S2N: Suppression-Strengthen Network for Event-Based Recognition under Variant Illuminations](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630701.pdf)<br>:star:[code](https://github.com/wanzengy/S2N-Suppression-Strengthen-Network)
+* [A Spectral View of Randomized Smoothing under Common Corruptions: Benchmarking and Improving Certified Robustness](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640645.pdf)
   
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
