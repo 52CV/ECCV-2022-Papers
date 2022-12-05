@@ -32,7 +32,7 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 12月5日整理 28 篇
+## 12月5日整理 28+36 篇
 
 
 * 物体姿态估计
@@ -79,6 +79,59 @@
 * 相机估计
   * [A Reliable Online Method for Joint Estimation of Focal Length and Camera Rotation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610247.pdf)<br>:star:[code](https://github.com/ElderLab-York-University/OnlinefR)
 
+
+* 深度估计
+  * [Uncertainty Quantification in Depth Estimation via Constrained Ordinal Regression](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620229.pdf)<br>:star:[code](https://github.com/timmy11hu/ConOR)
+* 深度补全
+  * [CostDCNet: Cost Volume Based Depth Completion for a Single RGB-D Image](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620248.pdf)<br>:star:[code](https://github.com/kamse/CostDCNet)
+* 3D
+  * [Object Wake-Up: 3D Object Rigging from a Single Image](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620302.pdf)<br>:star:[code](https://drive.google.com/drive/folders/1tR-Q9Lna8-O2i2uUR4QAmGAZ6hHa1Llf):house:[project](https://kulbear.github.io/object-wakeup/)
+  * [Latent Partition Implicit with Surface Codes for 3D Representation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630318.pdf)<br>:star:[code](https://github.com/chenchao15/LPI)
+  * [3D Equivariant Graph Implicit Functions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630477.pdf)
+* 头部网格重建
+  * [Realistic One-Shot Mesh-Based Head Avatars](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620336.pdf)<br>:house:[project](https://samsunglabs.github.io/rome/)
+* 相机自动校准
+  * [Camera Auto-Calibration from the Steiner Conic of the Fundamental Matrix](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620419.pdf)
+* 三维人体形状
+  * [Super-Resolution 3D Human Shape from a Single Low-Resolution Image](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620435.pdf)<br>:star:[code](https://github.com/marcopesavento/Super-resolution-3D-Human-Shape-from-a-Single-Low-Resolution-Image):house:[project](https://marcopesavento.github.io/SuRS/)
+* 形状解析
+  * [ExtrudeNet: Unsupervised Inverse Sketch-and-Extrude for Shape Parsing](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620468.pdf)<br>:star:[code](https://github.com/kimren227/ExtrudeNet)
+* 点云
+  * [Optimization over Disentangled Encoding: Unsupervised Cross-Domain Point Cloud Completion via Occlusion Factor Manipulation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620504.pdf)<br>:star:[code](https://github.com/azuki-miho/OptDE)
+  * [Unsupervised Learning of 3D Semantic Keypoints with Mutual Reconstruction](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620521.pdf)<br>:star:[code](https://github.com/YYYYYHC/Learning-Semantic-Keypoints-with-Mutual-Reconstruction)
+  * [Revisiting Point Cloud Simplification: A Learnable Feature Preserving Approach](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620573.pdf)
+  * [Masked Autoencoders for Point Cloud Self-Supervised Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620591.pdf)<br>:star:[code](https://github.com/Pang-Yatian/Point-MAE)
+  * [Masked Discrimination for Self-Supervised Learning on Point Clouds](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620645.pdf)<br>:star:[code](https://github.com/haotian-liu/MaskPoint)
+  * [Meta-Sampler: Almost-Universal yet Task-Oriented Sampling for Point Clouds](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620682.pdf)<br>:star:[code](https://github.com/ttchengab/MetaSampler)
+  * [Efficient Point Cloud Analysis Using Hilbert Curve](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620717.pdf)
+  * [Autoregressive 3D Shape Generation via Canonical Mapping](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630091.pdf)<br>:star:[code](https://github.com/AnjieCheng/CanonicalVAE)
+  * [Point Cloud Domain Adaptation via Masked Local 3D Structure Prediction](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630159.pdf)<br>:star:[code](https://github.com/VITA-Group/MLSP)
+  * [Exploring the Devil in Graph Spectral Domain for 3D Point Cloud Attacks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630230.pdf)<br>:star:[code](https://github.com/WoodwindHu/GSDA)
+  * [diffConv: Analyzing Irregular Point Clouds with an Irregular View](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630375.pdf)<br>:star:[code](https://github.com/mmmmimic/diffConvNet)
+  * [PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630392.pdf)<br>:star:[code](https://github.com/unknownue/pdflow)
+  * [Shape-Pose Disentanglement Using SE(3)-Equivariant Vector Neurons](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630461.pdf)
+* 分割
+  * [MvDeCor: Multi-view Dense Correspondence Learning for Fine-grained 3D Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620538.pdf)<br>:star:[code](https://github.com/nv-tlabs/MvDeCor):house:[project](https://nv-tlabs.github.io/MvDeCor/)
+  * [PointInst3D: Segmenting 3D Instances by Points](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630284.pdf)
+* 手物交互
+  * [TOCH: Spatio-Temporal Object-to-Hand Correspondence for Motion Refinement](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630001.pdf)
+* 渲染
+  * [LaTeRF: Label and Text Driven Object Radiance Fields](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630021.pdf)
+  * [MoFaNeRF: Morphable Facial Neural Radiance Field](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630267.pdf)<br>:star:[code](https://github.com/zhuhao-nju/mofanerf)
+* 三维形状
+  * [Texturify: Generating Textures on 3D Shape Surfaces](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630073.pdf)
+  * [Implicit Field Supervision for Robust Non-rigid Shape Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630338.pdf)<br>:star:[code](https://github.com/Sentient07/IFMatch)
+* 形状补全
+  * [PatchRD: Detail-Preserving Shape Completion by Learning Patch Retrieval and Deformation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630494.pdf)<br>:star:[code](https://github.com/GitBoSun/PatchRD)
+* 人体网格动画
+  * [CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630176.pdf)
+* GCN
+  * [Learning Self-Prior for Mesh Denoising Using Dual Graph Convolutional Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630358.pdf)<br>:star:[code](https://github.com/astaka-pe/Dual-DMP)
+* 其它
+  * [A Kendall Shape Space Approach to 3D Shape Estimation from 2D Landmarks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620354.pdf)
+  * [DeepShadow: Neural Shape from Shadow](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620403.pdf)<br>:star:[code](https://github.com/asafkar/deep_shadow):house:[project](https://asafkar.github.io/deepshadow/)
+  * [Intrinsic Neural Fields: Learning Functions on Manifolds](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620609.pdf)
+  * [A Level Set Theory for Neural Implicit Evolution under Explicit Flows](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620699.pdf)
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -129,6 +182,9 @@
   * [Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion](https://arxiv.org/abs/2208.09480)<br>:house:[project](https://nv-tlabs.github.io/outdoor-ar/)
 * 相机估计
   * [A Reliable Online Method for Joint Estimation of Focal Length and Camera Rotation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610247.pdf)<br>:star:[code](https://github.com/ElderLab-York-University/OnlinefR)
+* 相机自动校准
+  * [Camera Auto-Calibration from the Steiner Conic of the Fundamental Matrix](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620419.pdf) 
+
 ## Data Augmentation(数据增强)
 * [TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers](https://arxiv.org/abs/2207.08409)<br>:star:[code](https://github.com/Sense-X/TokenMix)
 
@@ -201,7 +257,9 @@
 * [NeuMesh: Learning Disentangled Neural Mesh-based Implicit Field for Geometry and Texture Editing](https://arxiv.org/abs/2207.11911)<br>:open_mouth:oral:star:[code](https://github.com/zju3dv/neumesh):house:[project](https://zju3dv.github.io/neumesh/)  
 * [ActiveNeRF: Learning where to See with Uncertainty Estimation](https://arxiv.org/abs/2209.08546)<br>:star:[code](https://github.com/LeapLabTHU/ActiveNeRF)
 * [ARAH: Animatable Volume Rendering of Articulated Human SDFs](https://arxiv.org/abs/2210.10036)<br>:star:[code](https://github.com/taconite/arah-release):house:[project](https://neuralbodies.github.io/arah/)
-
+* [LaTeRF: Label and Text Driven Object Radiance Fields](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630021.pdf)
+* [MoFaNeRF: Morphable Facial Neural Radiance Field](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630267.pdf)<br>:star:[code](https://github.com/zhuhao-nju/mofanerf)
+ 
 ## Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/适应)
 * 小样本
   * [Cross-Domain Cross-Set Few-Shot Learning via Learning Compact and Aligned Representations](https://arxiv.org/abs/2207.07826)<br>:star:[code](https://github.com/WentaoChen0813/CDCS-FSL)
@@ -231,7 +289,9 @@
 ## GNN/GCN(图神经网络)
 * GCN
   * [End-to-end Graph-constrained Vectorized Floorplan Generation with Panoptic Refinement](https://arxiv.org/abs/2207.13268) 
+  * [Learning Self-Prior for Mesh Denoising Using Dual Graph Convolutional Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630358.pdf)<br>:star:[code](https://github.com/astaka-pe/Dual-DMP)
 
+  
 ## Continual Learning(持续学习)
 * [Balancing Stability and Plasticity through Advanced Null Space in Continual Learning](https://arxiv.org/abs/2207.12061)<br>:open_mouth:oral 
 * [Online Continual Learning with Contrastive Vision Transformer](https://arxiv.org/abs/2207.13516) 
@@ -309,7 +369,6 @@
   * [Trainability Preserving Neural Structured Pruning](https://arxiv.org/abs/2207.12534)<br>:star:[code](https://github.com/mingsun-tse/TPP)
   * [Interpretations Steered Network Pruning via Amortized Inferred Saliency Maps](https://arxiv.org/abs/2209.02869)<br>:star:[code](https://github.com/Alii-Ganjj/InterpretationsSteeredPruning)
 
-
 ## Point Cloud(点云)
 * [Few 'Zero Level Set'-Shot Learning of Shape Signed Distance Functions in Feature Space](https://arxiv.org/abs/2207.04161)
 * [Dynamic 3D Scene Analysis by Point Cloud Accumulation](https://arxiv.org/abs/2207.12394)<br>:star:[code](https://github.com/prs-eth/PCAccumulation):house:[project](https://shengyuh.github.io/eccv22/index.html)
@@ -318,6 +377,19 @@
 * [PseudoAugment: Learning to Use Unlabeled Data for Data Augmentation in Point Clouds](https://arxiv.org/abs/2210.13428)
 * [SPE-Net: Boosting Point Cloud Analysis via Rotation Robustness Enhancement](https://arxiv.org/abs/2211.08250)<br>:star:[code](https://github.com/ZhaofanQiu/SPE-Net)
 * [Resolution-Free Point Cloud Sampling Network with Data Distillation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620053.pdf)<br>:star:[code](https://github.com/Tianxinhuang/PCDNet)
+* [diffConv: Analyzing Irregular Point Clouds with an Irregular View](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630375.pdf)<br>:star:[code](https://github.com/mmmmimic/diffConvNet)
+* [PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630392.pdf)<br>:star:[code](https://github.com/unknownue/pdflow)
+* [Shape-Pose Disentanglement Using SE(3)-Equivariant Vector Neurons](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630461.pdf)
+* [Revisiting Point Cloud Simplification: A Learnable Feature Preserving Approach](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620573.pdf)
+* [Masked Autoencoders for Point Cloud Self-Supervised Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620591.pdf)<br>:star:[code](https://github.com/Pang-Yatian/Point-MAE)
+* [Masked Discrimination for Self-Supervised Learning on Point Clouds](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620645.pdf)<br>:star:[code](https://github.com/haotian-liu/MaskPoint)
+* [Meta-Sampler: Almost-Universal yet Task-Oriented Sampling for Point Clouds](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620682.pdf)<br>:star:[code](https://github.com/ttchengab/MetaSampler)
+* [Efficient Point Cloud Analysis Using Hilbert Curve](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620717.pdf)
+* 3D点云
+  * [Autoregressive 3D Shape Generation via Canonical Mapping](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630091.pdf)<br>:star:[code](https://github.com/AnjieCheng/CanonicalVAE)
+  * [Point Cloud Domain Adaptation via Masked Local 3D Structure Prediction](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630159.pdf)<br>:star:[code](https://github.com/VITA-Group/MLSP)
+  * [Exploring the Devil in Graph Spectral Domain for 3D Point Cloud Attacks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630230.pdf)<br>:star:[code](https://github.com/WoodwindHu/GSDA)
+  * [Unsupervised Learning of 3D Semantic Keypoints with Mutual Reconstruction](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620521.pdf)<br>:star:[code](https://github.com/YYYYYHC/Learning-Semantic-Keypoints-with-Mutual-Reconstruction)
 * 点云定位
   * [CPO: Change Robust Panorama to Point Cloud Localization](https://arxiv.org/abs/2207.05317)
 * 点云分割
@@ -325,6 +397,7 @@
 * 点云补全  
   * [SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer](https://arxiv.org/abs/2207.10315)<br>:star:[code](https://github.com/hrzhou2/seedformer)   
   * [FBNet: Feedback Network for Point Cloud Completion](https://arxiv.org/abs/2210.03974)<br>:open_mouth:oral:star:[code](https://github.com/hikvision-research/3DVision/) 
+  * [Optimization over Disentangled Encoding: Unsupervised Cross-Domain Point Cloud Completion via Occlusion Factor Manipulation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620504.pdf)<br>:star:[code](https://github.com/azuki-miho/OptDE)
 * 点云配准
   * [SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud](https://arxiv.org/abs/2208.01925)<br>:star:[code](https://github.com/zxrzju/SuperLine3D) 
   * [Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation](https://arxiv.org/abs/2208.14893)<br>:star:[code](https://github.com/514DNA/LLT)
@@ -612,6 +685,8 @@
   * [Self-Supervised Interactive Object Segmentation Through a Singulation-and-Grasping Approach](https://arxiv.org/abs/2207.09314)<br>:house:[project](https://sites.google.com/umn.edu/sag-interactive-segmentation)
 * HOS
   * [Fine-Grained Egocentric Hand-Object Segmentation: Dataset, Model, and Applications](https://arxiv.org/abs/2208.03826)<br>:star:[code](https://github.com/owenzlz/EgoHOS)
+* 手物交互
+  * [TOCH: Spatio-Temporal Object-to-Hand Correspondence for Motion Refinement](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630001.pdf)
 
 <a name="12"/>
 
@@ -748,6 +823,7 @@
   * [NDF: Neural Deformable Fields for Dynamic Human Modelling](https://arxiv.org/abs/2207.09193)<br>:star:[code](https://github.com/HKBU-VSComputing/2022_ECCV_NDF)
 * 人体姿势与形状估计
   * [CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation](https://arxiv.org/abs/2208.00571)<br>:open_mouth:oral:star:[code](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)
+  * [Super-Resolution 3D Human Shape from a Single Low-Resolution Image](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620435.pdf)<br>:star:[code](https://github.com/marcopesavento/Super-resolution-3D-Human-Shape-from-a-Single-Low-Resolution-Image):house:[project](https://marcopesavento.github.io/SuRS/)
 * 三维人体姿势估计
   * [DH-AUG: DH Forward Kinematics Model Driven Augmentation for 3D Human Pose Estimation](https://arxiv.org/abs/2207.09303)<br>:star:[code](https://github.com/hlz0606/DH-AUG-DH-Forward-Kinematics-Model-Driven-Augmentation-for-3D-Human-Pose-Estimation)
   * [Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection](https://arxiv.org/abs/2207.10955)
@@ -792,7 +868,11 @@
   * [Self-supervised Human Mesh Recovery with Cross-Representation Alignment](https://arxiv.org/abs/2209.04596)
 * 手部网格估计
   * [Identity-Aware Hand Mesh Estimation and Personalization from RGB Images](https://arxiv.org/abs/2209.10840)<br>:star:[code](https://github.com/deyingk/PersonalizedHandMeshEstimation) 
-  
+* 头部网格重建
+  * [Realistic One-Shot Mesh-Based Head Avatars](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620336.pdf)<br>:house:[project](https://samsunglabs.github.io/rome/)  
+* 人体网格动画
+  * [CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630176.pdf)  
+ 
 <a name="8"/>
 
 ## 8.3D(三维视觉)
@@ -825,10 +905,12 @@
   * [Towards Comprehensive Representation Enhancement in Semantics-Guided Self-Supervised Monocular Depth Estimation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610299.pdf)
   * [LocalBins: Improving Depth Estimation by Learning Local Distributions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610473.pdf)<br>:star:[code](https://github.com/shariqfarooq123/LocalBins)
   * [Depth Map Decomposition for Monocular Depth Estimation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620018.pdf)
+  * [Uncertainty Quantification in Depth Estimation via Constrained Ordinal Regression](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620229.pdf)<br>:star:[code](https://github.com/timmy11hu/ConOR)
 * 深度补全
   * [GraphCSPN: Geometry-Aware Depth Completion via Dynamic GCNs](https://arxiv.org/abs/2210.10758)<br>:star:[code](https://github.com/xinliu20/GraphCSPN_ECCV2022)
   * [Multi-modal Masked Pre-training for Monocular Panoramic Depth Completion](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610372.pdf)
   * [Monitored Distillation for Positive Congruent Depth Completion](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620035.pdf)<br>:star:[code](https://github.com/alexklwong/mondi-python)
+  * [CostDCNet: Cost Volume Based Depth Completion for a Single RGB-D Image](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620248.pdf)<br>:star:[code](https://github.com/kamse/CostDCNet)
 * 三维视觉
   * [A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision](https://arxiv.org/abs/2207.04997)
   * [Neural Density-Distance Fields](https://arxiv.org/abs/2207.14455)<br>:star:[code](https://github.com/ueda0319/neddf)
@@ -850,16 +932,26 @@
   * [Bilateral Normal Integration](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610545.pdf)<br>:star:[code](https://github.com/hoshino042/bilateral_normal_integration)
   * [CHORE: Contact, Human and Object REconstruction from a Single RGB Image](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620121.pdf)<br>:star:[code](https://github.com/xiexh20/CHORE):house:[project](https://virtualhumans.mpi-inf.mpg.de/chore/)
   * [Directed Ray Distance Functions for 3D Scene Reconstruction](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620193.pdf)<br>:house:[project](https://nileshkulkarni.github.io/scene_drdf)  
+  * [Object Wake-Up: 3D Object Rigging from a Single Image](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620302.pdf)<br>:star:[code](https://drive.google.com/drive/folders/1tR-Q9Lna8-O2i2uUR4QAmGAZ6hHa1Llf):house:[project](https://kulbear.github.io/object-wakeup/)
+  * [Latent Partition Implicit with Surface Codes for 3D Representation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630318.pdf)<br>:star:[code](https://github.com/chenchao15/LPI)
+  * [3D Equivariant Graph Implicit Functions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630477.pdf)
 * 三维形状
+  * [Texturify: Generating Textures on 3D Shape Surfaces](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630073.pdf)
+  * [Implicit Field Supervision for Robust Non-rigid Shape Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630338.pdf)<br>:star:[code](https://github.com/Sentient07/IFMatch)
   * [3D Shape Sequence of Human Comparison and Classification using Current and Varifolds](https://arxiv.org/abs/2207.12485)<br>:star:[code](https://github.com/CRISTAL-3DSAM/HumanComparisonVarifolds)
   * 3D形状匹配
     * [Unsupervised Deep Multi-Shape Matching](https://arxiv.org/abs/2207.09610)
   * 3D形状合成
     * [Cross-Modal 3D Shape Generation and Manipulation](https://arxiv.org/abs/2207.11795)<br>:star:[code](https://github.com/snap-research/edit3d):house:[project](https://people.cs.umass.edu/~zezhoucheng/edit3d/)
+  * 形状补全
+    * [PatchRD: Detail-Preserving Shape Completion by Learning Patch Retrieval and Deformation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630494.pdf)<br>:star:[code](https://github.com/GitBoSun/PatchRD)
+  * 形状解析
+    * [ExtrudeNet: Unsupervised Inverse Sketch-and-Extrude for Shape Parsing](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620468.pdf)<br>:star:[code](https://github.com/kimren227/ExtrudeNet) 
+  * 形状修补
+    * [DeepMend: Learning Occupancy Functions to Represent Shape for Repair](https://arxiv.org/abs/2210.05728)<br>:star:[code](https://github.com/Terascale-All-sensing-Research-Studio/DeepMend)
 * depth restoration
   * [Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Objects](https://arxiv.org/abs/2208.03792)<br>:star:[code](https://github.com/PKU-EPIC/DREDS)   
-* 形状修补
-  * [DeepMend: Learning Occupancy Functions to Represent Shape for Repair](https://arxiv.org/abs/2210.05728)<br>:star:[code](https://github.com/Terascale-All-sensing-Research-Studio/DeepMend)
+
 
 <a name="7"/>
 
@@ -1053,6 +1145,9 @@
   * [Interclass Prototype Relation for Few-Shot Segmentation](https://arxiv.org/abs/2211.08681)
 * 抠图
   * [TransMatting: Enhancing Transparent Objects Matting with Transformers](https://arxiv.org/abs/2208.03007)<br>:star:[code](https://github.com/AceCHQ/TransMatting)
+* 3D分割
+  * [MvDeCor: Multi-view Dense Correspondence Learning for Fine-grained 3D Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620538.pdf)<br>:star:[code](https://github.com/nv-tlabs/MvDeCor):house:[project](https://nv-tlabs.github.io/MvDeCor/)
+  * [PointInst3D: Segmenting 3D Instances by Points](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630284.pdf)
 
 <a name="1"/>
 
@@ -1116,6 +1211,10 @@
 * [Overexposure Mask Fusion: Generalizable Reverse ISP Multi-Step Refinement](https://arxiv.org/abs/2210.11511)
 * [Photo-realistic Neural Domain Randomization](https://arxiv.org/abs/2210.12682)
 * [Editable indoor lighting estimation](https://arxiv.org/abs/2211.03928)<br>:house:[project](https://lvsn.github.io/EditableIndoorLight/)
-
+* [A Kendall Shape Space Approach to 3D Shape Estimation from 2D Landmarks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620354.pdf)
+* [DeepShadow: Neural Shape from Shadow](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620403.pdf)<br>:star:[code](https://github.com/asafkar/deep_shadow):house:[project](https://asafkar.github.io/deepshadow/)
+* [Intrinsic Neural Fields: Learning Functions on Manifolds](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620609.pdf)
+* [A Level Set Theory for Neural Implicit Evolution under Explicit Flows](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620699.pdf)
+  
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
