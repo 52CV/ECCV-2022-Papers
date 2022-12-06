@@ -32,7 +32,7 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 12月6日整理 23+30 篇
+## 12月6日整理 23+30+35 篇
 * 轻量级
   * [Learning Extremely Lightweight and Robust Model with Differentiable Constraints on Sparsity and Condition Number](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640679.pdf)
 * 对抗
@@ -120,6 +120,65 @@
 * 其它
   * [Transform Your Smartphone into a DSLR Camera: Learning the ISP in the Wild](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660614.pdf)<br>:star:[code](https://github.com/4rdhendu/TransformPhone2DSLR)
 
+
+* 去模糊
+  * [DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670193.pdf)<br>:star:[code](https://github.com/JihyongOh/DeMFI)
+  * [Realistic Blur Synthesis for Learning Image Deblurring](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670481.pdf)<br>:house:[project](http://cg.postech.ac.kr/research/RSBlur/)
+* 去雨
+  * [Not Just Streaks: Towards Ground Truth for Single Image Deraining](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670713.pdf)<br>:house:[project](https://visual.ee.ucla.edu/gt_rain.htm/)
+* 图像着色
+  * [CT2: Colorization Transformer via Color Tokens](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670001.pdf)
+  * [BigColor: Colorization Using a Generative Color Prior for Natural Images](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670343.pdf)
+* 图像恢复
+  * [Simple Baselines for Image Restoration](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670017.pdf)<br>:star:[code](https://github.com/megvii-research/NAFNet)
+  * [Improving Image Restoration by Revisiting Global Information Aggregation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670053.pdf)<br>:star:[code](https://github.com/megvii-research/tlc)
+  * [Seeing through a Black Box: Toward High-Quality Terahertz Imaging via Subspace-and-Attention Guided Restoration](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670447.pdf)
+* 图像和谐化
+  * [Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670327.pdf)<br>:star:[code](http://github.com/stefanLeong/S2CRNet)
+* 深度估计
+  * [Spike Transformer: Monocular Depth Estimation for Spiking Camera](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670034.pdf)<br>:star:[code](https://github.com/Leozhangjiyuan/MDE-SpikingCamera)
+  * [Learning Phase Mask for Privacy-Preserving Passive Depth Estimation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670497.pdf)
+* 光场
+  * [Synthesizing Light Field Video from Monocular Video](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670158.pdf)<br>:star:[code](https://github.com/ShrisudhanG/Synthesizing-Light-Field-Video-from-Monocular-Video)
+* 图像裁剪
+  * [Human-Centric Image Cropping with Partition-Aware and Content-Preserving Features](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670176.pdf)<br>:star:[code](https://github.com/bcmi/Human-Centric-Image-Cropping)
+* 图像融合
+  * [Neural Image Representations for Multi-Image Fusion and Layer Separation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670210.pdf)<br>:house:[project](https://shnnam.github.io/research/nir/)
+* Rolling shutter(果冻效应)
+  * [Bringing Rolling Shutter Images Alive with Dual Reversed Distortion](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670227.pdf)<br>:star:[code](https://github.com/zzh-tech/Dual-Reversed-RS)
+* 帧插值
+  * [FILM: Frame Interpolation for Large Motion](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670244.pdf)<br>:house:[project](https://film-net.github.io/)
+* 3D
+  * [EvAC3D: From Event-Based Apparent Contours to 3D Models via Continuous Visual Hulls](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670278.pdf)<br>:house:[project](https://www.cis.upenn.edu/~ziyunw/evac3d/)
+* HDR
+  * [Exposure-Aware Dynamic Weighted Learning for Single-Shot HDR Imaging](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670429.pdf)<br>:star:[code](https://github.com/viengiaan/EDWL)
+* 遥感
+  * [Tomography of Turbulence Strength Based on Scintillation Imaging](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670464.pdf)
+* 4D
+  * [HuMMan: Multi-modal 4D Human Dataset for Versatile Sensing and Modeling](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670549.pdf)<br>:house:[project](https://caizhongang.github.io/projects/HuMMan/)
+* 事件相机
+  * [DVS-Voltmeter: Stochastic Process-Based Event Simulator for Dynamic Vision Sensors](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571.pdf)<br>:star:[code](https://github.com/Lynn0306/DVS-Voltmeter)
+* 数据集
+  * [BEAT: A Large-Scale Semantic and Emotional Multi-modal Dataset for Conversational Gestures Synthesis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670605.pdf)<br>:sunflower:[dataset](https://pantomatrix.github.io/BEAT/)<br>会话手势合成
+  * [MovieCuts: A New Dataset and Benchmark for Cut Type Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670659.pdf)<br>:sunflower:[dataset](https://github.com/PardoAlejo/MovieCuts)<br>剪切类型识别
+  * [A Real World Dataset for Multi-View 3D Reconstruction](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680054.pdf)<br>:sunflower:[dataset](http://www.ocrtoc.org/#/3D-Reconstruction)<br>三维重建
+* 数据增强
+  * [Neuromorphic Data Augmentation for Training Spiking Neural Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670623.pdf)
+* 文本检测
+  * [Unitail: Detecting, Reading, and Matching in Retail Scene"](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670695.pdf)<br>:house:[project](https://unitedretail.github.io/)
+* 字幕
+  * [ECCV Caption: Correcting False Negatives by Collecting Machine-and-Human-Verified Image-Caption Associations for MS-COCO](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680001.pdf)<br>:star:[code](https://github.com/naver-ai/eccv-caption)
+* 人脸表情识别
+  * [How to Synthesize a Large-Scale and Trainable Micro-Expression Dataset?](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680037.pdf)<br>:star:[code](https://github.com/liuyvchi/MiE-X)
+* 其它
+  * [Data Association between Event Streams and Intensity Frames under Diverse Baselines](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670071.pdf)
+  * [Instance Contour Adjustment via Structure-Driven CNN](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670142.pdf)
+  * [3D Scene Inference from Transient Histograms](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670394.pdf)
+  * [Neural Space-Filling Curves](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670412.pdf)<br>:house:[project](https://hywang66.github.io/publication/neuralsfc)
+  * [LWGNet – Learned Wirtinger Gradients for Fourier Ptychographic Phase Retrieval](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670515.pdf)<br>:star:[code](https://github.com/at3e/LWGNet.git)
+  * [PANDORA: Polarization-Aided Neural Decomposition of Radiance](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670531.pdf)
+  * [Benchmarking Omni-Vision Representation through the Lens of Visual Realms](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670587.pdf)<br>:house:[project](https://zhangyuanhan-ai.github.io/OmniBenchmark)
+
 ### —————————————————————————————————————————————
 * human relighting
   * [Geometry-aware Single-image Full-body Human Relighting](https://arxiv.org/abs/2207.04750)
@@ -157,10 +216,6 @@
   * [ECO-TR: Efficient Correspondences Finding Via Coarse-to-Fine Refinement](https://arxiv.org/abs/2209.12213)<br>:star:[code](https://github.com/dltan7/ECO-TR):house:[project](https://dltan7.github.io/ecotr/)
 * 图像取证
   * [Totems: Physical Objects for Verifying Visual Integrity](https://arxiv.org/abs/2209.13032)<br>:house:[project](https://jingweim.github.io/totems/)
-* 文件图像矫正
-  * [Geometric Representation Learning for Document Image Rectification](https://arxiv.org/abs/2210.08161)<br>:star:[code](https://github.com/fh2019ustc/DocGeoNet)
-* 重识别
-  * [SC-wLS: Towards Interpretable Feed-forward Camera Re-localization](https://arxiv.org/abs/2210.12748)<br>:star:[code](https://github.com/XinWu98/SC-wLS)
 * 图像对齐
   * [Learning Depth from Focus in the Wild](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610001.pdf)<br>:star:[code](https://github.com/wcy199705/DfFintheWild)  
 * visual hand pressure estimation
@@ -169,19 +224,28 @@
   * [Estimating Spatially-Varying Lighting in Urban Scenes with Disentangled Representation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660445.pdf)
 * 室内场景照明编辑
   * [Physically-Based Editing of Indoor Scene Lighting from a Single Image](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660545.pdf)
+* HDR
+  * [Exposure-Aware Dynamic Weighted Learning for Single-Shot HDR Imaging](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670429.pdf)<br>:star:[code](https://github.com/viengiaan/EDWL)
 
 ## 光学、几何、光场成像
 * 相机姿势
   * [Camera Pose Auto-Encoders for Improving Pose Regression](https://arxiv.org/abs/2207.05530)<br>:star:[code](https://github.com/yolish/camera-pose-auto-encoders)
 * 光场
   * [Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion](https://arxiv.org/abs/2208.09480)<br>:house:[project](https://nv-tlabs.github.io/outdoor-ar/)
+  * [Synthesizing Light Field Video from Monocular Video](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670158.pdf)<br>:star:[code](https://github.com/ShrisudhanG/Synthesizing-Light-Field-Video-from-Monocular-Video)
 * 相机估计
   * [A Reliable Online Method for Joint Estimation of Focal Length and Camera Rotation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610247.pdf)<br>:star:[code](https://github.com/ElderLab-York-University/OnlinefR)
 * 相机自动校准
   * [Camera Auto-Calibration from the Steiner Conic of the Fundamental Matrix](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620419.pdf) 
+* 事件相机
+  * [DVS-Voltmeter: Stochastic Process-Based Event Simulator for Dynamic Vision Sensors](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670571.pdf)<br>:star:[code](https://github.com/Lynn0306/DVS-Voltmeter)  
+* 相机重识别
+  * [SC-wLS: Towards Interpretable Feed-forward Camera Re-localization](https://arxiv.org/abs/2210.12748)<br>:star:[code](https://github.com/XinWu98/SC-wLS)
 
 ## Data Augmentation(数据增强)
 * [TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers](https://arxiv.org/abs/2207.08409)<br>:star:[code](https://github.com/Sense-X/TokenMix)
+* [Neuromorphic Data Augmentation for Training Spiking Neural Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670623.pdf)
+
 
 ## Image Matching(图像匹配)
 * [ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer](https://arxiv.org/abs/2208.14201)<br>:house:[project](https://aspanformer.github.io/)
@@ -224,12 +288,20 @@
 * [HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields](https://arxiv.org/abs/2208.06787)<br>:star:[code](https://github.com/postech-ami/HDR-Plenoxels)
 
 
+
 ## Dataset(数据集)
 * [COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts](https://arxiv.org/abs/2207.04675)<br>:star:[code](https://github.com/ku21fan/COO-Comic-Onomatopoeia)<br>用于识别任意或截断文本的漫画拟声词数据集
 * [BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis](https://arxiv.org/abs/2207.10120)<br>:sunflower:[dataset](https://github.com/dmoltisanti/brace/)<br>用于舞蹈动作合成的霹雳舞比赛数据集
 * [CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://arxiv.org/abs/2207.12393)<br>:sunflower:[dataset](https://github.com/CelebV-HQ/CelebV-HQ):house:[project](https://celebv-hq.github.io/)<br>一个大规模的视频人脸属性数据集
 * 数据集
   * [UnrealEgo: A New Dataset for Robust Egocentric 3D Human Motion Capture](https://arxiv.org/abs/2208.01633)<br>:star:[code](https://github.com/hiroyasuakada/UnrealEgo):house:[project](https://4dqv.mpi-inf.mpg.de/UnrealEgo/)<br>用于鲁棒性以自我为中心的三维人类运动捕捉的新数据集
+* 会话手势合成
+  * [BEAT: A Large-Scale Semantic and Emotional Multi-modal Dataset for Conversational Gestures Synthesis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670605.pdf)<br>:sunflower:[dataset](https://pantomatrix.github.io/BEAT/)<br>
+* 剪切类型识别  
+  * [MovieCuts: A New Dataset and Benchmark for Cut Type Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670659.pdf)<br>:sunflower:[dataset](https://github.com/PardoAlejo/MovieCuts)<br>
+* 三维重建
+  * [A Real World Dataset for Multi-View 3D Reconstruction](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680054.pdf)<br>:sunflower:[dataset](http://www.ocrtoc.org/#/3D-Reconstruction)<br>
+
 
 ## Scene Flow Estimation(场景流估计)
 * [Bi-PointFlowNet: Bidirectional Learning for Point Cloud Based Scene Flow Estimation](https://arxiv.org/abs/2207.07522)<br>:star:[code](https://github.com/cwc1260/BiFlow)
@@ -525,6 +597,8 @@
 <a name="24"/>
 
 ## 24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
+* 遥感
+  * [Tomography of Turbulence Strength Based on Scintillation Imaging](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670464.pdf) 
 
 <a name="23"/>
 
@@ -567,7 +641,10 @@
   * [Pure Transformer with Integrated Experts for Scene Text Recognition](https://arxiv.org/abs/2211.04963)
 * 视频文本检测
   * [Real-time End-to-End Video Text Spotter with Contrastive Representation Learning](https://arxiv.org/abs/2207.08417)<br>:star:[code](https://github.com/weijiawu/CoText)
-
+* 文本检测
+  * [Unitail: Detecting, Reading, and Matching in Retail Scene"](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670695.pdf)<br>:house:[project](https://unitedretail.github.io/)
+* 文件图像矫正
+  * [Geometric Representation Learning for Document Image Rectification](https://arxiv.org/abs/2210.08161)<br>:star:[code](https://github.com/fh2019ustc/DocGeoNet) 
  
 <a name="21"/>
 
@@ -620,6 +697,8 @@
   * [UIA-ViT: Unsupervised Inconsistency-Aware Method based on Vision Transformer for Face Forgery Detection](https://arxiv.org/abs/2210.12752)<br>:open_mouth:oral
 * 人脸捕捉
   * [Practical and Scalable Desktop-Based High-Quality Facial Capture](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660512.pdf)
+* 人脸表情识别
+  * [How to Synthesize a Large-Scale and Trainable Micro-Expression Dataset?](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680037.pdf)<br>:star:[code](https://github.com/liuyvchi/MiE-X)
 
 <a name="19"/>
 
@@ -845,6 +924,8 @@
   * [TL;DW? Summarizing Instructional Videos with Task Relevance & Cross-Modal Saliency](https://arxiv.org/abs/2208.06773)<br>:star:[code](https://github.com/medhini/Instructional-Video-Summarization):house:[project](https://medhini.github.io/ivsum/)
 * Video Grounding
   * [Graph2Vid: Flow graph to Video Grounding forWeakly-supervised Multi-Step Localization](https://arxiv.org/abs/2210.04996)<br>:open_mouth:oral 
+* 帧插值
+  * [FILM: Frame Interpolation for Large Motion](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670244.pdf)<br>:house:[project](https://film-net.github.io/)  
  
 <a name="10"/>
 
@@ -857,6 +938,8 @@
   * [General Object Pose Transformation Network from Unpaired Data](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660286.pdf)
 * 抓取物体姿势估计
   * [TransGrasp: Grasp Pose Estimation of a Category of Objects by Transferring Grasps from Only One Labeled Instance](https://arxiv.org/abs/2207.07861)<br>:star:[code](https://github.com/yanjh97/TransGrasp)
+* 4D
+  * [HuMMan: Multi-modal 4D Human Dataset for Versatile Sensing and Modeling](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670549.pdf)<br>:house:[project](https://caizhongang.github.io/projects/HuMMan/)
 * 6D
   * [Category-Level 6D Object Pose and Size Estimation using Self-Supervised Deep Prior Deformation Networks](https://arxiv.org/abs/2207.05444)<br>:star:[code](https://github.com/JiehongLin/Self-DPDN)
   * [ShAPO: Implicit Representations for Multi-Object Shape, Appearance, and Pose Optimization](https://arxiv.org/abs/2207.13691)<br>:house:[project](https://zubair-irshad.github.io/projects/ShAPO.html)
@@ -951,11 +1034,11 @@
   * [CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630176.pdf)  
 * 音频驱动的风格化手势生成
   * [Audio-Driven Stylized Gesture Generation with Flow-Based Model](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650701.pdf) 
- 
+
 <a name="8"/>
 
 ## 8.3D(三维视觉)
-* [DeepPS2: Revisiting Photometric Stereo Using Two Differently Illuminated Images](https://arxiv.org/abs/2207.02025)
+* [DeepPS2: Revisiting Photometric Stereo Using Two Differently Illuminated Images](https://arxiv.org/abs/2207.02025)<br>:star:[code](https://github.com/ashisht96/DeepPS2)
 * [Towards High-Fidelity Single-view Holistic Reconstruction of Indoor Scenes](https://arxiv.org/abs/2207.08656)<br>:star:[code](https://github.com/UncleMEDM/InstPIFu)
 * [Self-calibrating Photometric Stereo by Neural Inverse Rendering](https://arxiv.org/abs/2207.07815)<br>:star:[code](https://github.com/junxuan-li/SCPS-NIR)
 * MVS
@@ -985,6 +1068,8 @@
   * [LocalBins: Improving Depth Estimation by Learning Local Distributions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610473.pdf)<br>:star:[code](https://github.com/shariqfarooq123/LocalBins)
   * [Depth Map Decomposition for Monocular Depth Estimation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620018.pdf)
   * [Uncertainty Quantification in Depth Estimation via Constrained Ordinal Regression](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620229.pdf)<br>:star:[code](https://github.com/timmy11hu/ConOR)
+  * [Spike Transformer: Monocular Depth Estimation for Spiking Camera](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670034.pdf)<br>:star:[code](https://github.com/Leozhangjiyuan/MDE-SpikingCamera)
+  * [Learning Phase Mask for Privacy-Preserving Passive Depth Estimation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670497.pdf)
 * 深度补全
   * [GraphCSPN: Geometry-Aware Depth Completion via Dynamic GCNs](https://arxiv.org/abs/2210.10758)<br>:star:[code](https://github.com/xinliu20/GraphCSPN_ECCV2022)
   * [Multi-modal Masked Pre-training for Monocular Panoramic Depth Completion](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610372.pdf)
@@ -1015,6 +1100,7 @@
   * [Latent Partition Implicit with Surface Codes for 3D Representation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630318.pdf)<br>:star:[code](https://github.com/chenchao15/LPI)
   * [3D Equivariant Graph Implicit Functions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630477.pdf)
   * [Projective Parallel Single-Pixel Imaging to Overcome Global Illumination in 3D Structure Light Scanning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660479.pdf)
+  * [EvAC3D: From Event-Based Apparent Contours to 3D Models via Continuous Visual Hulls](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670278.pdf)<br>:house:[project](https://www.cis.upenn.edu/~ziyunw/evac3d/)
 * 三维形状
   * [Texturify: Generating Textures on 3D Shape Surfaces](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630073.pdf)
   * [Implicit Field Supervision for Robust Non-rigid Shape Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630338.pdf)<br>:star:[code](https://github.com/Sentient07/IFMatch)
@@ -1154,7 +1240,7 @@
 * 图像字幕
   * [GRIT: Faster and Better Image captioning Transformer Using Dual Visual Features](https://arxiv.org/abs/2207.09666)<br>:star:[code](https://github.com/davidnvq/grit)
   * [Explicit Image Caption Editing](https://arxiv.org/abs/2207.09625)<br>:star:[code](https://github.com/baaaad/ECE)
-
+  * [ECCV Caption: Correcting False Negatives by Collecting Machine-and-Human-Verified Image-Caption Associations for MS-COCO](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680001.pdf)<br>:star:[code](https://github.com/naver-ai/eccv-caption)
 
 <a name="3"/>
 
@@ -1167,6 +1253,9 @@
   * [Learning Local Implicit Fourier Representation for Image Warping](https://arxiv.org/abs/2207.01831)<br>:star:[code](https://github.com/jaewon-lee-b/ltew)
 * 图像恢复
   * [D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration](https://arxiv.org/abs/2207.03294)<br>:star:[code](https://github.com/zhaoyuzhi/D2HNet)
+  * [Simple Baselines for Image Restoration](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670017.pdf)<br>:star:[code](https://github.com/megvii-research/NAFNet)
+  * [Improving Image Restoration by Revisiting Global Information Aggregation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670053.pdf)<br>:star:[code](https://github.com/megvii-research/tlc)
+  * [Seeing through a Black Box: Toward High-Quality Terahertz Imaging via Subspace-and-Attention Guided Restoration](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670447.pdf)
 * 图像修复
   * [Learning Prior Feature and Attention Enhanced Image Inpainting](https://arxiv.org/abs/2208.01837)<br>:star:[code](https://github.com/ewrfcas/MAE-FAR)
   * [Inpainting at Modern Camera Resolution by Guided PatchMatch with Auto-Curation](https://arxiv.org/abs/2208.03552)<br>:star:[code](https://drive.google.com/file/d/1Lmar1byASRReJ0SimBfWAE2Dt_-gMhor/edit)
@@ -1181,15 +1270,20 @@
   * [Seeing Far in the Dark with Patterned Flash](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660698.pdf)<br>:star:[code](https://github.com/zhsun0357/Seeing-Far-in-the-Dark-with-Patterned-Flash)
 * 图像和谐化 
   * [DCCF: Deep Comprehensible Color Filter Learning Framework for High-Resolution Image Harmonization](https://arxiv.org/abs/2207.04788)<br>:open_mouth:oral:star:[code](https://github.com/rockeyben/DCCF)
+  * [Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670327.pdf)<br>:star:[code](http://github.com/stefanLeong/S2CRNet)
 * 去噪
   * [Deep Semantic Statistics Matching (D2SM) Denoising Network](https://arxiv.org/abs/2207.09302)<br>:star:[code](https://github.com/MKFMIKU/d2sm):house:[project](https://kfmei.page/d2sm/)
   * [Optimizing Image Compression via Joint Learning with Denoising](https://arxiv.org/abs/2207.10869)<br>:star:[code](https://github.com/felixcheng97/DenoiseCompression)
 * 去雪
   * [SLiDE: Self-supervised LiDAR De-snowing through Reconstruction Difficulty](https://arxiv.org/abs/2208.04043) 
+* 去雨
+  * [Not Just Streaks: Towards Ground Truth for Single Image Deraining](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670713.pdf)<br>:house:[project](https://visual.ee.ucla.edu/gt_rain.htm/)
 * 去模糊
   * [Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance](https://arxiv.org/abs/2207.10123)<br>:star:[code](https://github.com/zzh-tech/Animation-from-Blur)
   * [Learning Degradation Representations for Image Deblurring](https://arxiv.org/abs/2208.05244)<br>:star:[code](https://github.com/dasongli1/Learning_degradation)
   * [Learning Deep Non-Blind Image Deconvolution without Ground Truths](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660631.pdf)
+  * [DeMFI: Deep Joint Deblurring and Multi-Frame Interpolation with Flow-Guided Attentive Correlation and Recursive Boosting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670193.pdf)<br>:star:[code](https://github.com/JihyongOh/DeMFI)
+  * [Realistic Blur Synthesis for Learning Image Deblurring](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670481.pdf)<br>:house:[project](http://cg.postech.ac.kr/research/RSBlur/)
 * 去摩尔纹
   * [Towards Efficient and Scale-Robust Ultra-High-Definition Image Demoireing](https://arxiv.org/abs/2207.09935)<br>:star:[code](https://github.com/CVMI-Lab/UHDM):house:[project](https://xinyu-andy.github.io/uhdm-page/)
 * 语义图像编辑
@@ -1197,6 +1291,14 @@
 * 图像着色
   * [PalGAN: Image Colorization with Palette Generative Adversarial Networks](https://arxiv.org/abs/2210.11204)<br>:star:[code](https://github.com/shepnerd/PalGAN)
   * [Semantic-Sparse Colorization Network for Deep Exemplar-Based Colorization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660495.pdf)
+  * [CT2: Colorization Transformer via Color Tokens](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670001.pdf)
+  * [BigColor: Colorization Using a Generative Color Prior for Natural Images](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670343.pdf)
+* 图像裁剪
+  * [Human-Centric Image Cropping with Partition-Aware and Content-Preserving Features](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670176.pdf)<br>:star:[code](https://github.com/bcmi/Human-Centric-Image-Cropping)
+* 图像融合
+  * [Neural Image Representations for Multi-Image Fusion and Layer Separation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670210.pdf)<br>:house:[project](https://shnnam.github.io/research/nir/)
+* Rolling shutter(果冻效应)
+  * [Bringing Rolling Shutter Images Alive with Dual Reversed Distortion](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670227.pdf)<br>:star:[code](https://github.com/zzh-tech/Dual-Reversed-RS)
   
 <a name="2"/>
 
@@ -1306,5 +1408,16 @@
 * [S2N: Suppression-Strengthen Network for Event-Based Recognition under Variant Illuminations](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630701.pdf)<br>:star:[code](https://github.com/wanzengy/S2N-Suppression-Strengthen-Network)
 * [A Spectral View of Randomized Smoothing under Common Corruptions: Benchmarking and Improving Certified Robustness](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640645.pdf)
 * [Transform Your Smartphone into a DSLR Camera: Learning the ISP in the Wild](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660614.pdf)<br>:star:[code](https://github.com/4rdhendu/TransformPhone2DSLR)  
+* [Data Association between Event Streams and Intensity Frames under Diverse Baselines](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670071.pdf)
+* [Instance Contour Adjustment via Structure-Driven CNN](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670142.pdf)
+* [3D Scene Inference from Transient Histograms](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670394.pdf)
+* [Neural Space-Filling Curves](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670412.pdf)<br>:house:[project](https://hywang66.github.io/publication/neuralsfc)
+* [LWGNet – Learned Wirtinger Gradients for Fourier Ptychographic Phase Retrieval](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670515.pdf)<br>:star:[code](https://github.com/at3e/LWGNet.git)
+* [PANDORA: Polarization-Aided Neural Decomposition of Radiance](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670531.pdf)
+* [Benchmarking Omni-Vision Representation through the Lens of Visual Realms](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670587.pdf)<br>:house:[project](https://zhangyuanhan-ai.github.io/OmniBenchmark)
+
+
+  
+
 扫码CV君微信（注明：CVPR）入微信交流群：
 ![image](https://user-images.githubusercontent.com/62801906/178399331-6a7c8997-b0d0-49a1-8fd7-4f1202d46382.png)
