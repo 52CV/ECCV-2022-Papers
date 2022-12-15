@@ -36,7 +36,7 @@
 
 
 * 从文本描述中生成不同的人类动作
-  * [TEMOS: Generating Diverse Human Motions from Textual Descriptions](TEMOS: Generating Diverse Human Motions from Textual Descriptions)<br>:open_mouth:oral:star:[code](https://github.com/Mathux/TEMOS):house:[project](https://mathis.petrovich.fr/temos/)
+  * [TEMOS: Generating Diverse Human Motions from Textual Descriptions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820468.pdf)<br>:open_mouth:oral:star:[code](https://github.com/Mathux/TEMOS):house:[project](https://mathis.petrovich.fr/temos/)
 * 人体运动捕捉
   * [HULC: 3D HUman Motion Capture with Pose Manifold SampLing and Dense Contact Guidance](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820503.pdf)<br>:house:[project](https://vcai.mpi-inf.mpg.de/projects/HULC/)
 * 相机
@@ -948,7 +948,7 @@
   * [StoryDALL-E: Adapting Pretrained Text-to-Image Transformers for Story Continuation](https://arxiv.org/abs/2209.06192)<br>:star:[code](https://github.com/adymaharana/storydalle)
   * [Make-a-Scene: Scene-Based Text-to-Image Generation with Human Priors](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750087.pdf)<br>:tv:[video](https://www.youtube.com/watch?v=N4BagnXzPXY)
 * 从文本描述中生成不同的人类动作
-  * [TEMOS: Generating Diverse Human Motions from Textual Descriptions](TEMOS: Generating Diverse Human Motions from Textual Descriptions)<br>:open_mouth:oral:star:[code](https://github.com/Mathux/TEMOS):house:[project](https://mathis.petrovich.fr/temos/)
+  * [TEMOS: Generating Diverse Human Motions from Textual Descriptions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820468.pdf)<br>:open_mouth:oral:star:[code](https://github.com/Mathux/TEMOS):house:[project](https://mathis.petrovich.fr/temos/)
 
 <a name="18"/>
 
