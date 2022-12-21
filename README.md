@@ -33,53 +33,62 @@
 |[17.GAN](#17)|[18.Image-to-Image Translation(图像到图像翻译)](#18)|[19.Image Synthesis/Generation(图像合成)](#19)|[20.Face(人脸)](#20)|
 |[21.Semi/self-supervised learning(半/自监督)](#21)|[22.OCR](#22)|[23.Medical Image(医学影像)](#23)|[24.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)](#24)|
 
-## 12月20日整理 30 篇
-
-* 分割
-  * [Unsupervised Segmentation in Real-World Images via Spelke Object Inference](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890708.pdf)
-  
-  * [Fast Two-View Motion Segmentation Using Christoffel Polynomials](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900001.pdf)
-  
-  * [A Simple Baseline for Open-Vocabulary Semantic Segmentation with Pre-trained Vision-Language Model](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890725.pdf)<br>:star:[code](https://github.com/MendelXu/zsseg.baseline)
-  * [UCTNet: Uncertainty-Aware Cross-Modal Transformer Network for Indoor RGB-D Semantic Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900020.pdf)
-  * [Cross-Domain Few-Shot Semantic Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900072.pdf)<br>:star:[code](https://github.com/slei109/PATNet)
-  * [CP2: Copy-Paste Contrastive Pretraining for Semantic Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900494.pdf)<br>:star:[code](https://github.com/wangf3014/CP2)
-  * [HRDA: Context-Aware High-Resolution Domain-Adaptive Semantic Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900370.pdf)<br>:star:[code](https://github.com/lhoyer/HRDA)
-  
-  * [Learning Regional Purity for Instance Segmentation on 3D Point Clouds](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900055.pdf)
-
-  * [Improving Few-Shot Part Segmentation Using Coarse Supervision](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900282.pdf)
-* 对比学习
-  * [Generative Subgraph Contrast for Self-Supervised Graph Representation Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900090.pdf)<br>:star:[code](https://github.com/yh-han/GSC)
-* 无监督
-  * [Dense Siamese Network for Dense Unsupervised Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900460.pdf)<br>:star:[code](https://github.com/ZwwWayne/DenseSiam)
-* 半监督
-  * [Vibration-Based Uncertainty Estimation for Learning from Limited Supervision](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900160.pdf)
-  * [Unsupervised Selective Labeling for More Effective Semi-Supervised Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900423.pdf)
-  * [RDA: Reciprocal Distribution Alignment for Robust Semi-Supervised Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900527.pdf)<br>:star:[code](https://github.com/NJUyued/RDA4RobustSSL)
-  * [Semi-Supervised Vision Transformers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900596.pdf)<br>:star:[code](https://github.com/wengzejia1/Semiformer)
-  * [CA-SSL: Class-Agnostic Semi-Supervised Learning for Detection and Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910057.pdf)
-* 自监督
-  * [Mc-BEiT: Multi-Choice Discretization for Image BERT Pre-training](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900229.pdf)<br>:star:[code](https://github.com/lixiaotong97/mc-BEiT)
-  * [What to Hide from Your Students: Attention-Guided Masked Image Modeling](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900299.pdf)<br>:star:[code](https://github.com/gkakogeorgiou/attmask)
-  * [Constrained Mean Shift Using Distant Yet Related Neighbors for Representation Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910021.pdf)<br>:star:[code](https://github.com/UCDvision/CMSF)
-  * [Semantic-Aware Fine-Grained Correspondence](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910093.pdf)
-  * [Self-Supervised Classification Network](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910112.pdf)<br>:star:[code](https://github.com/elad-amrani/self-classifier)
-  * [Dual-Domain Self-Supervised Learning and Model Adaption for Deep Compressive Imaging](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900406.pdf)
+## 12月21日整理 32 篇
 * OD
-  * [Weakly Supervised Object Localization through Inter-class Feature Similarity and Intra-Class Appearance Consistency](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900194.pdf)
-  * [Diverse Learner: Exploring Diverse Supervision for Semi-Supervised Object Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900631.pdf)
-  * [W2N: Switching from Weak Supervision to Noisy Supervision for Object Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900699.pdf)<br>:star:[code](https://github.com/1170300714/w2n_wsod)
+  * [Semi-Supervised Object Detection via Virtual Category Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910164.pdf)<br>:star:[code](https://github.com/GeoffreyChen777/VC)
+* OOD
+  * [Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910129.pdf)
+* 无监督
+  * [DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910336.pdf)
+* 自监督
+  * [Domain Invariant Masked Autoencoders for Self-Supervised Learning from Multi-Domains](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910147.pdf)
+  * [Improving Self-Supervised Lightweight Model Learning via Hard-Aware Metric Distillation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910286.pdf)<br>:star:[code](https://github.com/liuhao-lh/SMD)
+  * [Masked Siamese Networks for Label-Efficient Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910442.pdf)<br>:star:[code](https://github.com/facebookresearch/msn)
+  * [Natural Synthetic Anomalies for Self-Supervised Anomaly Detection and Localization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910459.pdf)<br>:star:[code](https://github.com/hmsch/natural-synthetic-anomalies)
+  * [Understanding Collapse in Non-Contrastive Siamese Representation Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910476.pdf)
+* 半监督
+  * [PSS: Progressive Sample Selection for Open-World Visual Representation Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910269.pdf)<br>:star:[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander/PSS)
+  * [Stochastic Consensus: Enhancing Semi-Supervised Learning with Consistency of Stochastic Classifiers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910319.pdf)
+* 人群计数
+  * [Completely Self-Supervised Crowd Counting via Distribution Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910180.pdf)
+* 小样本
+  * [Coarse-to-Fine Incremental Few-Shot Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910199.pdf)
+* 域适应
+  * [Learning Unbiased Transferability for Domain Adaptation by Uncertainty Modeling](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910216.pdf)
+* 动作识别
+  * [Learn2Augment: Learning to Composite Videos for Data Augmentation in Action Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910234.pdf)<br>:house:[project](https://sites.google.com/view/learn2augment/home)
+* 分类
+  * [Embedding Contrastive Unsupervised Features to Cluster in- and Out-of-Distribution Noise in Corrupted Image Datasets](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910389.pdf)
+  * [Unsupervised Few-Shot Image Classification by Learning Features into Clustering Space](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910406.pdf)
+* 视频理解
+  * [Federated Self-Supervised Learning for Video Understanding](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910492.pdf)<br>:star:[code](https://github.com/yasar-rehman/FEDVSSL)
 * AD
-  * [Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900353.pdf)
-  * [SPot-the-Difference Self-Supervised Pre-training for Anomaly Detection and Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900389.pdf)<br>:star:[code](https://github.com/amazon-science/spot-diff)
-* 去模糊
-  * [United Defocus Blur Detection and Deblurring via Adversarial Promoting Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900562.pdf)<br>:star:[code](https://github.com/wdzhao123/APL)
+  * [DSR – A Dual Subspace Re-Projection Network for Surface Anomaly Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910526.pdf)<br>:star:[code](https://github.com/VitjanZ/DSR_anomaly_detection)
+* 3D
+  * [Learning Online Multi-sensor Depth Fusion](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920088.pdf)<br>:star:[code](https://github.com/tfy14esa/SenFuNet)
+* MVS
+  * [MVSTER: Epipolar Transformer for Efficient Multi-View Stereo](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910561.pdf)<br>:star:[code](https://github.com/JeffWang987/MVSTER)
+  * [KD-MVS: Knowledge Distillation Based Self-Supervised Learning for Multi-View Stereo](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910615.pdf)<br>:star:[code](https://github.com/megvii-research/KD-MVS)
+  * [RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910649.pdf)<br>:star:[code](https://github.com/Boese0601/RC-MVSNet)
+  * [Multiview Stereo with Cascaded Epipolar RAFT](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910718.pdf)<br>:star:[code](https://github.com/princeton-vl/CER-MVS)
+* 新视图合成
+  * [R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910598.pdf)<br>:house:[project](https://snap-research.github.io/R2L)
+  * [NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920069.pdf)<br>:star:[code](https://github.com/Crishawy/NeXT)
+* 渲染
+  * [BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-Scale Scene Rendering](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920106.pdf)
+ 
+  
+* 分割
+  * [Box2Mask: Weakly Supervised 3D Semantic Instance Segmentation Using Bounding Boxes](Box2Mask: Weakly Supervised 3D Semantic Instance Segmentation Using Bounding Boxes)<br>:house:[project](https://virtualhumans.mpi-inf.mpg.de/box2mask/)
+* 光场
+  * [NeILF: Neural Incident Light Field for Physically-Based Material Estimation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910684.pdf)
+* 风格迁移
+  * [ARF: Artistic Radiance Fields](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910701.pdf)<br>:house:[project](https://www.cs.cornell.edu/projects/arf/)
+
 * 其它
-  * [MVP: Multimodality-Guided Visual Pre-training](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900336.pdf)
-  * [Self-Filtering: A Noise-Aware Sample Selection for Label Noise with Confidence Penalization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900511.pdf)
-
-
+  * [CYBORGS: Contrastively Bootstrapping Object Representations by Grounding in Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910251.pdf)<br>:star:[code](https://github.com/renwang435/CYBORGS)
+  * [SALVe: Semantic Alignment Verification for Floorplan Reconstruction from Sparse Panoramas](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910632.pdf)
+  
 
 ### —————————————————————————————————————————————
 * human relighting
@@ -167,6 +176,7 @@
 * 光场
   * [Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion](https://arxiv.org/abs/2208.09480)<br>:house:[project](https://nv-tlabs.github.io/outdoor-ar/)
   * [Synthesizing Light Field Video from Monocular Video](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670158.pdf)<br>:star:[code](https://github.com/ShrisudhanG/Synthesizing-Light-Field-Video-from-Monocular-Video)
+  * [NeILF: Neural Incident Light Field for Physically-Based Material Estimation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910684.pdf)
 
 ## Data Augmentation(数据增强)
 * [TokenMix: Rethinking Image Mixing for Data Augmentation in Vision Transformers](https://arxiv.org/abs/2207.08409)<br>:star:[code](https://github.com/Sense-X/TokenMix)
@@ -208,16 +218,20 @@
 ## Style Transfer(风格迁移)
 * [CCPL: Contrastive Coherence Preserving Loss for Versatile Style Transfer](https://arxiv.org/abs/2207.04808)<br>:open_mouth:oral:star:[code](https://github.com/JarrentWu1031/CCPL)
 * [Learning Graph Neural Networks for Image Style Transfer](https://arxiv.org/abs/2207.11681)
+* [ARF: Artistic Radiance Fields](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910701.pdf)<br>:house:[project](https://www.cs.cornell.edu/projects/arf/)
 * 图像风格化
   * [WISE: Whitebox Image Stylization by Example-based Learning](https://arxiv.org/abs/2207.14606)<br>:star:[code](https://github.com/winfried-loetzsch/wise)
 * 发型迁移
   * [Style Your Hair: Latent Optimization for Pose-Invariant Hairstyle Transfer via Local-Style-Aware Hair Alignment](https://arxiv.org/abs/2208.07765)<br>:star:[code](https://github.com/Taeu/Style-Your-Hair)
+
 
 ## View Generation(视图生成)
 * [InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images](https://arxiv.org/abs/2207.11148)<br>:open_mouth:oral
 * [CompNVS: Novel View Synthesis with Scene Completion](https://arxiv.org/abs/2207.11467)
 * [HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields](https://arxiv.org/abs/2208.06787)<br>:star:[code](https://github.com/postech-ami/HDR-Plenoxels)
 * [Neural Radiance Transfer Fields for Relightable Novel-View Synthesis with Global Illumination](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770155.pdf) 
+* [R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910598.pdf)<br>:house:[project](https://snap-research.github.io/R2L)
+* [NeXT: Towards High Quality Neural Radiance Fields via Multi-Skip Transformer](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920069.pdf)<br>:star:[code](https://github.com/Crishawy/NeXT) 
 
 ## Dataset(数据集)
 * [COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts](https://arxiv.org/abs/2207.04675)<br>:star:[code](https://github.com/ku21fan/COO-Comic-Onomatopoeia)<br>用于识别任意或截断文本的漫画拟声词数据集
@@ -246,6 +260,7 @@
 ## Anomaly Detection(异常检测)
 * [Registration based Few-Shot Anomaly Detection](https://arxiv.org/abs/2207.07361)<br>:open_mouth:oral:star:[code](https://github.com/MediaBrain-SJTU/RegAD)
 * [Dynamic Local Aggregation Network with Adaptive Clusterer for Anomaly Detection](https://arxiv.org/abs/2207.10948)<br>:star:[code](https://github.com/Beyond-Zw/DLAN-AC)
+* [DSR – A Dual Subspace Re-Projection Network for Surface Anomaly Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910526.pdf)<br>:star:[code](https://github.com/VitjanZ/DSR_anomaly_detection) 
 * [Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900353.pdf)
 * [SPot-the-Difference Self-Supervised Pre-training for Anomaly Detection and Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900389.pdf)<br>:star:[code](https://github.com/amazon-science/spot-diff)
 * [HaloAE: An HaloNet based Local Transformer Auto-Encoder for Anomaly Detection and Localization](https://arxiv.org/abs/2208.03486)
@@ -271,6 +286,7 @@
 * [ViewFormer: NeRF-Free Neural Rendering from Few Images Using Transformers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136750195.pdf)<br>:star:[code](https://github.com/jkulhanek/viewformer)
 * [GeoAug: Data Augmentation for Few-Shot NeRF with Geometry Constraints](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770326.pdf)
 * [SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820712.pdf)<br>:star:[code](https://vita-group.github.io/SinNeRF/)  
+* [BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-Scale Scene Rendering](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920106.pdf)  
 
 ## Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/适应)
 * 小样本
@@ -282,6 +298,7 @@
   * [Worst Case Matters for Few-Shot Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800092.pdf)
   * [Learning Instance and Task-Aware Dynamic Kernels for Few-Shot Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800247.pdf)
   * [Self-Promoted Supervision for Few-Shot Transformer](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800318.pdf)<br>:star:[code](https://github.com/DongSky/few-shot-vit)
+  * [Coarse-to-Fine Incremental Few-Shot Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910199.pdf)
   * [Improving Few-Shot Learning through Multi-task Representation Learning Theory](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800423.pdf)
   * [TransVLAD: Focusing on Locally Aggregated Descriptors for Few-Shot Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800509.pdf)
   * [Kernel Relative-Prototype Spectral Filtering for Few-Shot Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800527.pdf)<br>:star:[code](https://github.com/zhangtao2022/DSFN)
@@ -299,6 +316,7 @@
   * [Concurrent Subsidiary Supervision for Unsupervised Source-Free Domain Adaptation](https://arxiv.org/abs/2207.13247)<br>:star:[code](https://github.com/val-iisc/StickerDA):house:[project](https://sites.google.com/view/sticker-sfda)
   * [Combating Label Distribution Shift for Active Domain Adaptation](https://arxiv.org/abs/2208.06604)
   * [Uncertainty-guided Source-free Domain Adaptation](https://arxiv.org/abs/2208.07591)<br>:star:[code](https://github.com/roysubhankar/uncertainty-sfda)
+  * [Learning Unbiased Transferability for Domain Adaptation by Uncertainty Modeling](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910216.pdf)
 * 域泛化
   * [Grounding Visual Representations with Texts for Domain Generalization](https://arxiv.org/abs/2207.10285)<br>:star:[code](https://github.com/mswzeus/GVRT)
   * [Improving Test-Time Adaptation via Shift-agnostic Weight Regularization and Nearest Source Prototypes](https://arxiv.org/abs/2207.11707)
@@ -565,6 +583,7 @@
   * [Domain Adaptive Person Search](https://arxiv.org/abs/2207.11898)<br>:open_mouth:oral:star:[code](https://github.com/caposerenity/DAPS)
 * 人群计数
   * [An End-to-End Transformer Model for Crowd Localization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610037.pdf)<br>:house:[project](https://dk-liang.github.io/CLTR/)
+  * [Completely Self-Supervised Crowd Counting via Distribution Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910180.pdf)
   * [Calibration-Free Multi-View Crowd Counting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690224.pdf)
 * Visual Search
   * [Target-Absent Human Attention](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640051.pdf)<br>:star:[code](https://github.com/cvlab-stonybrook/Target-absent-Human-Attention)
@@ -585,7 +604,7 @@
 * [Learning Where to Look – Generative NAS Is Surprisingly Efficient](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830257.pdf)<br>:star:[code](https://github.com/jovitalukasik/AG-Net)
 * [Neural Architecture Search for Spiking Neural Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840036.pdf) 
 * [Data-Free Neural Architecture Search via Recursive Label Calibration](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840386.pdf)<br>:star:[code](https://github.com/liuzechun/Data-Free-NAS)  
- 
+
 ## Image Classification(图像分类)
 * [Exploring Fine-Grained Audiovisual Categorization with the SSW60 Dataset](https://arxiv.org/abs/2207.10664)<br>:star:[code](https://github.com/visipedia/ssw60)
 * [Centrality and Consistency: Two-Stage Clean Samples Identification for Learning with Instance-Dependent Noisy Labels](https://arxiv.org/abs/2207.14476)<br>:star:[code](https://github.com/uitrbn/TSCSI_IDN)
@@ -606,6 +625,8 @@
 * [RealPatch: A Statistical Matching Framework for Model Patching with Real Samples](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850144.pdf)<br>:star:[code](https://github.com/wearepal/RealPatch)
 * [TDAM: Top-Down Attention Module for Contextually Guided Feature Selection in CNNs](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850255.pdf)<br>:star:[code](https://github.com/shantanuj/TDAM_Top_down_attention_module)
 * [Automatic Check-Out via Prototype-Based Classifier Learning from Single-Product Exemplars](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850273.pdf)<br>:star:[code](https://github.com/Hao-Chen-NJUST/PSP)
+* [Embedding Contrastive Unsupervised Features to Cluster in- and Out-of-Distribution Noise in Corrupted Image Datasets](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910389.pdf)
+* [Unsupervised Few-Shot Image Classification by Learning Features into Clustering Space](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910406.pdf)
 * 小样本图像分类
   * [Tree Structure-Aware Few-Shot Image Classification via Hierarchical Aggregation](https://arxiv.org/abs/2207.06989)<br>:star:[code](https://github.com/remiMZ/HTS-ECCV22) 
   * [Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification](https://arxiv.org/abs/2207.09519)<br>:star:[code](https://github.com/gaopengcuhk/Tip-Adapter)
@@ -775,6 +796,7 @@
   * [Dense Siamese Network for Dense Unsupervised Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900460.pdf)<br>:star:[code](https://github.com/ZwwWayne/DenseSiam)
   * [Contrastive Positive Mining for Unsupervised 3D Action Representation Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640035.pdf)
   * [Relative Contrastive Loss for Unsupervised Representation Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870001.pdf)
+  * [DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion Model](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910336.pdf)
 * 弱监督
   * [Acknowledging the Unknown for Multi-Label Learning with Single Positive Labels](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840418.pdf)<br>:star:[code](https://github.com/Correr-Zhou/SPML-AckTheUnknown)
 * 自监督
@@ -797,6 +819,11 @@
   * [Self-Supervised Learning of Visual Graph Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830359.pdf)<br>:star:[code](https://github.com/Thinklab-SJTU/ThinkMatch-SCGM)
   * [DisCo: Remedying Self-Supervised Learning on Lightweight Models with Distilled Contrastive Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860233.pdf)<br>:star:[code](https://github.com/Yuting-Gao/DisCo-pytorch)
   * [SLIP: Self-Supervision Meets Language-Image Pre-training](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860514.pdf)<br>:star:[code](https://github.com/facebookresearch/SLIP)
+  * [Domain Invariant Masked Autoencoders for Self-Supervised Learning from Multi-Domains](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910147.pdf)
+  * [Improving Self-Supervised Lightweight Model Learning via Hard-Aware Metric Distillation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910286.pdf)<br>:star:[code](https://github.com/liuhao-lh/SMD)
+  * [Masked Siamese Networks for Label-Efficient Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910442.pdf)<br>:star:[code](https://github.com/facebookresearch/msn)
+  * [Natural Synthetic Anomalies for Self-Supervised Anomaly Detection and Localization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910459.pdf)<br>:star:[code](https://github.com/hmsch/natural-synthetic-anomalies)
+  * [Understanding Collapse in Non-Contrastive Siamese Representation Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910476.pdf)
   * [Discovering Deformable Keypoint Pyramids](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136860531.pdf)<br>:star:[code](https://github.com/jianingq/KeypointPyramids)
 * 半监督
   * [Towards Realistic Semi-Supervised Learning](https://arxiv.org/abs/2207.02269)
@@ -810,6 +837,8 @@
   * [CA-SSL: Class-Agnostic Semi-Supervised Learning for Detection and Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910057.pdf)
   * [RVSL: Robust Vehicle Similarity Learning in Real Hazy Scenes Based on Semi-supervised Learning](https://arxiv.org/abs/2209.08630)<br>:star:[code](https://github.com/Cihsaing/rvsl-robust-vehicle-similarity-learning--ECCV22)
   * [Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810586.pdf)
+  * [PSS: Progressive Sample Selection for Open-World Visual Representation Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910269.pdf)<br>:star:[code](https://github.com/dmlc/dgl/tree/master/examples/pytorch/hilander/PSS)
+  * [Stochastic Consensus: Enhancing Semi-Supervised Learning with Consistency of Stochastic Classifiers](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910319.pdf)
 * 监督学习
   * [Supervised Attribute Information Removal and Reconstruction for Image Manipulation](https://arxiv.org/abs/2207.06555)<br>:star:[code](https://github.com/NannanLi999/AIRR)
   * [Tailoring Self-Supervision for Supervised Learning](https://arxiv.org/abs/2207.10023)<br>:star:[code](https://github.com/wjun0830/Localizable-Rotation)  
@@ -1057,12 +1086,13 @@
     * [Grasp'D: Differentiable Contact-Rich Grasp Synthesis for Multi-Fingered Hands](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660197.pdf)<br>:house:[project](https://graspd-eccv22.github.io/)
 * 人椅互动
   * [COUCH: Towards Controllable Human-Chair Interactions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650508.pdf)  
-
+ 
 <a name="12"/>
 
 ## 12.Action Detection(人体动作检测与识别)
 * 动作识别
   * [PrivHAR: Recognizing Human Actions from Privacy-Preserving Lens](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136640310.pdf)<br>:house:[project](https://carloshinojosa.me/project/privhar/)
+  * [Learn2Augment: Learning to Composite Videos for Data Augmentation in Action Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910234.pdf)<br>:house:[project](https://sites.google.com/view/learn2augment/home)
   * [Hierarchically Self-Supervised Transformer for Human Skeleton Representation Learning](https://arxiv.org/abs/2207.09644)<br>:star:[code](https://github.com/yuxiaochen1103/Hi-TRS)
   * [An Efficient Spatio-Temporal Pyramid Transformer for Action Detection](https://arxiv.org/abs/2207.10448)
   * [Spatiotemporal Self-attention Modeling with Temporal Patch Shift for Action Recognition](https://arxiv.org/abs/2207.13259)<br>:star:[code](https://github.com/MartinXM/TPS)
@@ -1185,6 +1215,7 @@
   * [Panoramic Vision Transformer for Saliency Detection in 360° Videos](https://arxiv.org/abs/2209.08956)<br>:star:[code](https://github.com/hs-yn/PAVER)
   * [Streaming Multiscale Deep Equilibrium Models](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136710189.pdf)<br>:house:[project](https://ufukertenli.github.io/streamdeq/)
   * [Learning Shadow Correspondence for Video Shadow Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136770709.pdf)
+  * [Federated Self-Supervised Learning for Video Understanding](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910492.pdf)<br>:star:[code](https://github.com/yasar-rehman/FEDVSSL)
 * 视频分类
   * [Inductive and Transductive Few-Shot Video Classification via Appearance and Temporal Alignments](https://arxiv.org/abs/2207.10785)<br>:star:[code](https://github.com/VinAIResearch/fsvc-ata)
 * 视频卷帘快门(Rolling shutter)
@@ -1349,7 +1380,12 @@
 * [Towards High-Fidelity Single-view Holistic Reconstruction of Indoor Scenes](https://arxiv.org/abs/2207.08656)<br>:star:[code](https://github.com/UncleMEDM/InstPIFu)
 * [Self-calibrating Photometric Stereo by Neural Inverse Rendering](https://arxiv.org/abs/2207.07815)<br>:star:[code](https://github.com/junxuan-li/SCPS-NIR)
 * [3DG-STFM: 3D Geometric Guided Student-Teacher Feature Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136880124.pdf)<br>:star:[code](https://github.com/Ryan-prime/3DG-STFM) 
+* [Learning Online Multi-sensor Depth Fusion](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920088.pdf)<br>:star:[code](https://github.com/tfy14esa/SenFuNet)
 * MVS
+  * [MVSTER: Epipolar Transformer for Efficient Multi-View Stereo](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910561.pdf)<br>:star:[code](https://github.com/JeffWang987/MVSTER)
+  * [KD-MVS: Knowledge Distillation Based Self-Supervised Learning for Multi-View Stereo](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910615.pdf)<br>:star:[code](https://github.com/megvii-research/KD-MVS)
+  * [RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910649.pdf)<br>:star:[code](https://github.com/Boese0601/RC-MVSNet)
+  * [Multiview Stereo with Cascaded Epipolar RAFT](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910718.pdf)<br>:star:[code](https://github.com/princeton-vl/CER-MVS)
   * MVPS
     * [PS-NeRF: Neural Inverse Rendering for Multi-view Photometric Stereo](https://arxiv.org/abs/2207.11406)<br>:house:[project](https://ywq.github.io/psnerf/)
 * 3D场景合成
@@ -1544,6 +1580,7 @@
   * [Enhancing Multi-modal Features Using Local Self-Attention for 3D Object Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700527.pdf)
 * 半监督目标检测
   * [Dense Teacher: Dense Pseudo-Labels for Semi-supervised Object Detection](https://arxiv.org/abs/2207.02541)<br>:star:[code](https://github.com/Megvii-BaseDetection/DenseTeacher)
+  * [Semi-Supervised Object Detection via Virtual Category Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910164.pdf)<br>:star:[code](https://github.com/GeoffreyChen777/VC)
   * [Open-Set Semi-Supervised Object Detection](https://arxiv.org/abs/2208.13722)<br>:star:[code](https://github.com/facebookresearch/OSSOD):house:[project](https://ycliu93.github.io/projects/ossod.html)
   * [PseCo: Pseudo Labeling and Consistency Training for Semi-Supervised Object Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690449.pdf)<br>:star:[code](https://github.com/ligang-cs/PseCo)
   * [Diverse Learner: Exploring Diverse Supervision for Semi-Supervised Object Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900631.pdf)
@@ -1583,6 +1620,7 @@
   * [Out-of-Distribution Detection with Boundary Aware Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840232.pdf) 
   * [DICE: Leveraging Sparsification for Out-of-Distribution Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840680.pdf)<br>:star:[code](https://github.com/deeplearning-wisc/dice)
   * [Class Is Invariant to Context and Vice Versa: On Learning Invariance for Out-of-Distribution Generalization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850089.pdf)<br>:star:[code](https://github.com/simpleshinobu/IRMCon)
+  * [Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910129.pdf)
 * VOD
   * [PTSEFormer: Progressive Temporal-Spatial Enhanced TransFormer towards Video Object Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680719.pdf)<br>:star:[code](https://github.com/Hon-Wong/PTSEFormer)
   * [SALISA: Saliency-Based Input Sampling for Efficient Video Object Detection](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700296.pdf) 
@@ -1792,6 +1830,7 @@
   * [Trapped in Texture Bias? A Large Scale Comparison of Deep Instance Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680597.pdf)<br>:star:[code](https://github.com/JohannesTheo/trapped-in-texture-bias)
   * [Learning with Free Object Segments for Long-Tailed Instance Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700648.pdf)<br>:star:[code](https://github.com/czhang0528/FreeSeg)
   * [A Simple Single-Scale Vision Transformer for Object Detection and Instance Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700697.pdf)<br>:star:[code](https://github.com/tensorflow/models/tree/master/official/projects/uvit)
+  * [Box2Mask: Weakly Supervised 3D Semantic Instance Segmentation Using Bounding Boxes](Box2Mask: Weakly Supervised 3D Semantic Instance Segmentation Using Bounding Boxes)<br>:house:[project](https://virtualhumans.mpi-inf.mpg.de/box2mask/)
   * [Learning to Detect Every Thing in an Open World](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840265.pdf)<br>:house:[project](https://ksaito-ut.github.io/openworld_ldet/)  
 * 全景分割
   * [Pointly-Supervised Panoptic Segmentation](https://arxiv.org/abs/2210.13950)<br>:star:[code](https://github.com/BraveGroup/PSPS)
@@ -1815,10 +1854,12 @@
   * [Generative Adversarial Network for Future Hand Segmentation from Egocentric Video](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730638.pdf)<br>:house:[project](https://vjwq.github.io/EgoGAN/)
 * 零件分割
  * [Improving Few-Shot Part Segmentation Using Coarse Supervision](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900282.pdf) 
-   
+
 <a name="1"/>
 
 ## 1.其它
+* [CYBORGS: Contrastively Bootstrapping Object Representations by Grounding in Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910251.pdf)<br>:star:[code](https://github.com/renwang435/CYBORGS)
+* [SALVe: Semantic Alignment Verification for Floorplan Reconstruction from Sparse Panoramas](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910632.pdf)
 * [MVP: Multimodality-Guided Visual Pre-training](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900336.pdf)
 * [Self-Filtering: A Noise-Aware Sample Selection for Label Noise with Confidence Penalization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900511.pdf)
 * [Learning to Learn with Smooth Regularization](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830533.pdf)<br>:star:[code](https://github.com/xyh97/SmoothedOptimizer)
