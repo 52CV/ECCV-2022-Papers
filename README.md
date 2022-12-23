@@ -159,7 +159,7 @@
 * [BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis](https://arxiv.org/abs/2207.10120)<br>:sunflower:[dataset](https://github.com/dmoltisanti/brace/)<br>用于舞蹈动作合成的霹雳舞比赛数据集
 * [CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://arxiv.org/abs/2207.12393)<br>:sunflower:[dataset](https://github.com/CelebV-HQ/CelebV-HQ):house:[project](https://celebv-hq.github.io/)<br>一个大规模的视频人脸属性数据集
 * [UnrealEgo: A New Dataset for Robust Egocentric 3D Human Motion Capture](https://arxiv.org/abs/2208.01633)<br>:star:[code](https://github.com/hiroyasuakada/UnrealEgo):house:[project](https://4dqv.mpi-inf.mpg.de/UnrealEgo/)<br>用于鲁棒性以自我为中心的三维人类运动捕捉的新数据集
-* [BEAT: A Large-Scale Semantic and Emotional Multi-modal Dataset for Conversational Gestures Synthesis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670605.pdf)<br>:sunflower:[dataset](https://pantomatrix.github.io/BEAT/)<br>会话手势合成
+* [BEAT: A Large-Scale Semantic and Emotional Multi-modal Dataset for Conversational Gestures Synthesis](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670605.pdf)<br>:sunflower:[dataset](https://pantomatrix.github.io/BEAT/)<br>:newspaper:[ECCV 2022 | 76小时动捕，最大规模数字人多模态数据集开源](https://mp.weixin.qq.com/s/dROXHNrEPNBZgYU6YzTEWQ)
 * [MovieCuts: A New Dataset and Benchmark for Cut Type Recognition](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670659.pdf)<br>:sunflower:[dataset](https://github.com/PardoAlejo/MovieCuts)<br>剪切类型识别  
 * [A Real World Dataset for Multi-View 3D Reconstruction](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680054.pdf)<br>:sunflower:[dataset](http://www.ocrtoc.org/#/3D-Reconstruction)<br>三维重建
 * [Capturing, Reconstructing, and Simulating: The UrbanScene3D Dataset](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680090.pdf)<br>:sunflower:[dataset](https://vcc.tech/UrbanScene3D)<br>城市场景重建
@@ -340,7 +340,7 @@
 <a name="40"/>
 
 ## 40.Adversarial  Learning(对抗学习)
-* [Prior-Guided Adversarial Initialization for Fast Adversarial Training](https://arxiv.org/abs/2207.08859)<br>:star:[code](https://github.com/jiaxiaojunQAQ/FGSM-PGI)
+* [Prior-Guided Adversarial Initialization for Fast Adversarial Training](https://arxiv.org/abs/2207.08859)<br>:star:[code](https://github.com/jiaxiaojunQAQ/FGSM-PGI)<br>:newspaper:[ECCV 2022 | 一种基于先验指导的对抗样本初始化方法](https://mp.weixin.qq.com/s/8YhVEuE6kGIk8Qe6zxVW7w)
 * [BIPS: Bi-modal Indoor Panorama Synthesis via Residual Depth-Aided Adversarial Learning](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136760331.pdf)<br>:star:[code](https://github.com/chang9711/BIPS)
 * [Decoupled Adversarial Contrastive Learning for Self-supervised Adversarial Robustness](https://arxiv.org/abs/2207.10899)<br>:open_mouth:oral:star:[code](https://github.com/pantheon5100/DeACL)
 * [RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN](https://arxiv.org/abs/2208.10608)<br>:star:[code](https://github.com/huyvnphan/ECCV2022-RIBAC)
@@ -1987,7 +1987,7 @@
   * [Trapped in Texture Bias? A Large Scale Comparison of Deep Instance Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136680597.pdf)<br>:star:[code](https://github.com/JohannesTheo/trapped-in-texture-bias)
   * [Learning with Free Object Segments for Long-Tailed Instance Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700648.pdf)<br>:star:[code](https://github.com/czhang0528/FreeSeg)
   * [A Simple Single-Scale Vision Transformer for Object Detection and Instance Segmentation](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136700697.pdf)<br>:star:[code](https://github.com/tensorflow/models/tree/master/official/projects/uvit)
-  * [Box2Mask: Weakly Supervised 3D Semantic Instance Segmentation Using Bounding Boxes](Box2Mask: Weakly Supervised 3D Semantic Instance Segmentation Using Bounding Boxes)<br>:house:[project](https://virtualhumans.mpi-inf.mpg.de/box2mask/)
+  * [Box2Mask: Weakly Supervised 3D Semantic Instance Segmentation Using Bounding Boxes](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136910666.pdf)<br>:house:[project](https://virtualhumans.mpi-inf.mpg.de/box2mask/)
   * [Learning to Detect Every Thing in an Open World](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840265.pdf)<br>:house:[project](https://ksaito-ut.github.io/openworld_ldet/)  
 * 全景分割
   * [Pointly-Supervised Panoptic Segmentation](https://arxiv.org/abs/2210.13950)<br>:star:[code](https://github.com/BraveGroup/PSPS)
@@ -2010,7 +2010,7 @@
 * 手分割
   * [Generative Adversarial Network for Future Hand Segmentation from Egocentric Video](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730638.pdf)<br>:house:[project](https://vjwq.github.io/EgoGAN/)
 * 零件分割
- * [Improving Few-Shot Part Segmentation Using Coarse Supervision](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900282.pdf) 
+  * [Improving Few-Shot Part Segmentation Using Coarse Supervision](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136900282.pdf) 
 * 场景分割
   * [Master of All: Simultaneous Generalization of Urban-Scene Segmentation to All Adverse Weather Conditions](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136990051.pdf)<br>:house:[project](https://mall-iitd.github.io/)
 
