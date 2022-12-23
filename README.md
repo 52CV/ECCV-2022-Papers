@@ -402,6 +402,7 @@
 * [Difficulty-Aware Simulator for Open Set Recognition](https://arxiv.org/abs/2207.10024)<br>:star:[code](https://github.com/wjun0830/Difficulty-Aware-Simulator) 
 
 <a name="36"/>
+
 ## 36.Machine Learning(机器学习)
 * [Predicting is not Understanding: Recognizing and Addressing Underspecification in Machine Learning](https://arxiv.org/abs/2207.02598)
 
