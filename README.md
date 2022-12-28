@@ -55,7 +55,7 @@
 * Best Demo Award
   * [Using a Smartphone for Augmented Reality in a Classroom]
 * Everingham Prize
-  【The UCF101 and HMD51 dataset teams】&【Walter J. Scheirer 】
+  * 【The UCF101 and HMD51 dataset teams】&【Walter J. Scheirer 】
   
 <a name="61"/>
 
