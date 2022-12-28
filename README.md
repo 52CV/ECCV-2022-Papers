@@ -43,7 +43,20 @@
 |[57.Scene Graph Generation(场景图生成)](#57)|[58.Human Motion Prediction(人体动作预测)](#58)|[59.Image Matching(图像匹配)](#59)|[60.Data Augmentation(数据增强)](#60)|
 |[61.Light Field(光学、几何、光场成像)](#61)|
 
-
+## :trophy::trophy::trophy: 获奖论文
+* 最佳论文奖
+  * [On the Versatile Uses of Partial Distance Correlation in Deep Learning](https://arxiv.org/abs/2207.09684)<br>:star:[code](https://github.com/zhenxingjian/Partial_Distance_Correlation)
+* 最佳论文荣誉奖
+  * [A Level Set Theory for Neural Implicit Evolution under Explicit Flows](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620699.pdf)
+  * [Pose-NDF: Modeling Human Pose Manifolds with Neural Distance Fields](https://virtualhumans.mpi-inf.mpg.de/papers/tiwari22posendf/posendf.pdf)<br>:star:[code](https://github.com/garvita-tiwari/PoseNDF)
+* Koenderink Prize (test of time)
+  * [A naturalistic open source movie for optical flow evaluation]
+  * [Indoor Segmentation and Support Inference from RGBD Images]
+* Best Demo Award
+  * [Using a Smartphone for Augmented Reality in a Classroom]
+* Everingham Prize
+  【The UCF101 and HMD51 dataset teams】&【Walter J. Scheirer 】
+  
 <a name="61"/>
 
 ## 61.Light Field(光学、几何、光场成像)
@@ -2081,7 +2094,6 @@
 * [SelectionConv: Convolutional Neural Networks for Non-rectilinear Image Data](https://arxiv.org/abs/2207.08979)
 * [Overcoming Shortcut Learning in a Target Domain by Generalizing Basic Visual Factors from a Source Domain](https://arxiv.org/abs/2207.10002)<br>:star:[code](https://github.com/boschresearch/sourcegen)
 * [Discrete-Constrained Regression for Local Counting Models](https://arxiv.org/abs/2207.09865)
-* [On the Versatile Uses of Partial Distance Correlation in Deep Learning](https://arxiv.org/abs/2207.09684)<br>:star:[code](https://github.com/zhenxingjian/Partial_Distance_Correlation)
 * [Streamable Neural Fields](https://arxiv.org/abs/2207.09663)<br>:star:[code](https://github.com/jwcho5576/streamable_nf)
 * [Contributions of Shape, Texture, and Color in Visual Recognition](https://arxiv.org/abs/2207.09510)<br>:star:[code](https://github.com/gyhandy/Humanoid-Vision-Engine)
 * [Single Frame Atmospheric Turbulence Mitigation: A Benchmark Study and A New Physics-Inspired Transformer Model](https://arxiv.org/abs/2207.10040)
@@ -2128,7 +2140,6 @@
 * [A Kendall Shape Space Approach to 3D Shape Estimation from 2D Landmarks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620354.pdf)
 * [DeepShadow: Neural Shape from Shadow](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620403.pdf)<br>:star:[code](https://github.com/asafkar/deep_shadow):house:[project](https://asafkar.github.io/deepshadow/)
 * [Intrinsic Neural Fields: Learning Functions on Manifolds](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620609.pdf)
-* [A Level Set Theory for Neural Implicit Evolution under Explicit Flows](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620699.pdf)
 * [Unsupervised Pose-Aware Part Decomposition for Man-Made Articulated Objects](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630549.pdf)
 * [MeshUDF: Fast and Differentiable Meshing of Unsigned Distance Field Networks](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630566.pdf)
 * [S2N: Suppression-Strengthen Network for Event-Based Recognition under Variant Illuminations](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630701.pdf)<br>:star:[code](https://github.com/wanzengy/S2N-Suppression-Strengthen-Network)
